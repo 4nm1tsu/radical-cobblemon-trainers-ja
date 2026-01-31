@@ -1,0 +1,36 @@
+{
+  "name": "Interviewers Oli \u0026 Roxy",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "marill",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "charm",
+        "slam",
+        "bounce"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wooper",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "watergun",
+        "raindance",
+        "mudshot",
+        "mist"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

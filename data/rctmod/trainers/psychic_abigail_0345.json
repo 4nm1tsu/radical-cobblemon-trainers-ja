@@ -1,0 +1,50 @@
+{
+  "name": "Psychic Abigail",
+  "team": [
+    {
+      "species": "gastly",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "lick",
+        "confuseray",
+        "payback",
+        "curse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "misdreavus",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "confusion",
+        "astonish",
+        "confuseray",
+        "hex"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "kadabra",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "disable",
+        "psybeam",
+        "psychocut"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

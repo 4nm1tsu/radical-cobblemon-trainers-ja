@@ -1,0 +1,130 @@
+{
+  "name": "Ace Trainer Berke",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "seel",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "adamant",
+      "ability": "hydration",
+      "moveset": [
+        "takedown",
+        "aurorabeam",
+        "icywind",
+        "growl"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "lonely",
+      "ability": "sturdy",
+      "moveset": [
+        "rockblast",
+        "magnitude",
+        "rockthrow",
+        "mudsport"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "kingler",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "gentle",
+      "ability": "battlearmor",
+      "moveset": [
+        "guillotine",
+        "stomp",
+        "mudshot",
+        "bubble"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "slam",
+        "sandstorm",
+        "dragonbreath",
+        "rockthrow"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "cloyster",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "docile",
+      "ability": "skilllink",
+      "moveset": [
+        "spikecannon",
+        "aurorabeam",
+        "supersonic",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

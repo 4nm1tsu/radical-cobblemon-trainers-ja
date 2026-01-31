@@ -1,0 +1,35 @@
+{
+  "name": "Bird Keeper Autumn",
+  "team": [
+    {
+      "species": "murkrow",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "bashful",
+      "ability": "insomnia",
+      "moveset": [
+        "assurance",
+        "taunt",
+        "aircutter",
+        "tailwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "honchkrow",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "bashful",
+      "ability": "insomnia",
+      "moveset": [
+        "astonish",
+        "wingattack",
+        "swagger",
+        "foulplay"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

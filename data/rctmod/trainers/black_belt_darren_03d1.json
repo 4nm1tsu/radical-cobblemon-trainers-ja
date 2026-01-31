@@ -1,0 +1,50 @@
+{
+  "name": "Black Belt Darren",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "leer",
+        "scaryface",
+        "vitalthrow",
+        "poisonjab"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "lowkick",
+        "vitalthrow",
+        "thief",
+        "fling"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "vitalthrow",
+        "poisonjab"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

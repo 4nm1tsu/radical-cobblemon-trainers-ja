@@ -1,0 +1,115 @@
+{
+  "name": "Scientist Gideon",
+  "team": [
+    {
+      "species": "voltorb",
+      "gender": "GENDERLESS",
+      "level": 46,
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "swift",
+        "screech",
+        "spark",
+        "sonicboom"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "electrode",
+      "gender": "GENDERLESS",
+      "level": 46,
+      "nature": "adamant",
+      "ability": "soundproof",
+      "moveset": [
+        "spark",
+        "sonicboom",
+        "screech",
+        "charge"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "magnemite",
+      "gender": "GENDERLESS",
+      "level": 46,
+      "nature": "lonely",
+      "ability": "magnetpull",
+      "moveset": [
+        "screech",
+        "swift",
+        "spark",
+        "thunderwave"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "magneton",
+      "gender": "GENDERLESS",
+      "level": 46,
+      "nature": "gentle",
+      "ability": "magnetpull",
+      "moveset": [
+        "triattack",
+        "spark",
+        "thunderwave",
+        "sonicboom"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "porygon",
+      "gender": "GENDERLESS",
+      "level": 46,
+      "nature": "naughty",
+      "ability": "trace",
+      "moveset": [
+        "triattack",
+        "shadowball",
+        "recover",
+        "psybeam"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

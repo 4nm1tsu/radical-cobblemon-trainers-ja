@@ -1,0 +1,21 @@
+{
+  "name": "Mike",
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "murkrow",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "bashful",
+      "ability": "insomnia",
+      "moveset": [
+        "peck",
+        "astonish",
+        "gust",
+        "wingattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tuber Jacky",
+  "team": [
+    {
+      "species": "buizel",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "aquajet",
+        "irontail"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

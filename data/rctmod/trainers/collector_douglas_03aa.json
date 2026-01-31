@@ -1,0 +1,50 @@
+{
+  "name": "Collector Douglas",
+  "team": [
+    {
+      "species": "roselia",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "calm",
+      "ability": "poisonpoint",
+      "moveset": [
+        "megadrain",
+        "leechseed",
+        "magicalleaf",
+        "toxicspikes"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "roselia",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "calm",
+      "ability": "poisonpoint",
+      "moveset": [
+        "poisonsting",
+        "megadrain",
+        "leechseed",
+        "magicalleaf"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "roselia",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "calm",
+      "ability": "poisonpoint",
+      "moveset": [
+        "poisonsting",
+        "megadrain",
+        "leechseed",
+        "magicalleaf"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

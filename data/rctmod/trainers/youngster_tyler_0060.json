@@ -1,0 +1,27 @@
+{
+  "name": "Youngster Tyler",
+  "team": [
+    {
+      "species": "eiscue",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "relaxed",
+      "ability": "iceface",
+      "moveset": [
+        "mist",
+        "weatherball",
+        "icywind",
+        "headbutt"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

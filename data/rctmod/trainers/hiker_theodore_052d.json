@@ -1,0 +1,35 @@
+{
+  "name": "Hiker Theodore",
+  "team": [
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "tackle",
+        "smackdown",
+        "curse",
+        "screech"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "smackdown",
+        "curse",
+        "screech"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

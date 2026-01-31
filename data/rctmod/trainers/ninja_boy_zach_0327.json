@@ -1,0 +1,50 @@
+{
+  "name": "Ninja Boy Zach",
+  "team": [
+    {
+      "species": "zubat",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "meanlook"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zubat",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "meanlook"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zubat",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "meanlook",
+        "astonish",
+        "poisonfang"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

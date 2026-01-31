@@ -1,0 +1,27 @@
+{
+  "name": "Sailor Phillip",
+  "team": [
+    {
+      "species": "meditite",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "sassy",
+      "ability": "hugepower",
+      "moveset": [
+        "bulletpunch",
+        "calmmind",
+        "mindreader",
+        "highjumpkick"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

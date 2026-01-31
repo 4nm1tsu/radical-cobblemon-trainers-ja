@@ -1,0 +1,35 @@
+{
+  "name": "Ace Trainer Sandra",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "granbull",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "payback",
+        "playrough",
+        "outrage",
+        "scaryface"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

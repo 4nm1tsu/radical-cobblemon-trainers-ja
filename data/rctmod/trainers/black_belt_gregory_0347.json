@@ -1,0 +1,50 @@
+{
+  "name": "Black Belt Gregory",
+  "team": [
+    {
+      "species": "meditite",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "detect",
+        "feint",
+        "forcepalm",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "scaryface"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meditite",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "detect",
+        "feint",
+        "forcepalm",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

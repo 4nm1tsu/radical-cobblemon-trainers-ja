@@ -1,0 +1,50 @@
+{
+  "name": "Collector Eugene",
+  "team": [
+    {
+      "species": "clefairy",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "sassy",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "encore",
+        "growl",
+        "minimize"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "clefairy",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "sassy",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "growl",
+        "minimize",
+        "lifedew"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "clefairy",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "sassy",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "growl",
+        "minimize",
+        "lifedew"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

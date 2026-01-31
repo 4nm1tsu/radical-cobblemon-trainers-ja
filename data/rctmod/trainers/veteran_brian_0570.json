@@ -1,0 +1,65 @@
+{
+  "name": "Veteran Brian",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "floatzel",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "crunch",
+        "growl",
+        "tailwhip",
+        "waterfall"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "girafarig",
+      "gender": "FEMALE",
+      "level": 59,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "astonish",
+        "stomp",
+        "crunch",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "focusenergy",
+        "knockoff",
+        "dualchop",
+        "seismictoss"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

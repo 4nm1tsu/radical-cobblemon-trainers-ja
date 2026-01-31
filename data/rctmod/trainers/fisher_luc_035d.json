@@ -1,0 +1,76 @@
+{
+  "name": "Fisher Luc",
+  "team": [
+    {
+      "species": "magikarp",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magikarp",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magikarp",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "icefang",
+        "waterfall",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

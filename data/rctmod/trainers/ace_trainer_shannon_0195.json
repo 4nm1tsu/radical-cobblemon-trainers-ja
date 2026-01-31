@@ -1,0 +1,130 @@
+{
+  "name": "Ace Trainer Shannon",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "beedrill",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "relaxed",
+      "ability": "swarm",
+      "moveset": [
+        "pinmissile",
+        "twineedle",
+        "agility",
+        "pursuit"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "butterfree",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "quirky",
+      "ability": "compoundeyes",
+      "moveset": [
+        "safeguard",
+        "psybeam",
+        "gust",
+        "supersonic"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "parasect",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "mild",
+      "ability": "dryskin",
+      "moveset": [
+        "spore",
+        "leechlife",
+        "slash",
+        "growth"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "venonat",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "brave",
+      "ability": "tintedlens",
+      "moveset": [
+        "psybeam",
+        "stunspore",
+        "leechlife",
+        "disable"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "venomoth",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "brave",
+      "ability": "tintedlens",
+      "moveset": [
+        "psybeam",
+        "gust",
+        "supersonic",
+        "leechlife"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Worker Jackson",
+  "team": [
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "smackdown",
+        "sandtomb",
+        "irontail",
+        "sandstorm"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "screech",
+        "irontail",
+        "rocktomb",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "screech",
+        "irontail",
+        "rocktomb",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

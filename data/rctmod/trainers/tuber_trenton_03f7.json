@@ -1,0 +1,35 @@
+{
+  "name": "Tuber Trenton",
+  "team": [
+    {
+      "species": "shellos",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "hasty",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "shellos",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "hasty",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "waterpulse",
+        "ancientpower",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Burglar",
+  "identity": "Burglar (2)",
+  "team": [
+    {
+      "species": "vulpix",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "hasty",
+      "ability": "flashfire",
+      "moveset": [
+        "willowisp",
+        "feintattack",
+        "hex",
+        "flameburst"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "firefang",
+        "scaryface",
+        "thunderpunch",
+        "flameburst"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "ponyta",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "mild",
+      "ability": "runaway",
+      "moveset": [
+        "lowkick",
+        "willowisp",
+        "flamecharge",
+        "firespin"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

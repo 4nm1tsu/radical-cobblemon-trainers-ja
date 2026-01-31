@@ -1,0 +1,65 @@
+{
+  "name": "Veteran Brenden",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "purugly",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "relaxed",
+      "ability": "thickfat",
+      "moveset": [
+        "hypnosis",
+        "aerialace",
+        "retaliate",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "harden",
+        "smackdown",
+        "bulldoze",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "poisonfang",
+        "quickguard",
+        "aircutter",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

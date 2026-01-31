@@ -1,0 +1,20 @@
+{
+  "name": "Lass Molly",
+  "team": [
+    {
+      "species": "misdreavus",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "meanlook",
+        "shadowball",
+        "nastyplot"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

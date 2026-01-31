@@ -1,0 +1,68 @@
+{
+  "name": "Commanders Mars \u0026 Jupiter",
+  "identity": "Commander Mars",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "bronzor",
+      "gender": "GENDERLESS",
+      "level": 41,
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "gyroball",
+        "reflect"
+      ],
+      "ivs": {
+        "hp": 15,
+        "def": 15,
+        "spd": 15
+      },
+      "evs": {
+        "hp": 68,
+        "def": 68,
+        "spd": 68
+      }
+    },
+    {
+      "species": "bronzor",
+      "gender": "GENDERLESS",
+      "level": 41,
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "extrasensory",
+        "lightscreen"
+      ],
+      "ivs": {
+        "hp": 15,
+        "def": 15,
+        "spd": 15
+      },
+      "evs": {
+        "hp": 68,
+        "def": 68,
+        "spd": 68
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Hiker Franklin",
+  "team": [
+    {
+      "species": "timburr",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "serious",
+      "ability": "guts",
+      "moveset": [
+        "focusenergy",
+        "bide",
+        "lowkick",
+        "rockthrow"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "rollout",
+        "spark",
+        "rockthrow",
+        "smackdown"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {},
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ]
+}

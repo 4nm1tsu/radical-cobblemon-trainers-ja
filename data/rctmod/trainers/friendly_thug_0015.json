@@ -1,0 +1,64 @@
+{
+  "name": "Friendly Thug",
+  "team": [
+    {
+      "species": "lopunny",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "jolly",
+      "ability": "cutecharm",
+      "moveset": [
+        "fakeout",
+        "frustration",
+        "closecombat",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:lopunnite",
+        "life_orb"
+      ]
+    },
+    {
+      "species": "toxtricity",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "timid",
+      "ability": "punkrock",
+      "moveset": [
+        "boomburst",
+        "overdrive",
+        "sludgewave",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "assault_vest"
+      ]
+    }
+  ]
+}

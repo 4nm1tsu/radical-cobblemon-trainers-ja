@@ -1,0 +1,20 @@
+{
+  "name": "Black Belt Kendal",
+  "team": [
+    {
+      "species": "croagunk",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "hardy",
+      "ability": "anticipation",
+      "moveset": [
+        "mudslap",
+        "revenge",
+        "suckerpunch",
+        "poisonjab"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

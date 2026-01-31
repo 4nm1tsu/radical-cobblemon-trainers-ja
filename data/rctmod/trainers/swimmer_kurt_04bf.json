@@ -1,0 +1,20 @@
+{
+  "name": "Swimmer Kurt",
+  "team": [
+    {
+      "species": "crawdaunt",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "relaxed",
+      "ability": "hypercutter",
+      "moveset": [
+        "taunt",
+        "nightslash",
+        "crabhammer",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

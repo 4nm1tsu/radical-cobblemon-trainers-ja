@@ -1,0 +1,27 @@
+{
+  "name": "Swimmer♂ Jack",
+  "team": [
+    {
+      "species": "starmie",
+      "gender": "GENDERLESS",
+      "level": 65,
+      "nature": "bold",
+      "ability": "naturalcure",
+      "moveset": [
+        "recover",
+        "psybeam",
+        "confuseray",
+        "meteorbeam"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

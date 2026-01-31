@@ -1,0 +1,35 @@
+{
+  "name": "Guitarist Preston",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "bite",
+        "voltswitch",
+        "thunderwave",
+        "irontail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bibarel",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "jolly",
+      "ability": "simple",
+      "moveset": [
+        "yawn",
+        "thunderbolt",
+        "bulldoze",
+        "waterfall"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ranchers Beth",
+  "team": [
+    {
+      "species": "ponyta",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "sassy",
+      "ability": "runaway",
+      "moveset": [
+        "tackle",
+        "growl",
+        "tailwhip",
+        "flamecharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

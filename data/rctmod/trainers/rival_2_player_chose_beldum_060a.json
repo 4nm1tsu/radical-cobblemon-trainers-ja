@@ -1,0 +1,53 @@
+{
+  "name": "Rival Wayne",
+  "team": [
+    {
+      "species": "swinub",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "hardy",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "iceshard",
+        "powdersnow",
+        "flail"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "gible",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "jolly",
+      "ability": "roughskin",
+      "moveset": [
+        "sandattack",
+        "metalclaw",
+        "sandstorm",
+        "firefang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

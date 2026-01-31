@@ -1,0 +1,114 @@
+{
+  "name": "Rival Terry",
+  "team": [
+    {
+      "species": "pidgeotto",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "adamant",
+      "ability": "tangledfeet",
+      "moveset": [
+        "quickattack",
+        "takedown",
+        "whirlwind",
+        "return"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "bite",
+        "thrash",
+        "leer"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "helpinghand",
+        "flamewheel",
+        "reversal",
+        "firefang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "kadabra",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "bashful",
+      "ability": "innerfocus",
+      "moveset": [
+        "teleport",
+        "confusion",
+        "hiddenpower",
+        "disable"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "lonely",
+      "ability": "overgrow",
+      "moveset": [
+        "sleeppowder",
+        "sludge",
+        "megadrain",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    }
+  ]
+}

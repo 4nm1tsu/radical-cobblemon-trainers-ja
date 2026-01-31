@@ -1,0 +1,20 @@
+{
+  "name": "Swimmer Gabrielle",
+  "team": [
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "calm",
+      "ability": "cloudnine",
+      "moveset": [
+        "aquajet",
+        "zenheadbutt",
+        "screech",
+        "aquatail"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

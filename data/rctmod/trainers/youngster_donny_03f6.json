@@ -1,0 +1,35 @@
+{
+  "name": "Youngster Donny",
+  "team": [
+    {
+      "species": "gastly",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "lick",
+        "meanlook",
+        "payback",
+        "hex"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "shadowpunch",
+        "lick",
+        "meanlook",
+        "hex"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

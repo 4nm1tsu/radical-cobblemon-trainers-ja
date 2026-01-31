@@ -1,0 +1,49 @@
+{
+  "name": "Fisher Cory",
+  "team": [
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "finneon",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "attract",
+        "raindance",
+        "gust",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlpool",
+        "brine",
+        "waterfall",
+        "raindance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

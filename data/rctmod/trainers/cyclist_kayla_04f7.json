@@ -1,0 +1,20 @@
+{
+  "name": "Cyclist Kayla",
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "tailwhip",
+        "nuzzle",
+        "spark",
+        "slam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

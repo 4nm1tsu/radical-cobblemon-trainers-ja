@@ -1,0 +1,49 @@
+{
+  "name": "Fisherman Chip",
+  "team": [
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "mild",
+      "ability": "clearbody",
+      "moveset": [
+        "bubblebeam",
+        "barrier",
+        "poisonjab",
+        "scald"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "barraskewda",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "bite",
+        "agility",
+        "dive",
+        "laserfocus"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Bug Catcher Brandon",
+  "team": [
+    {
+      "species": "kricketot",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "timid",
+      "ability": "shedskin",
+      "moveset": [
+        "growl",
+        "pound",
+        "strugglebug"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wurmple",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "timid",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

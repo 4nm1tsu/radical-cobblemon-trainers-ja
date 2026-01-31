@@ -1,0 +1,49 @@
+{
+  "name": "Ranger Nicolas",
+  "team": [
+    {
+      "species": "victreebel",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "impish",
+      "ability": "chlorophyll",
+      "moveset": [
+        "razorleaf",
+        "acid",
+        "stunspore",
+        "wrap"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "victreebel",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "naive",
+      "ability": "chlorophyll",
+      "moveset": [
+        "razorleaf",
+        "acid",
+        "sleeppowder",
+        "slam"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Cassandra",
+  "team": [
+    {
+      "species": "finneon",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "bashful",
+      "ability": "stormdrain",
+      "moveset": [
+        "attract",
+        "raindance",
+        "gust",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pelipper",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "bold",
+      "ability": "drizzle",
+      "moveset": [
+        "wingattack",
+        "waterpulse",
+        "stockpile",
+        "swallow"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Youngster Austin",
+  "team": [
+    {
+      "species": "starly",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "docile",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "wingattack",
+        "doubleteam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rockpolish",
+        "rollout"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "chimchar",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "leer",
+        "taunt",
+        "furyswipes",
+        "flamewheel"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

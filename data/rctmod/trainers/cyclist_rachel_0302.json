@@ -1,0 +1,35 @@
+{
+  "name": "Cyclist Rachel",
+  "team": [
+    {
+      "species": "shinx",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "thundershock",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "shinx",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "thundershock",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

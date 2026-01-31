@@ -1,0 +1,125 @@
+{
+  "name": "Gatekeeper Logan",
+  "team": [
+    {
+      "species": "yanmega",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "timid",
+      "ability": "tintedlens",
+      "moveset": [
+        "bugbuzz",
+        "airslash",
+        "uturn",
+        "gigadrain"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "choice_specs"
+      ]
+    },
+    {
+      "species": "arcanine",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "headsmash",
+        "flareblitz",
+        "accelerock",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "def": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "hard_stone"
+      ],
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "altaria",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "jolly",
+      "ability": "naturalcure",
+      "moveset": [
+        "dragondance",
+        "return",
+        "earthquake",
+        "roost"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "def": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:altarianite",
+        "life_orb"
+      ]
+    },
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "liquidation",
+        "aquajet",
+        "crunch",
+        "icepunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "def": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    }
+  ]
+}

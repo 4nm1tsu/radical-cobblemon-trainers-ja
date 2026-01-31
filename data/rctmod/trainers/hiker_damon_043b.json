@@ -1,0 +1,50 @@
+{
+  "name": "Hiker Damon",
+  "team": [
+    {
+      "species": "zubat",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "supersonic",
+        "astonish",
+        "poisonfang",
+        "aircutter"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "smackdown",
+        "curse",
+        "screech",
+        "sandtomb"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "poisonfang",
+        "aircutter"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

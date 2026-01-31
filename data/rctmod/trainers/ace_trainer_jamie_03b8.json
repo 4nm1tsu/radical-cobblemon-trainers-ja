@@ -1,0 +1,35 @@
+{
+  "name": "Ace Trainer Jamie",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "metagross",
+      "gender": "GENDERLESS",
+      "level": 56,
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "meteormash",
+        "hammerarm",
+        "psychic",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

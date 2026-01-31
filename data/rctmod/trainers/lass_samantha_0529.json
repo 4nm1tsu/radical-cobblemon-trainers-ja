@@ -1,0 +1,19 @@
+{
+  "name": "Lass Samantha",
+  "team": [
+    {
+      "species": "roselia",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "gigadrain",
+        "toxic",
+        "petalblizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

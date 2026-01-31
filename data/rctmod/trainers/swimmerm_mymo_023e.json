@@ -1,0 +1,49 @@
+{
+  "name": "Swimmer♂ Mymo",
+  "team": [
+    {
+      "species": "kingler",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "sassy",
+      "ability": "hypercutter",
+      "moveset": [
+        "metalclaw",
+        "stomp",
+        "slash",
+        "slam"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "lax",
+      "ability": "torrent",
+      "moveset": [
+        "skullbash",
+        "irondefense",
+        "raindance",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

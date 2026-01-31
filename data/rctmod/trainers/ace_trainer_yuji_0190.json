@@ -1,0 +1,130 @@
+{
+  "name": "Ace Trainer Yuji",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "hasty",
+      "ability": "sandveil",
+      "moveset": [
+        "slash",
+        "swift",
+        "sandattack",
+        "poisonsting"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "rockblast",
+        "magnitude",
+        "mudsport",
+        "defensecurl"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "mild",
+      "ability": "rockhead",
+      "moveset": [
+        "dragonbreath",
+        "sandstorm",
+        "rockthrow",
+        "bind"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "brave",
+      "ability": "rockhead",
+      "moveset": [
+        "rockblast",
+        "magnitude",
+        "rollout",
+        "defensecurl"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "bonemerang",
+        "headbutt",
+        "leer",
+        "growl"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

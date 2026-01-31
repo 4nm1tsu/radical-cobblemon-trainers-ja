@@ -1,0 +1,49 @@
+{
+  "name": "Cue Ball Raul",
+  "team": [
+    {
+      "species": "poliwrath",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hypnosis",
+        "doubleslap",
+        "dynamicpunch",
+        "circlethrow"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "bold",
+      "ability": "guts",
+      "moveset": [
+        "submission",
+        "bulkup",
+        "crosschop",
+        "scaryface"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

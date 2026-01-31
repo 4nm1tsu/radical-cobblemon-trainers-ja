@@ -1,0 +1,71 @@
+{
+  "name": "Tamer Edgar",
+  "team": [
+    {
+      "species": "arbok",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "hardy",
+      "ability": "shedskin",
+      "moveset": [
+        "coil",
+        "jawlock",
+        "belch",
+        "haze"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "relaxed",
+      "ability": "rivalry",
+      "moveset": [
+        "chipaway",
+        "thrash",
+        "earthpower",
+        "megahorn"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "bewear",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "serious",
+      "ability": "klutz",
+      "moveset": [
+        "thrash",
+        "painsplit",
+        "doubleedge",
+        "superpower"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    }
+  ]
+}

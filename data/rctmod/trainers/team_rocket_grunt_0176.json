@@ -1,0 +1,116 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (28)",
+  "team": [
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "brave",
+      "ability": "sniper",
+      "moveset": [
+        "leechlife",
+        "dualwingbeat",
+        "haze",
+        "venoshock"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "purugly",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "naughty",
+      "ability": "owntempo",
+      "moveset": [
+        "assist",
+        "captivate",
+        "bodyslam",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "lunatone",
+      "gender": "GENDERLESS",
+      "level": 46,
+      "nature": "hasty",
+      "ability": "levitate",
+      "moveset": [
+        "futuresight",
+        "stoneedge",
+        "photongeyser",
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "stonjourner",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "docile",
+      "ability": "powerspot",
+      "moveset": [
+        "stomp",
+        "stealthrock",
+        "rockslide",
+        "bodyslam"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "bruxish",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "rash",
+      "ability": "strongjaw",
+      "moveset": [
+        "crunch",
+        "aquatail",
+        "screech",
+        "psychicfangs"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

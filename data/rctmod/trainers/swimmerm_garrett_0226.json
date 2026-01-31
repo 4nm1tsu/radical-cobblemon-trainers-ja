@@ -1,0 +1,120 @@
+{
+  "name": "Swimmer♂ Garrett",
+  "team": [
+    {
+      "species": "mantine",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "timid",
+      "ability": "stormdrain",
+      "moveset": [
+        "thunder",
+        "sludgewave",
+        "waterpulse",
+        "hiddenpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "air_balloon"
+      ],
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "milotic",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "competitive",
+      "moveset": [
+        "surf"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "choice_scarf"
+      ]
+    },
+    {
+      "species": "greninja",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "timid",
+      "ability": "protean",
+      "moveset": [
+        "surf",
+        "icebeam",
+        "darkpulse",
+        "extrasensory"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "choice_specs"
+      ]
+    },
+    {
+      "species": "lapras",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "modest",
+      "ability": "waterabsorb",
+      "moveset": [
+        "boomburst",
+        "blizzard",
+        "dracometeor",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "leftovers"
+      ]
+    }
+  ]
+}

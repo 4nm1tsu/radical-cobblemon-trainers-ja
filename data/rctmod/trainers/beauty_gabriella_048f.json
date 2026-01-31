@@ -1,0 +1,20 @@
+{
+  "name": "Beauty Gabriella",
+  "team": [
+    {
+      "species": "finneon",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "bashful",
+      "ability": "swiftswim",
+      "moveset": [
+        "attract",
+        "raindance",
+        "gust",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

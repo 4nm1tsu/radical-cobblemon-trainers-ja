@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Katelyn",
+  "team": [
+    {
+      "species": "buizel",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "impish",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "aquajet"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "medicham",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "bashful",
+      "ability": "purepower",
+      "moveset": [
+        "zenheadbutt",
+        "thunderpunch",
+        "icepunch",
+        "forcepalm"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "seaking",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "careful",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "waterpulse",
+        "hornattack",
+        "aquaring"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

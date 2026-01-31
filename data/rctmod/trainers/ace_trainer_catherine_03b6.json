@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Catherine",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "misdreavus",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "growl",
+        "confuseray",
+        "hex",
+        "trickroom"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "drifblim",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "jolly",
+      "ability": "flareboost",
+      "moveset": [
+        "phantomforce",
+        "strengthsap",
+        "minimize",
+        "fly"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

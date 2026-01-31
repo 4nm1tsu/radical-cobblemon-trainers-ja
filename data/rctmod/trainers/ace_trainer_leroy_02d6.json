@@ -1,0 +1,130 @@
+{
+  "name": "Ace Trainer Leroy",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rhydon",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "earthquake",
+        "horndrill",
+        "rockblast",
+        "scaryface"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "slowbro",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "timid",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "headbutt",
+        "amnesia",
+        "disable"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "kangaskhan",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "mild",
+      "ability": "scrappy",
+      "moveset": [
+        "dizzypunch",
+        "bite",
+        "endure",
+        "reversal"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "crosschop",
+        "vitalthrow",
+        "revenge",
+        "seismictoss"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "ursaring",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "careful",
+      "ability": "quickfeet",
+      "moveset": [
+        "slash",
+        "feintattack",
+        "snore",
+        "rest"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

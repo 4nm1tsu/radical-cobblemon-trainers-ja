@@ -1,0 +1,118 @@
+{
+  "name": "Swimmer♀ Anya",
+  "team": [
+    {
+      "species": "quagsire",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "raindance",
+        "mist",
+        "haze",
+        "muddywater"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "seaking",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "quiet",
+      "ability": "lightningrod",
+      "moveset": [
+        "waterfall",
+        "soak",
+        "megahorn",
+        "fishiousrend"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "alomomola",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "adamant",
+      "ability": "healer",
+      "moveset": [
+        "safeguard",
+        "whirlpool",
+        "helpinghand",
+        "healingwish"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "jellicent",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "naughty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "raindance",
+        "hex",
+        "hydropump",
+        "wringout"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "basculin",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "finalgambit",
+        "liquidation",
+        "headsmash",
+        "waterfall"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {},
+      "aspects": [
+        "blue_striped"
+      ]
+    }
+  ]
+}

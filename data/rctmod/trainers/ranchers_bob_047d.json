@@ -1,0 +1,20 @@
+{
+  "name": "Ranchers Bob",
+  "team": [
+    {
+      "species": "buizel",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "watergun",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Aroma Lady Angela",
+  "team": [
+    {
+      "species": "turtwig",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "irontail",
+        "bulletseed"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

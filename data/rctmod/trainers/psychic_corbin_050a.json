@@ -1,0 +1,35 @@
+{
+  "name": "Psychic Corbin",
+  "team": [
+    {
+      "species": "banette",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "adamant",
+      "ability": "insomnia",
+      "moveset": [
+        "shadowforce",
+        "suckerpunch",
+        "shadowsneak",
+        "curse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dusclops",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "curse",
+        "willowisp",
+        "payback",
+        "shadowsneak"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

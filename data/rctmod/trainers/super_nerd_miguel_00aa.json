@@ -1,0 +1,108 @@
+{
+  "name": "Super Nerd Miguel",
+  "team": [
+    {
+      "species": "thwackey",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "bashful",
+      "ability": "grassysurge",
+      "moveset": [
+        "fakeout",
+        "razorleaf",
+        "knockoff",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "eviolite"
+      ]
+    },
+    {
+      "species": "voltorb",
+      "gender": "GENDERLESS",
+      "level": 88,
+      "nature": "naive",
+      "ability": "reckless",
+      "moveset": [
+        "magicalleaf",
+        "selfdestruct",
+        "voltswitch",
+        "hiddenpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 30,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "focus_sash"
+      ],
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "bibarel",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "careful",
+      "ability": "simple",
+      "moveset": [
+        "headbutt",
+        "aquajet",
+        "curse",
+        "rocksmash"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "grassy_seed"
+      ]
+    },
+    {
+      "species": "sableye",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "careful",
+      "ability": "prankster",
+      "moveset": [
+        "willowisp",
+        "recover",
+        "protect",
+        "foulplay"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "leftovers"
+      ]
+    }
+  ]
+}

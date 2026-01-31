@@ -1,0 +1,71 @@
+{
+  "name": "Channeler Angelica",
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "confuseray",
+        "suckerpunch",
+        "shadowball"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "lampent",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "imprison",
+        "hex",
+        "memento",
+        "inferno"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "shedinja",
+      "gender": "GENDERLESS",
+      "level": 37,
+      "nature": "brave",
+      "ability": "wonderguard",
+      "moveset": [
+        "mindreader",
+        "confuseray",
+        "shadowball",
+        "grudge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

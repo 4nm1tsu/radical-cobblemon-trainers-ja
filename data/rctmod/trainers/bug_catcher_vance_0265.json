@@ -1,0 +1,49 @@
+{
+  "name": "Bug Catcher Vance",
+  "team": [
+    {
+      "species": "venonat",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "bashful",
+      "ability": "tintedlens",
+      "moveset": [
+        "leechlife",
+        "zenheadbutt",
+        "poisonfang",
+        "psychic"
+      ],
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {}
+    },
+    {
+      "species": "venomoth",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "lax",
+      "ability": "tintedlens",
+      "moveset": [
+        "sleeppowder",
+        "leechlife",
+        "zenheadbutt",
+        "poisonfang"
+      ],
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {}
+    }
+  ]
+}

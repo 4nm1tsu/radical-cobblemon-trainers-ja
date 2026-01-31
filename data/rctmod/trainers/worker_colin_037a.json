@@ -1,0 +1,35 @@
+{
+  "name": "Worker Colin",
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "sandstorm",
+        "rockpolish"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "bold",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "harden",
+        "bind",
+        "rockthrow"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

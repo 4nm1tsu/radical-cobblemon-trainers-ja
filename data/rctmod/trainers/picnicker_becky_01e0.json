@@ -1,0 +1,52 @@
+{
+  "name": "Picnicker Becky",
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "mild",
+      "ability": "static",
+      "moveset": [
+        "tailwhip",
+        "quickattack",
+        "thunderbolt",
+        "extremespeed"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "relaxed",
+      "ability": "surgesurfer",
+      "moveset": [
+        "speedswap",
+        "thundershock",
+        "quickattack",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {},
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ]
+}

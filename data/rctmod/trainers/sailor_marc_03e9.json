@@ -1,0 +1,20 @@
+{
+  "name": "Sailor Marc",
+  "team": [
+    {
+      "species": "mantyke",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "supersonic",
+        "bubblebeam",
+        "airslash",
+        "aquaring"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

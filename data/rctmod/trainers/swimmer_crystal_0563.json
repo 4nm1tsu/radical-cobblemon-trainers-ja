@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Crystal",
+  "team": [
+    {
+      "species": "pelipper",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "timid",
+      "ability": "drizzle",
+      "moveset": [
+        "tailwind",
+        "growl",
+        "waterpulse",
+        "hurricane"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "seaking",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "peck",
+        "waterfall",
+        "megahorn",
+        "horndrill"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Camper Ricky",
+  "team": [
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "gentle",
+      "ability": "torrent",
+      "moveset": [
+        "waterpulse",
+        "bite",
+        "fakeout",
+        "detect"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

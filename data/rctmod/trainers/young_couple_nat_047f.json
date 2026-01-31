@@ -1,0 +1,21 @@
+{
+  "name": "Nat",
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "misdreavus",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "growl",
+        "confusion",
+        "astonish",
+        "confuseray"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

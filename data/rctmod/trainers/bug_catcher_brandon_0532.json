@@ -1,0 +1,35 @@
+{
+  "name": "Bug Catcher Brandon",
+  "team": [
+    {
+      "species": "kricketune",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "absorb",
+        "sing",
+        "focusenergy",
+        "bugbuzz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "beautifly",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "aircutter",
+        "gigadrain",
+        "bugbuzz",
+        "quiverdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Biker Ernest",
+  "team": [
+    {
+      "species": "weezing",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "hasty",
+      "ability": "levitate",
+      "moveset": [
+        "smokescreen",
+        "explosion",
+        "smog",
+        "painsplit"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "weezing",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "flamethrower",
+        "willowisp"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "weezing",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "thunderbolt",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "salazzle",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "bashful",
+      "ability": "corrosion",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "flamethrower",
+        "nastyplot"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "minimize",
+        "sludgebomb",
+        "shadowball",
+        "destinybond"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Skier Shawn",
+  "team": [
+    {
+      "species": "snover",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "hasty",
+      "ability": "snowwarning",
+      "moveset": [
+        "leer",
+        "iceshard",
+        "razorleaf",
+        "icywind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snover",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "hasty",
+      "ability": "snowwarning",
+      "moveset": [
+        "mist",
+        "iceshard",
+        "razorleaf",
+        "icywind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "hasty",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "waterpulse",
+        "zenheadbutt",
+        "soak"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snover",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "hasty",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "razorleaf",
+        "icywind",
+        "ingrain"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

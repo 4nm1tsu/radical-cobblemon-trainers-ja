@@ -1,0 +1,35 @@
+{
+  "name": "Battle Girl Helen",
+  "team": [
+    {
+      "species": "meditite",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "jolly",
+      "ability": "purepower",
+      "moveset": [
+        "lowkick",
+        "forcepalm",
+        "psybeam",
+        "highjumpkick"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "lowsweep",
+        "knockoff",
+        "strength",
+        "dualchop"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

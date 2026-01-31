@@ -1,0 +1,65 @@
+{
+  "name": "Poké Kid Meghan",
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "spark",
+        "lightscreen"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "charm",
+        "doubleteam",
+        "spark",
+        "lightscreen"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "charm",
+        "electroball",
+        "agility",
+        "lightscreen"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "charm",
+        "nastyplot",
+        "thunderbolt",
+        "lightscreen"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

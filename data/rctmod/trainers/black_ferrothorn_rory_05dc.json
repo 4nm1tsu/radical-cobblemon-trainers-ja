@@ -1,0 +1,57 @@
+{
+  "name": "Black Ferrothorn Rory",
+  "team": [
+    {
+      "species": "weezing",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "sludgebomb",
+        "heatwave",
+        "thunderbolt",
+        "strangesteam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "def": 252,
+        "spa": 252
+      }
+    },
+    {
+      "species": "muk",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "modest",
+      "ability": "gooey",
+      "moveset": [
+        "sludgewave",
+        "sludgebomb",
+        "moonblast",
+        "mudbomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "def": 252,
+        "spa": 252
+      }
+    }
+  ]
+}

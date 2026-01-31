@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Allen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "gastly",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "meanlook",
+        "payback",
+        "hex",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "meanlook",
+        "shadowpunch",
+        "hex",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "meanlook",
+        "nightshade",
+        "hex",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

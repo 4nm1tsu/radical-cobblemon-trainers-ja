@@ -1,0 +1,50 @@
+{
+  "name": "Jogger Craig",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "charge",
+        "bite",
+        "spark"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "staravia",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "aerialace",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "smartstrike",
+        "megahorn",
+        "tailwhip",
+        "flamewheel"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

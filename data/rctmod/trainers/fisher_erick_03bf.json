@@ -1,0 +1,50 @@
+{
+  "name": "Fisher Erick",
+  "team": [
+    {
+      "species": "goldeen",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "waterpulse",
+        "raindance",
+        "poisonjab"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "barboach",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "adamant",
+      "ability": "hydration",
+      "moveset": [
+        "mudslap",
+        "waterpulse",
+        "rocktomb",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlpool",
+        "scaryface",
+        "substitute",
+        "scald"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

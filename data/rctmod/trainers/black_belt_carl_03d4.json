@@ -1,0 +1,35 @@
+{
+  "name": "Black Belt Carl",
+  "team": [
+    {
+      "species": "croagunk",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "hardy",
+      "ability": "dryskin",
+      "moveset": [
+        "poisonjab",
+        "suckerpunch",
+        "revenge",
+        "flatter"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "sassy",
+      "ability": "noguard",
+      "moveset": [
+        "knockoff",
+        "dynamicpunch",
+        "seismictoss",
+        "focusenergy"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

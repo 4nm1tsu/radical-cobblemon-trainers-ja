@@ -1,0 +1,27 @@
+{
+  "name": "Breeder Bethany",
+  "team": [
+    {
+      "species": "chansey",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "careful",
+      "ability": "serenegrace",
+      "moveset": [
+        "fling",
+        "healpulse",
+        "eggbomb",
+        "lightscreen"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

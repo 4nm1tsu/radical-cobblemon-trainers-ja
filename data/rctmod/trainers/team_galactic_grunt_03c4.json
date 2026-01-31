@@ -1,0 +1,21 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (2)",
+  "team": [
+    {
+      "species": "zubat",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "meanlook"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

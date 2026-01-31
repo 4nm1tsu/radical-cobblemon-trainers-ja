@@ -1,0 +1,65 @@
+{
+  "name": "Veteran Armando",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "staravia",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "bravebird",
+        "takedown",
+        "quickattack",
+        "uturn"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pelipper",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "modest",
+      "ability": "drizzle",
+      "moveset": [
+        "stockpile",
+        "airslash",
+        "roost",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "poisonfang",
+        "bite",
+        "astonish",
+        "supersonic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

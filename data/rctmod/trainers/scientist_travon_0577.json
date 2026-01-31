@@ -1,0 +1,20 @@
+{
+  "name": "Scientist Travon",
+  "team": [
+    {
+      "species": "kadabra",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "sassy",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "disable",
+        "psybeam",
+        "reflect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

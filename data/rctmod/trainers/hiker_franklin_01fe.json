@@ -1,0 +1,49 @@
+{
+  "name": "Hiker Franklin",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "quiet",
+      "ability": "guts",
+      "moveset": [
+        "seismictoss",
+        "revenge",
+        "knockoff",
+        "vitalthrow"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "rockthrow",
+        "smackdown",
+        "bulldoze",
+        "selfdestruct"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

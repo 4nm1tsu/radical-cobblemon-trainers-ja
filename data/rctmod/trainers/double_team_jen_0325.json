@@ -1,0 +1,20 @@
+{
+  "name": "Double Team Jen",
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thunderpunch",
+        "nuzzle",
+        "thunderbolt",
+        "lightscreen"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

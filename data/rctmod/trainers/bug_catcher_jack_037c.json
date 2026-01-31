@@ -1,0 +1,44 @@
+{
+  "name": "Bug Catcher Jack",
+  "team": [
+    {
+      "species": "wurmple",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "naive",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "silcoon",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "naive",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "beautifly",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "gust",
+        "absorb"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

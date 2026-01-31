@@ -1,0 +1,20 @@
+{
+  "name": "Interviewers Roxy",
+  "team": [
+    {
+      "species": "wooper",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "watergun",
+        "raindance",
+        "mudshot",
+        "mist"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

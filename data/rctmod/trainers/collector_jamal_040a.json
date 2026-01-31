@@ -1,0 +1,50 @@
+{
+  "name": "Collector Jamal",
+  "team": [
+    {
+      "species": "buizel",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "tailwhip",
+        "watergun",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "buizel",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "watergun",
+        "bite",
+        "swift"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "buizel",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "aquajet"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

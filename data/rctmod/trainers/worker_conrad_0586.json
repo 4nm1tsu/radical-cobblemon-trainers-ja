@@ -1,0 +1,20 @@
+{
+  "name": "Worker Conrad",
+  "team": [
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "sassy",
+      "ability": "runaway",
+      "moveset": [
+        "smartstrike",
+        "poisonjab",
+        "tailwhip",
+        "flamewheel"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

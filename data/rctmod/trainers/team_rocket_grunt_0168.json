@@ -1,0 +1,71 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (14)",
+  "team": [
+    {
+      "species": "ariados",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "lax",
+      "ability": "noguard",
+      "moveset": [
+        "poisonjab",
+        "nightshade",
+        "leechlife",
+        "furyswipes"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "weezing",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "hardy",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "selfdestruct",
+        "sludge",
+        "smokescreen",
+        "haze"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "centiskorch",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "clearbody",
+      "moveset": [
+        "firelash",
+        "lunge",
+        "flamecharge"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

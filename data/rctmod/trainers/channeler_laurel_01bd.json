@@ -1,0 +1,49 @@
+{
+  "name": "Channeler Laurel",
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "brave",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "confuseray",
+        "suckerpunch",
+        "shadowball"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "misdreavus",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "hex",
+        "psybeam",
+        "painsplit",
+        "payback"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

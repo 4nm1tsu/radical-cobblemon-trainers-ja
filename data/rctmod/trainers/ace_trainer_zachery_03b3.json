@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Zachery",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "steelix",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderfang",
+        "screech",
+        "irontail",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "medicham",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "jolly",
+      "ability": "purepower",
+      "moveset": [
+        "zenheadbutt",
+        "thunderpunch",
+        "reversal",
+        "rocktomb"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

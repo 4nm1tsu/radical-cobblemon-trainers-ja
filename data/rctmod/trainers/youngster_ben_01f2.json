@@ -1,0 +1,49 @@
+{
+  "name": "Youngster Ben",
+  "team": [
+    {
+      "species": "raticate",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "mild",
+      "ability": "guts",
+      "moveset": [
+        "pursuit",
+        "zenheadbutt",
+        "crunch",
+        "return"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "docile",
+      "ability": "shedskin",
+      "moveset": [
+        "stockpile",
+        "swallow",
+        "spitup",
+        "poisonfang"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

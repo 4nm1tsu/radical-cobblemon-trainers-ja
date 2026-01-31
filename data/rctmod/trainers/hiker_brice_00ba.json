@@ -1,0 +1,71 @@
+{
+  "name": "Hiker Brice",
+  "team": [
+    {
+      "species": "sudowoodo",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "naughty",
+      "ability": "rockhead",
+      "moveset": [
+        "feintattack",
+        "tearfullook",
+        "rocktomb",
+        "block"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "carbink",
+      "gender": "GENDERLESS",
+      "level": 30,
+      "nature": "lonely",
+      "ability": "clearbody",
+      "moveset": [
+        "smackdown",
+        "reflect",
+        "stealthrock",
+        "guardsplit"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "minior",
+      "gender": "GENDERLESS",
+      "level": 30,
+      "nature": "serious",
+      "ability": "shieldsdown",
+      "moveset": [
+        "ancientpower",
+        "selfdestruct",
+        "stealthrock",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

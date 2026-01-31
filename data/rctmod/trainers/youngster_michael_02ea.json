@@ -1,0 +1,33 @@
+{
+  "name": "Youngster Michael",
+  "team": [
+    {
+      "species": "bidoof",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "docile",
+      "ability": "unaware",
+      "moveset": [
+        "tackle",
+        "growl",
+        "defensecurl"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zubat",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

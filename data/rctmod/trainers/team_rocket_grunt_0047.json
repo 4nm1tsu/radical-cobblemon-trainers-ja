@@ -1,0 +1,50 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (2)",
+  "team": [
+    {
+      "species": "weavile",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "rash",
+      "ability": "pressure",
+      "moveset": [
+        "nightslash",
+        "snatch",
+        "punishment",
+        "darkpulse"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "obstagoon",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "bashful",
+      "ability": "guts",
+      "moveset": [
+        "counter",
+        "taunt",
+        "doubleedge",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

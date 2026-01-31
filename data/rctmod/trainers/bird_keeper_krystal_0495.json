@@ -1,0 +1,50 @@
+{
+  "name": "Bird Keeper Krystal",
+  "team": [
+    {
+      "species": "dodrio",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "impish",
+      "ability": "earlybird",
+      "moveset": [
+        "drillpeck",
+        "lunge",
+        "quickattack",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "fearow",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "hardy",
+      "ability": "keeneye",
+      "moveset": [
+        "drillrun",
+        "drillpeck",
+        "roost",
+        "assurance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "honchkrow",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "docile",
+      "ability": "insomnia",
+      "moveset": [
+        "nightslash",
+        "swagger",
+        "foulplay",
+        "wingattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

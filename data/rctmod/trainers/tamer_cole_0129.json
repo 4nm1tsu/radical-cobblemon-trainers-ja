@@ -1,0 +1,49 @@
+{
+  "name": "Tamer Cole",
+  "team": [
+    {
+      "species": "arbok",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "swallow",
+        "spitup",
+        "poisonfang",
+        "coil"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "tauros",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "rest",
+        "payback",
+        "workup",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    }
+  ]
+}

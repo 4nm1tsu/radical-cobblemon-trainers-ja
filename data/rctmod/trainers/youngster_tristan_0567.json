@@ -1,0 +1,20 @@
+{
+  "name": "Youngster Tristan",
+  "team": [
+    {
+      "species": "staravia",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "aerialace",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Swimmer♂ Roland",
+  "team": [
+    {
+      "species": "poliwhirl",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "lonely",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bellydrum",
+        "wakeupslap",
+        "hydropump",
+        "mudbomb"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "ludicolo",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "brave",
+      "ability": "swiftswim",
+      "moveset": [
+        "astonish",
+        "growl",
+        "megadrain",
+        "naturepower"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "seismitoad",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "rash",
+      "ability": "swiftswim",
+      "moveset": [
+        "drainpunch",
+        "echoedvoice",
+        "hydropump",
+        "hypervoice"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

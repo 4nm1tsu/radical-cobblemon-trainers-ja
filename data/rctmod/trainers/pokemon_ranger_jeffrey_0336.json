@@ -1,0 +1,35 @@
+{
+  "name": "Pokémon Ranger Jeffrey",
+  "team": [
+    {
+      "species": "prinplup",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "charm",
+        "peck",
+        "bubblebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "prinplup",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "tackle",
+        "peck",
+        "bubblebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

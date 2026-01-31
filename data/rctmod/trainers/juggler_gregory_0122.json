@@ -1,0 +1,26 @@
+{
+  "name": "Juggler Gregory",
+  "team": [
+    {
+      "species": "mrmime",
+      "gender": "FEMALE",
+      "level": 83,
+      "nature": "naughty",
+      "ability": "solidrock",
+      "moveset": [
+        "psychic",
+        "dazzlinggleam",
+        "psychic"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

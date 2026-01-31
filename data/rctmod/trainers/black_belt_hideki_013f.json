@@ -1,0 +1,55 @@
+{
+  "name": "Black Belt Hideki",
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "lax",
+      "ability": "guts",
+      "moveset": [
+        "rockslide",
+        "dynamicpunch",
+        "scaryface",
+        "hammerarm"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    },
+    {
+      "species": "breloom",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "forcepalm",
+        "mindreader",
+        "skyuppercut",
+        "seedbomb"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    }
+  ]
+}

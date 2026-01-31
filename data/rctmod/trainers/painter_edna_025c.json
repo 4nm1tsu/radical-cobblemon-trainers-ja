@@ -1,0 +1,27 @@
+{
+  "name": "Painter Edna",
+  "team": [
+    {
+      "species": "smeargle",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "mild",
+      "ability": "owntempo",
+      "moveset": [
+        "fakeout",
+        "extremespeed",
+        "protect",
+        "quickattack"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

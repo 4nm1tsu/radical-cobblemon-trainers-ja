@@ -1,0 +1,27 @@
+{
+  "name": "Channeler Stacy",
+  "team": [
+    {
+      "species": "gothitelle",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "naughty",
+      "ability": "competitive",
+      "moveset": [
+        "futuresight",
+        "shadowball",
+        "psychic",
+        "charm"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

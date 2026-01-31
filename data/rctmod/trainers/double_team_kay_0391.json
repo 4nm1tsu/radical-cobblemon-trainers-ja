@@ -1,0 +1,20 @@
+{
+  "name": "Double Team Kay",
+  "team": [
+    {
+      "species": "whiscash",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "impish",
+      "ability": "oblivious",
+      "moveset": [
+        "zenheadbutt",
+        "tickle",
+        "muddywater",
+        "earthquake"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

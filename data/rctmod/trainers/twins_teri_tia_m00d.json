@@ -1,0 +1,36 @@
+{
+  "name": "Twins Teri \u0026 Tia",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "thunderbolt",
+        "lightscreen",
+        "growl"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "clefable",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "lifedew",
+        "followme",
+        "cosmicpower",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

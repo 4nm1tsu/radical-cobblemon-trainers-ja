@@ -1,0 +1,49 @@
+{
+  "name": "Burglar Dusty",
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "quickattack",
+        "confuseray",
+        "safeguard"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "pyroar",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "gentle",
+      "ability": "unnerve",
+      "moveset": [
+        "crunch",
+        "hypervoice",
+        "incinerate",
+        "overheat"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

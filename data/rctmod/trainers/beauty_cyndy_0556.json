@@ -1,0 +1,20 @@
+{
+  "name": "Beauty Cyndy",
+  "team": [
+    {
+      "species": "purugly",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "aerialace",
+        "bodyslam",
+        "attract",
+        "honeclaws"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

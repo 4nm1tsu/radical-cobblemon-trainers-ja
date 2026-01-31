@@ -1,0 +1,20 @@
+{
+  "name": "Cameraman Tevin",
+  "team": [
+    {
+      "species": "pachirisu",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "sassy",
+      "ability": "pickup",
+      "moveset": [
+        "charm",
+        "quickattack",
+        "spark",
+        "endure"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

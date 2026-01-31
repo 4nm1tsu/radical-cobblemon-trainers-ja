@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Mary",
+  "team": [
+    {
+      "species": "marill",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "tailwhip",
+        "bubblebeam",
+        "playrough",
+        "raindance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pelipper",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "bold",
+      "ability": "drizzle",
+      "moveset": [
+        "airslash",
+        "growl",
+        "wingattack",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

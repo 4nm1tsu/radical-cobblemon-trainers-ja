@@ -1,0 +1,20 @@
+{
+  "name": "Aroma Lady Elizabeth",
+  "team": [
+    {
+      "species": "roselia",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "calm",
+      "ability": "poisonpoint",
+      "moveset": [
+        "stunspore",
+        "leechseed",
+        "magicalleaf",
+        "gigadrain"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

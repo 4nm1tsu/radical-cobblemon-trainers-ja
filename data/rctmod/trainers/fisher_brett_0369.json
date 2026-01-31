@@ -1,0 +1,48 @@
+{
+  "name": "Fisher Brett",
+  "team": [
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "finneon",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "raindance",
+        "aquaring",
+        "whirlpool",
+        "uturn"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "feebas",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "sassy",
+      "ability": "oblivious",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

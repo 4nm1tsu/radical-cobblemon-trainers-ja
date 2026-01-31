@@ -1,0 +1,20 @@
+{
+  "name": "Double Team Zac",
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "twister",
+        "waterfall",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

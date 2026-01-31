@@ -1,0 +1,20 @@
+{
+  "name": "Guitarist Tony",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "spark",
+        "thunderwave",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

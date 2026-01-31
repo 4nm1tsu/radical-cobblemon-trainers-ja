@@ -1,0 +1,72 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (42)",
+  "team": [
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 45,
+      "nature": "brave",
+      "ability": "sniper",
+      "moveset": [
+        "leechlife",
+        "dualwingbeat",
+        "haze",
+        "venoshock"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "sharpedo",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "sassy",
+      "ability": "roughskin",
+      "moveset": [
+        "icefang",
+        "poisonfang",
+        "crunch",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "hypno",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "rash",
+      "ability": "forewarn",
+      "moveset": [
+        "psychup",
+        "synchronoise",
+        "psychic",
+        "swagger"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Police Officer Danny",
+  "team": [
+    {
+      "species": "noctowl",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "psychoshift",
+        "airslash",
+        "extrasensory",
+        "roost"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "dualchop"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

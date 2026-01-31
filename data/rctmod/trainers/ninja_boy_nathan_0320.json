@@ -1,0 +1,35 @@
+{
+  "name": "Ninja Boy Nathan",
+  "team": [
+    {
+      "species": "croagunk",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "docile",
+      "ability": "anticipation",
+      "moveset": [
+        "poisonsting",
+        "mudslap",
+        "astonish",
+        "venoshock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "astonish",
+        "meanlook",
+        "poisonfang"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

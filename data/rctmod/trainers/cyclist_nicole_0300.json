@@ -1,0 +1,35 @@
+{
+  "name": "Cyclist Nicole",
+  "team": [
+    {
+      "species": "starly",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "quirky",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "growl",
+        "quickattack",
+        "wingattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ponyta",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "jolly",
+      "ability": "runaway",
+      "moveset": [
+        "tackle",
+        "growl",
+        "tailwhip",
+        "flamecharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

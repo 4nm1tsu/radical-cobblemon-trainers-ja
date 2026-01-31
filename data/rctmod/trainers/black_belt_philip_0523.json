@@ -1,0 +1,20 @@
+{
+  "name": "Black Belt Philip",
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "knockoff",
+        "dualchop",
+        "bulkup",
+        "dynamicpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

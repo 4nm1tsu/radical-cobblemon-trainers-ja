@@ -1,0 +1,20 @@
+{
+  "name": "Black Belt Adam",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "focusenergy",
+        "lowsweep",
+        "knockoff"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

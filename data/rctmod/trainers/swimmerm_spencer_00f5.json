@@ -1,0 +1,49 @@
+{
+  "name": "Swimmer♂ Spencer",
+  "team": [
+    {
+      "species": "inteleon",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "naive",
+      "ability": "torrent",
+      "moveset": [
+        "liquidation",
+        "soak",
+        "raindance",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "calm",
+      "ability": "liquidooze",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

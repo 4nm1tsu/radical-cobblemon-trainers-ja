@@ -1,0 +1,53 @@
+{
+  "name": "Young Couple Gia \u0026 Jes",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "toxtricity",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "lonely",
+      "ability": "plus",
+      "moveset": [
+        "screech",
+        "swagger",
+        "toxic",
+        "discharge"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "toxtricity",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "naive",
+      "ability": "minus",
+      "moveset": [
+        "screech",
+        "swagger",
+        "toxic",
+        "discharge"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "aspects": [
+        "low_key"
+      ]
+    }
+  ]
+}

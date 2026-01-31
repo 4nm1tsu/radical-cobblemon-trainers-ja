@@ -1,0 +1,35 @@
+{
+  "name": "Pokémon Ranger Krista",
+  "team": [
+    {
+      "species": "trapinch",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "hardy",
+      "ability": "hypercutter",
+      "moveset": [
+        "crunch",
+        "sandtomb",
+        "dig",
+        "sandstorm"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vibrava",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "supersonic",
+        "bugbuzz",
+        "earthpower",
+        "dragonbreath"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

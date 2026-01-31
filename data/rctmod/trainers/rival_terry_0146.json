@@ -1,0 +1,26 @@
+{
+  "name": "Rival Terry",
+  "team": [
+    {
+      "species": "squirtle",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "mild",
+      "ability": "torrent",
+      "moveset": [
+        "tackle",
+        "falseswipe",
+        "tailwhip"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

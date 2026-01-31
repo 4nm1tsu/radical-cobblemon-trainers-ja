@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Wade",
+  "team": [
+    {
+      "species": "carvanha",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "hardy",
+      "ability": "roughskin",
+      "moveset": [
+        "crunch",
+        "aquajet",
+        "agility",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "carvanha",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "hardy",
+      "ability": "roughskin",
+      "moveset": [
+        "crunch",
+        "aquajet",
+        "agility",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sharpedo",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "hardy",
+      "ability": "roughskin",
+      "moveset": [
+        "crunch",
+        "aquajet",
+        "agility",
+        "icefang"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Shadow Grunt",
+  "team": [
+    {
+      "species": "meowstic",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "bold",
+      "ability": "prankster",
+      "moveset": [
+        "psyshock",
+        "helpinghand",
+        "reflect",
+        "psychicterrain"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "terrain_extender"
+      ]
+    },
+    {
+      "species": "oranguru",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "calm",
+      "ability": "innerfocus",
+      "moveset": [
+        "zenheadbutt",
+        "instruct",
+        "lightscreen",
+        "psychicterrain"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 4,
+        "spd": 252
+      }
+    }
+  ]
+}

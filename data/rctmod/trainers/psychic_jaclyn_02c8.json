@@ -1,0 +1,71 @@
+{
+  "name": "Psychic Jaclyn",
+  "team": [
+    {
+      "species": "natu",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "lonely",
+      "ability": "synchronize",
+      "moveset": [
+        "psychic",
+        "confuseray",
+        "futuresight",
+        "wish"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "slowbro",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "naive",
+      "ability": "oblivious",
+      "moveset": [
+        "psychic",
+        "headbutt",
+        "amnesia",
+        "yawn"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "kadabra",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "modest",
+      "ability": "synchronize",
+      "moveset": [
+        "psychic",
+        "futuresight",
+        "recover",
+        "reflect"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

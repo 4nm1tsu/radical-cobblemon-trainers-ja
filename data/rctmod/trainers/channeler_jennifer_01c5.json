@@ -1,0 +1,27 @@
+{
+  "name": "Channeler Jennifer",
+  "team": [
+    {
+      "species": "chimecho",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "jolly",
+      "ability": "levitate",
+      "moveset": [
+        "extrasensory",
+        "healbell",
+        "uproar",
+        "safeguard"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

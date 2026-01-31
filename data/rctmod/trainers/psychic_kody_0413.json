@@ -1,0 +1,20 @@
+{
+  "name": "Psychic Kody",
+  "team": [
+    {
+      "species": "meditite",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "lowkick",
+        "confusion",
+        "detect",
+        "feint"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

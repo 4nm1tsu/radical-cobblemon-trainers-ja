@@ -1,0 +1,20 @@
+{
+  "name": "Rich Boy Roman",
+  "team": [
+    {
+      "species": "sudowoodo",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "stoneedge",
+        "hammerarm",
+        "woodhammer",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

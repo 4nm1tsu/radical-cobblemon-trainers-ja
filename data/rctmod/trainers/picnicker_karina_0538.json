@@ -1,0 +1,20 @@
+{
+  "name": "Picnicker Karina",
+  "team": [
+    {
+      "species": "empoleon",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "hasty",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "aquajet",
+        "brine",
+        "drillpeck"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (45)",
+  "team": [
+    {
+      "species": "shedinja",
+      "gender": "GENDERLESS",
+      "level": 48,
+      "nature": "quirky",
+      "ability": "wonderguard",
+      "moveset": [
+        "shadowball",
+        "grudge",
+        "healblock",
+        "phantomforce"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "ninjask",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "quirky",
+      "ability": "speedboost",
+      "moveset": [
+        "mindreader",
+        "firstimpression",
+        "swordsdance",
+        "xscissor"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "raticate",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "docile",
+      "ability": "hustle",
+      "moveset": [
+        "suckerpunch",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Lady Melissa",
+  "team": [
+    {
+      "species": "buneary",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "jolly",
+      "ability": "klutz",
+      "moveset": [
+        "pound",
+        "defensecurl",
+        "babydolleyes",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

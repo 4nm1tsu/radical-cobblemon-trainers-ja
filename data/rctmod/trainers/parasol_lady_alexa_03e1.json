@@ -1,0 +1,35 @@
+{
+  "name": "Parasol Lady Alexa",
+  "team": [
+    {
+      "species": "goldeen",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "supersonic",
+        "waterpulse",
+        "hornattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "buizel",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "quickattack",
+        "watergun",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

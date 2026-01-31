@@ -1,0 +1,30 @@
+{
+  "name": "Youngster Calvin",
+  "team": [
+    {
+      "species": "zigzagoon",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "gentle",
+      "ability": "pickup",
+      "moveset": [
+        "lick",
+        "snarl",
+        "headbutt",
+        "babydolleyes"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {},
+      "aspects": [
+        "galarian"
+      ]
+    }
+  ]
+}

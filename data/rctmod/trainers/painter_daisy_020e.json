@@ -1,0 +1,27 @@
+{
+  "name": "Painter Daisy",
+  "team": [
+    {
+      "species": "smeargle",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "brave",
+      "ability": "technician",
+      "moveset": [
+        "dynamicpunch",
+        "dizzypunch",
+        "focuspunch",
+        "megapunch"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

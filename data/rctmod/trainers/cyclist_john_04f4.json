@@ -1,0 +1,35 @@
+{
+  "name": "Cyclist John",
+  "team": [
+    {
+      "species": "staravia",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "growl",
+        "doubleteam",
+        "aerialace",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "staravia",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "aerialace",
+        "takedown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

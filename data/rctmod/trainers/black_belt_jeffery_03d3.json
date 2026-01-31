@@ -1,0 +1,35 @@
+{
+  "name": "Black Belt Jeffery",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "rocktomb"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meditite",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "adamant",
+      "ability": "purepower",
+      "moveset": [
+        "detect",
+        "feint",
+        "forcepalm",
+        "rockslide"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

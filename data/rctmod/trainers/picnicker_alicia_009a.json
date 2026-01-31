@@ -1,0 +1,93 @@
+{
+  "name": "Picnicker Alicia",
+  "team": [
+    {
+      "species": "oddish",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "impish",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sleeppowder",
+        "megadrain",
+        "sludge",
+        "moonlight"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "bellsprout",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "careful",
+      "ability": "chlorophyll",
+      "moveset": [
+        "poisonpowder",
+        "stunspore",
+        "sludge",
+        "megadrain"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "sewaddle",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "lonely",
+      "ability": "swarm",
+      "moveset": [
+        "stringshot",
+        "bugbite",
+        "razorleaf",
+        "strugglebug"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "morelull",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "gentle",
+      "ability": "effectspore",
+      "moveset": [
+        "megadrain",
+        "sleeppowder",
+        "ingrain",
+        "confuseray"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

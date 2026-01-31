@@ -1,0 +1,50 @@
+{
+  "name": "Young Couple Lea \u0026 Jed",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "firespin",
+        "takedown",
+        "inferno",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "quickattack",
+        "confuseray",
+        "safeguard"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

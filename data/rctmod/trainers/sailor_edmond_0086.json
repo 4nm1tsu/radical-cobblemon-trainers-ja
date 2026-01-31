@@ -1,0 +1,77 @@
+{
+  "name": "Sailor Edmond",
+  "team": [
+    {
+      "species": "lileep",
+      "gender": "FEMALE",
+      "level": 93,
+      "nature": "modest",
+      "ability": "stormdrain",
+      "moveset": [
+        "ancientpower",
+        "gigadrain",
+        "earthpower",
+        "hiddenpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 30
+      },
+      "evs": {},
+      "heldItem": [
+        "eviolite"
+      ]
+    },
+    {
+      "species": "lumineon",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "timid",
+      "ability": "stormdrain",
+      "moveset": [
+        "scald",
+        "icebeam",
+        "hiddenpower",
+        "flipturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "gastrodon",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "modest",
+      "ability": "stormdrain",
+      "moveset": [
+        "scald",
+        "earthpower",
+        "protect",
+        "sludgebomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "rindo_berry"
+      ]
+    }
+  ]
+}

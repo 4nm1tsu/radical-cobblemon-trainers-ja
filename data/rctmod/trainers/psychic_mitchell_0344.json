@@ -1,0 +1,35 @@
+{
+  "name": "Psychic Mitchell",
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowpunch",
+        "confuseray",
+        "meanlook",
+        "curse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "kadabra",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "disable",
+        "psybeam",
+        "psychocut"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

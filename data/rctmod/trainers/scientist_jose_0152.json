@@ -1,0 +1,43 @@
+{
+  "name": "Scientist Jose",
+  "team": [
+    {
+      "species": "eelektross",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "naughty",
+      "ability": "levitate",
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "porygon2",
+      "gender": "GENDERLESS",
+      "level": 45,
+      "nature": "mild",
+      "ability": "trace",
+      "moveset": [
+        "aeroblast",
+        "triattack",
+        "thunderbolt",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

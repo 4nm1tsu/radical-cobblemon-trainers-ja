@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Blake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "ambipom",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "hardy",
+      "ability": "pickup",
+      "moveset": [
+        "dualchop",
+        "batonpass",
+        "tickle",
+        "doublehit"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "kadabra",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "kinesis",
+        "recover",
+        "psyshock",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

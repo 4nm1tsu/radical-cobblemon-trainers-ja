@@ -1,0 +1,134 @@
+{
+  "name": "Lance",
+  "identity": "Elite Four Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "dragonrage",
+        "twister",
+        "bite"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "dragonair",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "brave",
+      "ability": "shedskin",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "dragonrage",
+        "outrage"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "dragonair",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "gentle",
+      "ability": "shedskin",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "thunderwave",
+        "outrage"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "hyperbeam",
+        "ancientpower",
+        "wingattack",
+        "scaryface"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "gentle",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "outrage",
+        "wingattack"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "sitrus_berry"
+      ]
+    }
+  ]
+}

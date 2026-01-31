@@ -1,0 +1,49 @@
+{
+  "name": "Swimmer♀ Melissa",
+  "team": [
+    {
+      "species": "slowking",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "careful",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "trumpcard",
+        "psychup",
+        "healpulse"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "gorebyss",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "rash",
+      "ability": "dazzling",
+      "moveset": [
+        "coil",
+        "moonblast",
+        "hydropump",
+        "shellsmash"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

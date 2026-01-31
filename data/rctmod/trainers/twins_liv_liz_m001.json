@@ -1,0 +1,36 @@
+{
+  "name": "Twins Liv \u0026 Liz",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "pachirisu",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pachirisu",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

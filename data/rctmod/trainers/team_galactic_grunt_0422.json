@@ -1,0 +1,35 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (6)",
+  "team": [
+    {
+      "species": "wurmple",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "docile",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zubat",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "serious",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "meanlook"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

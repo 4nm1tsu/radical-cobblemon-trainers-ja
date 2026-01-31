@@ -1,0 +1,20 @@
+{
+  "name": "Lass Samantha",
+  "team": [
+    {
+      "species": "budew",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

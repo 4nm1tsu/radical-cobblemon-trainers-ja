@@ -1,0 +1,20 @@
+{
+  "name": "Hiker Nicholas",
+  "team": [
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "tackle",
+        "harden",
+        "bind",
+        "rockthrow"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

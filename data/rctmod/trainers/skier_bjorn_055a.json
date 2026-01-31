@@ -1,0 +1,35 @@
+{
+  "name": "Skier Bjorn",
+  "team": [
+    {
+      "species": "mantine",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "timid",
+      "ability": "waterabsorb",
+      "moveset": [
+        "psybeam",
+        "roost",
+        "airslash",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sneasel",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "metalclaw",
+        "icywind",
+        "furyswipes",
+        "honeclaws"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

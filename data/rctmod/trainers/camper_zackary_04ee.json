@@ -1,0 +1,20 @@
+{
+  "name": "Camper Zackary",
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "sandstorm",
+        "rockthrow",
+        "smackdown",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

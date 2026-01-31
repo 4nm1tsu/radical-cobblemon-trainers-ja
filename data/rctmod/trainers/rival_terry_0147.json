@@ -1,0 +1,25 @@
+{
+  "name": "Rival Terry",
+  "team": [
+    {
+      "species": "bulbasaur",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "rash",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "growl"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

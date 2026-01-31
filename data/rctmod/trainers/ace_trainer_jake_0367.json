@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Jake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "staravia",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleteam",
+        "endeavor",
+        "whirlwind",
+        "aerialace"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "girafarig",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "assurance",
+        "stomp",
+        "psybeam",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

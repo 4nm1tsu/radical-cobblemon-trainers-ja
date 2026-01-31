@@ -1,0 +1,35 @@
+{
+  "name": "Poké Kid Janet",
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "sweetkiss",
+        "nuzzle",
+        "slam",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "spark",
+        "slam",
+        "thunderbolt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

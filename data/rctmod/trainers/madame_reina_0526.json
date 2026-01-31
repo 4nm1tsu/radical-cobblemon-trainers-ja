@@ -1,0 +1,20 @@
+{
+  "name": "Madame Reina",
+  "team": [
+    {
+      "species": "roselia",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "gigadrain",
+        "toxic",
+        "ingrain",
+        "petaldance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

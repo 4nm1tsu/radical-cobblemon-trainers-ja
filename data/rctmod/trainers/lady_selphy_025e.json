@@ -1,0 +1,55 @@
+{
+  "name": "Lady Selphy",
+  "team": [
+    {
+      "species": "persian",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "bashful",
+      "ability": "limber",
+      "moveset": [
+        "payday",
+        "bite",
+        "taunt",
+        "torment"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {},
+      "heldItem": [
+        "minecraft:gold_nugget"
+      ]
+    },
+    {
+      "species": "persian",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "rash",
+      "ability": "limber",
+      "moveset": [
+        "payday",
+        "scratch",
+        "torment",
+        "taunt"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {},
+      "heldItem": [
+        "minecraft:gold_nugget"
+      ]
+    }
+  ]
+}

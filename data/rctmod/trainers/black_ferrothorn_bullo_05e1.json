@@ -1,0 +1,57 @@
+{
+  "name": "Black Ferrothorn Bullo",
+  "team": [
+    {
+      "species": "bastiodon",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "metalburst",
+        "swagger",
+        "irondefense",
+        "ironhead"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 4,
+        "spd": 252
+      }
+    },
+    {
+      "species": "bisharp",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": [
+        "ironhead",
+        "suckerpunch",
+        "poisonjab",
+        "assurance"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

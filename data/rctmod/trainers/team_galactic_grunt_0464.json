@@ -1,0 +1,36 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (22)",
+  "team": [
+    {
+      "species": "dustox",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "quirky",
+      "ability": "shielddust",
+      "moveset": [
+        "venoshock",
+        "leechlife",
+        "toxic",
+        "bugbuzz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bronzor",
+      "gender": "GENDERLESS",
+      "level": 35,
+      "nature": "hardy",
+      "ability": "heatproof",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "extrasensory",
+        "heavyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

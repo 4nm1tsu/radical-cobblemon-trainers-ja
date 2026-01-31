@@ -1,0 +1,49 @@
+{
+  "name": "Channeler Amanda",
+  "team": [
+    {
+      "species": "dusclops",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "gentle",
+      "ability": "pressure",
+      "moveset": [
+        "curse",
+        "hex",
+        "shadowball",
+        "meanlook"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "cofagrigus",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "lonely",
+      "ability": "mummy",
+      "moveset": [
+        "guardsplit",
+        "shadowball",
+        "grudge",
+        "meanlook"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

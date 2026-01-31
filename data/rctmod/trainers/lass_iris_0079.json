@@ -1,0 +1,27 @@
+{
+  "name": "Lass Iris",
+  "team": [
+    {
+      "species": "milcery",
+      "gender": "FEMALE",
+      "level": 16,
+      "nature": "timid",
+      "ability": "sweetveil",
+      "moveset": [
+        "covet",
+        "sweetkiss",
+        "sweetscent",
+        "drainingkiss"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

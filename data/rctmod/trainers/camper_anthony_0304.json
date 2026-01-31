@@ -1,0 +1,20 @@
+{
+  "name": "Camper Anthony",
+  "team": [
+    {
+      "species": "ponyta",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "hasty",
+      "ability": "runaway",
+      "moveset": [
+        "tackle",
+        "growl",
+        "tailwhip",
+        "flamecharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

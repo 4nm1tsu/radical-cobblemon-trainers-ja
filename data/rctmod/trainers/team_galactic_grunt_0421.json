@@ -1,0 +1,35 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (5)",
+  "team": [
+    {
+      "species": "wurmple",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "quirky",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "cascoon",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "hardy",
+      "ability": "shedskin",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting",
+        "harden"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tuber Conner",
+  "team": [
+    {
+      "species": "remoraid",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "docile",
+      "ability": "sniper",
+      "moveset": [
+        "focusenergy",
+        "bulletseed",
+        "hydropump",
+        "soak"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pokémon Ranger Felicia",
+  "team": [
+    {
+      "species": "lickitung",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "hardy",
+      "ability": "owntempo",
+      "moveset": [
+        "stomp",
+        "knockoff",
+        "powerwhip",
+        "screech"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "vigoroth",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "relaxed",
+      "ability": "vitalspirit",
+      "moveset": [
+        "reversal",
+        "counter",
+        "uproar",
+        "encore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

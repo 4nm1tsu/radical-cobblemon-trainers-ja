@@ -1,0 +1,49 @@
+{
+  "name": "Gambler Jasper",
+  "team": [
+    {
+      "species": "weepinbell",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "naive",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sleeppowder",
+        "poisonpowder",
+        "stunspore",
+        "sludge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "morelull",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "sassy",
+      "ability": "effectspore",
+      "moveset": [
+        "megadrain",
+        "sleeppowder",
+        "ingrain",
+        "confuseray"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

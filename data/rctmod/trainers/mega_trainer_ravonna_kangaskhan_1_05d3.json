@@ -1,0 +1,34 @@
+{
+  "name": "Mega Trainer Ravonna",
+  "team": [
+    {
+      "species": "kangaskhan",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "adamant",
+      "ability": "innerfocus",
+      "moveset": [
+        "hammerarm",
+        "suckerpunch",
+        "yawn",
+        "sleeptalk"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "def": 252
+      },
+      "heldItem": [
+        "chople_berry"
+      ]
+    }
+  ]
+}

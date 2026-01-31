@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Brandi",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pachirisu",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "bashful",
+      "ability": "pickup",
+      "moveset": [
+        "charm",
+        "nuzzle",
+        "swift",
+        "superfang"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "azumarill",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "charm",
+        "aquatail",
+        "playrough",
+        "superpower"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "calm",
+      "ability": "serenegrace",
+      "moveset": [
+        "disarmingvoice",
+        "lifedew",
+        "lightscreen",
+        "lastresort"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

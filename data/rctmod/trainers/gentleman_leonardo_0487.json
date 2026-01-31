@@ -1,0 +1,35 @@
+{
+  "name": "Gentleman Leonardo",
+  "team": [
+    {
+      "species": "starly",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "hardy",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "wingattack",
+        "endeavor"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hoothoot",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "sassy",
+      "ability": "insomnia",
+      "moveset": [
+        "reflect",
+        "psychoshift",
+        "airslash",
+        "extrasensory"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

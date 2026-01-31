@@ -1,0 +1,50 @@
+{
+  "name": "Psychic Bryce",
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "curse",
+        "hex",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "recover",
+        "psyshock",
+        "roleplay",
+        "futuresight"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "sassy",
+      "ability": "cursedbody",
+      "moveset": [
+        "shadowpunch",
+        "confuseray",
+        "hex",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

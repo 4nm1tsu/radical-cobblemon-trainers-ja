@@ -1,0 +1,50 @@
+{
+  "name": "Black Belt Davon",
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "adamant",
+      "ability": "vitalspirit",
+      "moveset": [
+        "finalgambit",
+        "closecombat",
+        "thrash",
+        "crosschop"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "makuhita",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "fakeout",
+        "endure",
+        "reversal",
+        "heavyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hariyama",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "fakeout",
+        "endure",
+        "reversal",
+        "heavyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

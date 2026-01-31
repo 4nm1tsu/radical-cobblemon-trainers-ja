@@ -1,0 +1,93 @@
+{
+  "name": "Bird Keeper Robert",
+  "team": [
+    {
+      "species": "pidgeot",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "modest",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "agility",
+        "airslash",
+        "mirrormove"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "pidgeot",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "jolly",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "agility",
+        "airslash",
+        "mirrormove"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "fearow",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "hardy",
+      "ability": "frisk",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "fearow",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "rash",
+      "ability": "frisk",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Biker Lukas",
+  "team": [
+    {
+      "species": "koffing",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "rash",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "explosion",
+        "destinybond",
+        "belch",
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "koffing",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "jolly",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "explosion",
+        "destinybond",
+        "belch",
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "muk",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "sassy",
+      "ability": "stickyhold",
+      "moveset": [
+        "poisonfang",
+        "screech",
+        "gunkshot",
+        "acidarmor"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "weezing",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "lonely",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "gyroball",
+        "sludgebomb",
+        "explosion",
+        "destinybond"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

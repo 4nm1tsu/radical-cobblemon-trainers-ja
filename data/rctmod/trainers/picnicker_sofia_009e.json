@@ -1,0 +1,71 @@
+{
+  "name": "Picnicker Sofia",
+  "team": [
+    {
+      "species": "carbink",
+      "gender": "GENDERLESS",
+      "level": 35,
+      "nature": "hardy",
+      "ability": "clearbody",
+      "moveset": [
+        "stealthrock",
+        "guardsplit",
+        "ancientpower",
+        "flail"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "snorunt",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "adamant",
+      "ability": "icebody",
+      "moveset": [
+        "bite",
+        "icefang",
+        "headbutt",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "swinub",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "brave",
+      "ability": "snowcloak",
+      "moveset": [
+        "icywind",
+        "icefang",
+        "takedown",
+        "mist"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

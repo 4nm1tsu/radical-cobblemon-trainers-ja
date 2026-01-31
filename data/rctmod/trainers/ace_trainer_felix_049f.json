@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Felix",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dusclops",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "curse",
+        "willowisp",
+        "nightshade",
+        "shadowsneak"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonclaw",
+        "crunch",
+        "flamethrower",
+        "fly"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

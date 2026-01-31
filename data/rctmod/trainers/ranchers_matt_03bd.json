@@ -1,0 +1,20 @@
+{
+  "name": "Ranchers Matt",
+  "team": [
+    {
+      "species": "glameow",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "relaxed",
+      "ability": "limber",
+      "moveset": [
+        "fakeout",
+        "growl",
+        "aerialace",
+        "furyswipes"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

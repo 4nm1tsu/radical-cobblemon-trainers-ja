@@ -1,0 +1,49 @@
+{
+  "name": "Youngster Ben",
+  "team": [
+    {
+      "species": "raticate",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "mild",
+      "ability": "guts",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "arbok",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "jolly",
+      "ability": "shedskin",
+      "moveset": [
+        "poisonfang",
+        "coil",
+        "jawlock",
+        "belch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

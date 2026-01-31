@@ -1,0 +1,128 @@
+{
+  "name": "Friendly Coach (Spe)",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "statusMoveBias": 1,
+      "switchBias": 0,
+      "itemBias": 0
+    }
+  },
+  "team": [
+    {
+      "species": "jumpluff",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "lax",
+      "ability": "leafguard",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "jumpluff",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "bashful",
+      "ability": "leafguard",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "jumpluff",
+      "gender": "FEMALE",
+      "level": 1,
+      "nature": "bashful",
+      "ability": "leafguard",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "jumpluff",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "hasty",
+      "ability": "leafguard",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "jumpluff",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "calm",
+      "ability": "leafguard",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "jumpluff",
+      "gender": "FEMALE",
+      "level": 1,
+      "nature": "calm",
+      "ability": "leafguard",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

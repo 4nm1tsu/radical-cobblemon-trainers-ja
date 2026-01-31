@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Natasha",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dunsparce",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "serious",
+      "ability": "serenegrace",
+      "moveset": [
+        "glare",
+        "doubleedge",
+        "coil",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "scyther",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "careful",
+      "ability": "swarm",
+      "moveset": [
+        "xscissor",
+        "slash",
+        "wingattack",
+        "furycutter"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "bonemerang",
+        "bonerush",
+        "retaliate"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

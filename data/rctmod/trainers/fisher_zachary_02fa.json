@@ -1,0 +1,44 @@
+{
+  "name": "Fisher Zachary",
+  "team": [
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "goldeen",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "relaxed",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "tailwhip",
+        "supersonic",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Sailor Dylan",
+  "team": [
+    {
+      "species": "horsea",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "serious",
+      "ability": "sniper",
+      "moveset": [
+        "watergun",
+        "twister",
+        "bubblebeam",
+        "focusenergy"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "clamperl",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "brave",
+      "ability": "battlearmor",
+      "moveset": [
+        "bubble",
+        "whirlpool",
+        "irondefense",
+        "aurorabeam"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "ducklett",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "naughty",
+      "ability": "frisk",
+      "moveset": [
+        "featherdance",
+        "icywind",
+        "aquaring",
+        "airslash"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

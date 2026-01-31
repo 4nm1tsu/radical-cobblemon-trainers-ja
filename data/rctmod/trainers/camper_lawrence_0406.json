@@ -1,0 +1,35 @@
+{
+  "name": "Camper Lawrence",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "thundershock",
+        "charge",
+        "spark",
+        "voltswitch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "stunky",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "naive",
+      "ability": "stench",
+      "moveset": [
+        "focusenergy",
+        "venoshock",
+        "toxic",
+        "suckerpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

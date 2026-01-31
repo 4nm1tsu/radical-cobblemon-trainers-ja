@@ -1,0 +1,21 @@
+{
+  "name": "Sue",
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "meditite",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "bashful",
+      "ability": "purepower",
+      "moveset": [
+        "lowkick",
+        "detect",
+        "forcepalm",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

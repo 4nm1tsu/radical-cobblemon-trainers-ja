@@ -1,0 +1,17 @@
+{
+  "name": "School Kid Christine",
+  "team": [
+    {
+      "species": "abra",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "chargebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

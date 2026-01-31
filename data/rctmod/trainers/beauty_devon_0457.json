@@ -1,0 +1,20 @@
+{
+  "name": "Beauty Devon",
+  "team": [
+    {
+      "species": "wormadam",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "calm",
+      "ability": "anticipation",
+      "moveset": [
+        "quiverdance",
+        "suckerpunch",
+        "bugbite",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

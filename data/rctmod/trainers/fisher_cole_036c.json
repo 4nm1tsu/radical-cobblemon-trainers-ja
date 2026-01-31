@@ -1,0 +1,50 @@
+{
+  "name": "Fisher Cole",
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlpool",
+        "brine",
+        "waterfall",
+        "raindance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "remoraid",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "hardy",
+      "ability": "sniper",
+      "moveset": [
+        "focusenergy",
+        "psybeam",
+        "aurorabeam",
+        "bubblebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

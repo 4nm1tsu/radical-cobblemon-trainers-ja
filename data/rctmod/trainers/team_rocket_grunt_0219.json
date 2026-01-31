@@ -1,0 +1,50 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (47)",
+  "team": [
+    {
+      "species": "cubone",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "calm",
+      "ability": "battlearmor",
+      "moveset": [
+        "falseswipe",
+        "thrash",
+        "fling",
+        "stompingtantrum"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "rash",
+      "ability": "battlearmor",
+      "moveset": [
+        "rage",
+        "falseswipe",
+        "thrash",
+        "fling"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

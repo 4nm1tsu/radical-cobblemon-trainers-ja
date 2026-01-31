@@ -1,0 +1,28 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (32)",
+  "team": [
+    {
+      "species": "copperajah",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "docile",
+      "ability": "heavymetal",
+      "moveset": [
+        "irondefense",
+        "dig",
+        "strength",
+        "ironhead"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

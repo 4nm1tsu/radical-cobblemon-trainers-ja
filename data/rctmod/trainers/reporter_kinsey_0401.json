@@ -1,0 +1,20 @@
+{
+  "name": "Reporter Kinsey",
+  "team": [
+    {
+      "species": "chatot",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "bold",
+      "ability": "keeneye",
+      "moveset": [
+        "hypervoice",
+        "taunt",
+        "growl",
+        "sing"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "name": "Ace Trainer Paul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "slowpoke",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "jolly",
+      "ability": "oblivious",
+      "moveset": [
+        "headbutt",
+        "confusion",
+        "watergun",
+        "disable"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "shellder",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "jolly",
+      "ability": "battlearmor",
+      "moveset": [
+        "aurorabeam",
+        "clamp",
+        "supersonic",
+        "leer"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "kingler",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "impish",
+      "ability": "hypercutter",
+      "moveset": [
+        "guillotine",
+        "stomp",
+        "mudshot",
+        "bubble"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "starmie",
+      "gender": "GENDERLESS",
+      "level": 42,
+      "nature": "naive",
+      "ability": "naturalcure",
+      "moveset": [
+        "bubblebeam",
+        "swift",
+        "recover",
+        "rapidspin"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "confusion",
+        "scratch",
+        "screech",
+        "disable"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

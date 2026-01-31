@@ -1,0 +1,27 @@
+{
+  "name": "Channeler Jody",
+  "team": [
+    {
+      "species": "dusclops",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "pursuit",
+        "willowisp",
+        "confuseray",
+        "curse"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

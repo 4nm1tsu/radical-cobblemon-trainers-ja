@@ -1,0 +1,50 @@
+{
+  "name": "Poké Fan Leonard",
+  "team": [
+    {
+      "species": "pichu",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "playnice",
+        "nuzzle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pichu",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "playnice",
+        "nuzzle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "thundershock",
+        "quickattack",
+        "electroball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Picnicker Diana",
+  "team": [
+    {
+      "species": "budew",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "timid",
+      "ability": "cloudnine",
+      "moveset": [
+        "scratch",
+        "tailwhip",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

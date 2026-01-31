@@ -1,0 +1,50 @@
+{
+  "name": "Black Belt Ray",
+  "team": [
+    {
+      "species": "tyrogue",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "serious",
+      "ability": "steadfast",
+      "moveset": [
+        "tackle",
+        "helpinghand",
+        "fakeout",
+        "focusenergy"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "bonemerang",
+        "bonerush",
+        "thrash",
+        "stompingtantrum"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "breloom",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "jolly",
+      "ability": "poisonheal",
+      "moveset": [
+        "spore",
+        "drainpunch",
+        "leechseed",
+        "machpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

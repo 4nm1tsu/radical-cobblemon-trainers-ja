@@ -1,0 +1,50 @@
+{
+  "name": "Camper Drew",
+  "team": [
+    {
+      "species": "gastly",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "hypnosis",
+        "meanlook",
+        "curse",
+        "dreameater"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gastly",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "hypnosis",
+        "meanlook",
+        "curse",
+        "dreameater"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gastly",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "hypnosis",
+        "meanlook",
+        "curse",
+        "dreameater"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

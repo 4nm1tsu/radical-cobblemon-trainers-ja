@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Meagan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "delcatty",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "hardy",
+      "ability": "cutecharm",
+      "moveset": [
+        "doubleedge",
+        "playrough",
+        "feintattack",
+        "attract"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "yanma",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "hardy",
+      "ability": "compoundeyes",
+      "moveset": [
+        "airslash",
+        "hypnosis",
+        "detect",
+        "ancientpower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

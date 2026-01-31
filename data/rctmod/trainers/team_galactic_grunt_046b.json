@@ -1,0 +1,51 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (29)",
+  "team": [
+    {
+      "species": "dustox",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "bashful",
+      "ability": "shielddust",
+      "moveset": [
+        "psybeam",
+        "lightscreen",
+        "toxic",
+        "bugbuzz"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "hardy",
+      "ability": "innerfocus",
+      "moveset": [
+        "supersonic",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dustox",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "quirky",
+      "ability": "shielddust",
+      "moveset": [
+        "psybeam",
+        "leechlife",
+        "toxic",
+        "bugbuzz"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

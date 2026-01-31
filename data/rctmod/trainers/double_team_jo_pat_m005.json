@@ -1,0 +1,36 @@
+{
+  "name": "Double Team Jo \u0026 Pat",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "medicham",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "bashful",
+      "ability": "purepower",
+      "moveset": [
+        "zenheadbutt",
+        "firepunch",
+        "forcepalm",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

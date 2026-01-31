@@ -1,0 +1,49 @@
+{
+  "name": "Gentleman Arthur",
+  "team": [
+    {
+      "species": "nidorino",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "quiet",
+      "ability": "poisontouch",
+      "moveset": [
+        "doublekick",
+        "poisonsting",
+        "furyattack",
+        "hornattack"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "zangoose",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "mild",
+      "ability": "toughclaws",
+      "moveset": [
+        "pursuit",
+        "honeclaws",
+        "slash",
+        "revenge"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

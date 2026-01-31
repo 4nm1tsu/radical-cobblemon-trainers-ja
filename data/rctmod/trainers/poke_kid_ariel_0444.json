@@ -1,0 +1,35 @@
+{
+  "name": "Poké Kid Ariel",
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "thundershock",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nastyplot",
+        "thundershock",
+        "doubleteam",
+        "electroball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

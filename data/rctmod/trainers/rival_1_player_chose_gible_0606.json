@@ -1,0 +1,31 @@
+{
+  "name": "Rival Wayne",
+  "team": [
+    {
+      "species": "larvitar",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "bite",
+        "scaryface",
+        "rocktomb",
+        "screech"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spd": 252
+      }
+    }
+  ]
+}

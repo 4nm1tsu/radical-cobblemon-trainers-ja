@@ -1,0 +1,50 @@
+{
+  "name": "Dragon Tamer Joe",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gabite",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "relaxed",
+      "ability": "sandveil",
+      "moveset": [
+        "sandtomb",
+        "bite",
+        "dragonclaw",
+        "dig"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

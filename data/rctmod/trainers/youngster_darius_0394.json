@@ -1,0 +1,33 @@
+{
+  "name": "Youngster Darius",
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 8,
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 8,
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "harden",
+        "bind",
+        "smackdown"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Youngster Chad",
+  "team": [
+    {
+      "species": "arbok",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "poisonfang",
+        "coil",
+        "jawlock",
+        "belch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "docile",
+      "ability": "sandveil",
+      "moveset": [
+        "dig",
+        "gyroball",
+        "swordsdance",
+        "sandstorm"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

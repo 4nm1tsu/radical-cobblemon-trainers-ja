@@ -1,0 +1,20 @@
+{
+  "name": "Lass Cassidy",
+  "team": [
+    {
+      "species": "buneary",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "jolly",
+      "ability": "runaway",
+      "moveset": [
+        "pound",
+        "defensecurl",
+        "babydolleyes",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Cue Ball Isaiah",
+  "team": [
+    {
+      "species": "zangoose",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "relaxed",
+      "ability": "toughclaws",
+      "moveset": [
+        "fakeout",
+        "taunt",
+        "swordsdance",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "seviper",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "brave",
+      "ability": "merciless",
+      "moveset": [
+        "belch",
+        "coil",
+        "wringout",
+        "gunkshot"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

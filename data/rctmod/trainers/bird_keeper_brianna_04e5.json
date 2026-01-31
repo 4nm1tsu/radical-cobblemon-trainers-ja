@@ -1,0 +1,35 @@
+{
+  "name": "Bird Keeper Brianna",
+  "team": [
+    {
+      "species": "noctowl",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "reflect",
+        "airslash",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "noctowl",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "skyattack",
+        "peck",
+        "uproar",
+        "roost"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Dragon Tamer Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "vibrava",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "dragonrush",
+        "earthquake",
+        "superpower",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "seadra",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "agility",
+        "hydropump",
+        "dragonpulse",
+        "twister"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonair",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "serious",
+      "ability": "shedskin",
+      "moveset": [
+        "thunderwave",
+        "raindance",
+        "aquatail",
+        "dragonrush"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

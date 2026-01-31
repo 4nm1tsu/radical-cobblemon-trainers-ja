@@ -1,0 +1,20 @@
+{
+  "name": "School Kid Chance",
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "suckerpunch",
+        "shadowball",
+        "darkpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

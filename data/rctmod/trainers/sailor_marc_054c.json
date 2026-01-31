@@ -1,0 +1,35 @@
+{
+  "name": "Sailor Marc",
+  "team": [
+    {
+      "species": "mantine",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "roost",
+        "airslash",
+        "aquaring",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pelipper",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "bold",
+      "ability": "drizzle",
+      "moveset": [
+        "airslash",
+        "waterpulse",
+        "stockpile",
+        "roost"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

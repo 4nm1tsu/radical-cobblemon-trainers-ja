@@ -1,0 +1,79 @@
+{
+  "name": "Rival Wayne",
+  "team": [
+    {
+      "species": "toucannon",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "pluck",
+        "furyattack",
+        "rockblast",
+        "roost"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "swinub",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "iceshard",
+        "mudbomb",
+        "flail",
+        "mist"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "gabite",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "jolly",
+      "ability": "roughskin",
+      "moveset": [
+        "dualchop",
+        "bulldoze",
+        "metalclaw",
+        "firefang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

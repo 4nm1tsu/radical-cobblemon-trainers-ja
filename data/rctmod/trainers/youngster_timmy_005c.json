@@ -1,0 +1,49 @@
+{
+  "name": "Youngster Timmy",
+  "team": [
+    {
+      "species": "ponyta",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "docile",
+      "ability": "flashfire",
+      "moveset": [
+        "tailwhip",
+        "flamewheel",
+        "lowkick",
+        "willowisp"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "mawile",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "faketears",
+        "bite",
+        "covet",
+        "metalclaw"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

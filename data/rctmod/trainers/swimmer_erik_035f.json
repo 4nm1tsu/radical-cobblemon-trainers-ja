@@ -1,0 +1,20 @@
+{
+  "name": "Swimmer Erik",
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlpool",
+        "brine",
+        "waterfall",
+        "raindance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

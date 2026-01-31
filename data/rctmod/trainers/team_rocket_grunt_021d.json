@@ -1,0 +1,72 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (51)",
+  "team": [
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "gentle",
+      "ability": "noguard",
+      "moveset": [
+        "bulkup",
+        "crosschop",
+        "scaryface",
+        "dynamicpunch"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "quiet",
+      "ability": "noguard",
+      "moveset": [
+        "bulkup",
+        "crosschop",
+        "scaryface",
+        "dynamicpunch"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "lonely",
+      "ability": "noguard",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

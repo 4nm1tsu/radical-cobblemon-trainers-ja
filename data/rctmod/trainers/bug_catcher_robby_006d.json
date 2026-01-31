@@ -1,0 +1,67 @@
+{
+  "name": "Bug Catcher Robby",
+  "team": [
+    {
+      "species": "caterpie",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "impish",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "bugbite"
+      ],
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {}
+    },
+    {
+      "species": "karrablast",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "mild",
+      "ability": "shedskin",
+      "moveset": [
+        "peck",
+        "leer",
+        "endure"
+      ],
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {}
+    },
+    {
+      "species": "butterfree",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "quiet",
+      "ability": "compoundeyes",
+      "moveset": [
+        "gust",
+        "confusion"
+      ],
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {}
+    }
+  ]
+}

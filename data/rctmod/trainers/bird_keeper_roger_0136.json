@@ -1,0 +1,71 @@
+{
+  "name": "Bird Keeper Roger",
+  "team": [
+    {
+      "species": "pelipper",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "lax",
+      "ability": "raindish",
+      "moveset": [
+        "roost",
+        "tailwind",
+        "hydropump",
+        "hurricane"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "corviknight",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "quiet",
+      "ability": "unnerve",
+      "moveset": [
+        "drillpeck",
+        "swagger",
+        "bravebird",
+        "irondefense"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "unfezant",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "brave",
+      "ability": "superluck",
+      "moveset": [
+        "nightslash",
+        "swagger",
+        "facade",
+        "tailwind"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Fisherman Ned",
+  "team": [
+    {
+      "species": "seaking",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "modest",
+      "ability": "waterveil",
+      "moveset": [
+        "aquajet",
+        "aquaring",
+        "agility",
+        "waterfall"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "poliwhirl",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "serious",
+      "ability": "damp",
+      "moveset": [
+        "raindance",
+        "bodyslam",
+        "bubblebeam",
+        "mudshot"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "clamperl",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "lonely",
+      "ability": "battlearmor",
+      "moveset": [
+        "bubble",
+        "whirlpool",
+        "irondefense",
+        "aurorabeam"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

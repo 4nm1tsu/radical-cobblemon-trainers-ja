@@ -1,0 +1,49 @@
+{
+  "name": "Biker Nikolas",
+  "team": [
+    {
+      "species": "electrode",
+      "gender": "GENDERLESS",
+      "level": 55,
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "spark",
+        "explosion",
+        "thunderbolt",
+        "triattack"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "probopass",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "brave",
+      "ability": "magnetpull",
+      "moveset": [
+        "spark",
+        "earthpower",
+        "powergem",
+        "discharge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

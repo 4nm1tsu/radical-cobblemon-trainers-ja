@@ -1,0 +1,93 @@
+{
+  "name": "Fisherman Elliot",
+  "team": [
+    {
+      "species": "poliwhirl",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "doubleslap",
+        "raindance",
+        "bodyslam",
+        "bubblebeam"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "cloyster",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "mild",
+      "ability": "battlearmor",
+      "moveset": [
+        "aurorabeam",
+        "spikecannon",
+        "iceshard",
+        "spikes"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "seaking",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "impish",
+      "ability": "lightningrod",
+      "moveset": [
+        "hornattack",
+        "flail",
+        "aquajet",
+        "aquaring"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "seadra",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "brave",
+      "ability": "poisontouch",
+      "moveset": [
+        "watergun",
+        "twister",
+        "bubblebeam",
+        "focusenergy"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

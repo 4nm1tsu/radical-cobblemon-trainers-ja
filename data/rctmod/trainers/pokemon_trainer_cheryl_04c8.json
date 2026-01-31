@@ -1,0 +1,43 @@
+{
+  "name": "Pokémon Trainer Cheryl",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "chansey",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "timid",
+      "ability": "healer",
+      "moveset": [
+        "sweetkiss",
+        "disarmingvoice",
+        "tailwhip",
+        "lifedew"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spd": 31
+      },
+      "evs": {
+        "hp": 172,
+        "def": 168,
+        "spd": 168
+      }
+    }
+  ]
+}

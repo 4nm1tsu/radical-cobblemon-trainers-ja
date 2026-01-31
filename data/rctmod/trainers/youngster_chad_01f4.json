@@ -1,0 +1,49 @@
+{
+  "name": "Youngster Chad",
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "glare",
+        "poisontail",
+        "screech",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "sandshrew",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "impish",
+      "ability": "sandveil",
+      "moveset": [
+        "magnitude",
+        "bulldoze",
+        "swift",
+        "furyswipes"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

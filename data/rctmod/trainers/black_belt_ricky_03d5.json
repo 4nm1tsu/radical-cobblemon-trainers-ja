@@ -1,0 +1,20 @@
+{
+  "name": "Black Belt Ricky",
+  "team": [
+    {
+      "species": "steelix",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderfang",
+        "icefang",
+        "irontail",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

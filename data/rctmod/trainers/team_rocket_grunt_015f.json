@@ -1,0 +1,50 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (5)",
+  "team": [
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "bashful",
+      "ability": "guts",
+      "moveset": [
+        "quickattack",
+        "focusenergy",
+        "hyperfang",
+        "pursuit"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "zubat",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "lonely",
+      "ability": "sniper",
+      "moveset": [
+        "supersonic",
+        "astonish",
+        "bite",
+        "wingattack"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

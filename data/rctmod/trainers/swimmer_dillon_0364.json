@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Dillon",
+  "team": [
+    {
+      "species": "shellos",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gastrodon",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "waterpulse",
+        "ancientpower",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

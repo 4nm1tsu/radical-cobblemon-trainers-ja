@@ -1,0 +1,32 @@
+{
+  "name": "Bug Catcher Donald",
+  "team": [
+    {
+      "species": "burmy",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "docile",
+      "ability": "shedskin",
+      "moveset": [
+        "protect",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "kricketune",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "furycutter",
+        "growl",
+        "pound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

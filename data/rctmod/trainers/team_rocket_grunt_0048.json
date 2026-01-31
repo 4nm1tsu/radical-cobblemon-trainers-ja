@@ -1,0 +1,72 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (3)",
+  "team": [
+    {
+      "species": "ursaring",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "gentle",
+      "ability": "quickfeet",
+      "moveset": [
+        "scaryface",
+        "rest",
+        "thrash",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "garbodor",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "bold",
+      "ability": "weakarmor",
+      "moveset": [
+        "amnesia",
+        "belch",
+        "gunkshot",
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "hydreigon",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "brave",
+      "ability": "levitate",
+      "moveset": [
+        "dragonrush",
+        "bodyslam",
+        "scaryface",
+        "hypervoice"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

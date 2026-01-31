@@ -1,0 +1,35 @@
+{
+  "name": "Scientist Shaun",
+  "team": [
+    {
+      "species": "kadabra",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "kinesis",
+        "teleport",
+        "reflect",
+        "psyshock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "kadabra",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "disable",
+        "psybeam",
+        "psychocut",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

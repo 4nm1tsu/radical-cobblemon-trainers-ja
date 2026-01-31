@@ -1,0 +1,65 @@
+{
+  "name": "Ninja Boy Joel",
+  "team": [
+    {
+      "species": "zubat",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "astonish",
+        "meanlook",
+        "poisonfang"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "skorupi",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "naive",
+      "ability": "battlearmor",
+      "moveset": [
+        "honeclaws",
+        "poisonfang",
+        "venoshock",
+        "knockoff"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zubat",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "astonish",
+        "meanlook",
+        "poisonfang"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "absorb",
+        "astonish",
+        "poisonfang"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

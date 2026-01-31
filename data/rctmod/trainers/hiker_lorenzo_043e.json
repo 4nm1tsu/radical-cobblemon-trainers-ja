@@ -1,0 +1,20 @@
+{
+  "name": "Hiker Lorenzo",
+  "team": [
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "bind",
+        "rockthrow",
+        "smackdown",
+        "curse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

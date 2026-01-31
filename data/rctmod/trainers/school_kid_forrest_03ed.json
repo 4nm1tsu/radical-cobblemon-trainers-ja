@@ -1,0 +1,20 @@
+{
+  "name": "School Kid Forrest",
+  "team": [
+    {
+      "species": "mrmime",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "timid",
+      "ability": "filter",
+      "moveset": [
+        "reflect",
+        "dazzlinggleam",
+        "thunderbolt",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

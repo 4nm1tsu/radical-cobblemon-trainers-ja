@@ -1,0 +1,20 @@
+{
+  "name": "Skier Edward",
+  "team": [
+    {
+      "species": "sneasel",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "leer",
+        "taunt",
+        "icywind",
+        "furyswipes"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

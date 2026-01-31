@@ -1,0 +1,71 @@
+{
+  "name": "Channeler Tasha",
+  "team": [
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "hasty",
+      "ability": "levitate",
+      "moveset": [
+        "dreameater",
+        "darkpulse",
+        "destinybond",
+        "hex"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "xatu",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "serious",
+      "ability": "earlybird",
+      "moveset": [
+        "psychoshift",
+        "futuresight",
+        "powerswap",
+        "guardswap"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "froslass",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "hardy",
+      "ability": "snowcloak",
+      "moveset": [
+        "captivate",
+        "bittermalice",
+        "frostbreath",
+        "blizzard"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Pokémon Trainer Cedric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "starly",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "quickattack",
+        "growl"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "piplup",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "pound",
+        "growl"
+      ],
+      "ivs": {
+        "hp": 11,
+        "atk": 11,
+        "def": 11,
+        "spa": 11,
+        "spd": 11,
+        "spe": 11
+      },
+      "evs": {}
+    }
+  ]
+}

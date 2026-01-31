@@ -1,0 +1,49 @@
+{
+  "name": "Scientist Ted",
+  "team": [
+    {
+      "species": "electrode",
+      "gender": "GENDERLESS",
+      "level": 67,
+      "nature": "gentle",
+      "ability": "static",
+      "moveset": [
+        "explosion",
+        "gyroball",
+        "mirrorcoat",
+        "courtchange"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "porygon2",
+      "gender": "GENDERLESS",
+      "level": 69,
+      "nature": "mild",
+      "ability": "download",
+      "moveset": [
+        "triattack",
+        "magiccoat",
+        "zapcannon",
+        "hyperbeam"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

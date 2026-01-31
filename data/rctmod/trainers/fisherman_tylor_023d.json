@@ -1,0 +1,49 @@
+{
+  "name": "Fisherman Tylor",
+  "team": [
+    {
+      "species": "qwilfish",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "pinmissile",
+        "takedown",
+        "aquatail",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "qwilfish",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "naive",
+      "ability": "swiftswim",
+      "moveset": [
+        "pinmissile",
+        "takedown",
+        "aquatail",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

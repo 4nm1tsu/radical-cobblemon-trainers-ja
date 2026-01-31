@@ -1,0 +1,35 @@
+{
+  "name": "Artist Kevin",
+  "team": [
+    {
+      "species": "mrmime",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "bold",
+      "ability": "filter",
+      "moveset": [
+        "mimic",
+        "lightscreen",
+        "dazzlinggleam",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sudowoodo",
+      "gender": "FEMALE",
+      "level": 59,
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "woodhammer",
+        "tearfullook",
+        "doubleedge",
+        "headsmash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Lady Kylie",
+  "team": [
+    {
+      "species": "bonsly",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "copycat",
+        "flail",
+        "rockthrow",
+        "rocktomb"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pichu",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "nuzzle",
+        "charm"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

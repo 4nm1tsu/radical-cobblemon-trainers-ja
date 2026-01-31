@@ -1,0 +1,93 @@
+{
+  "name": "Hiker Lenny",
+  "team": [
+    {
+      "species": "anorith",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "relaxed",
+      "ability": "battlearmor",
+      "moveset": [
+        "metalclaw",
+        "ancientpower",
+        "bugbite",
+        "brine"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "lileep",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "hasty",
+      "ability": "suctioncups",
+      "moveset": [
+        "ancientpower",
+        "brine",
+        "gigadrain",
+        "gastroacid"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "cranidos",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "rash",
+      "ability": "moldbreaker",
+      "moveset": [
+        "takedown",
+        "scaryface",
+        "assurance",
+        "chipaway"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "shieldon",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "takedown",
+        "irondefense",
+        "swagger",
+        "ancientpower"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

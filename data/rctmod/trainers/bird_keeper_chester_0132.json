@@ -1,0 +1,71 @@
+{
+  "name": "Bird Keeper Chester",
+  "team": [
+    {
+      "species": "dodrio",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "lax",
+      "ability": "earlybird",
+      "moveset": [
+        "jumpkick",
+        "doubleedge",
+        "endeavor",
+        "thrash"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "doduo",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "impish",
+      "ability": "earlybird",
+      "moveset": [
+        "jumpkick",
+        "drillpeck",
+        "endeavor",
+        "thrash"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "modest",
+      "ability": "serenegrace",
+      "moveset": [
+        "skyattack",
+        "extremespeed",
+        "aurasphere",
+        "airslash"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

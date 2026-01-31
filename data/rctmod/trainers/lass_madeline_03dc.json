@@ -1,0 +1,33 @@
+{
+  "name": "Lass Madeline",
+  "team": [
+    {
+      "species": "starly",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "growl",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bidoof",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "tackle",
+        "growl",
+        "defensecurl"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

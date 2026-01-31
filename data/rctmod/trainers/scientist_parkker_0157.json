@@ -1,0 +1,49 @@
+{
+  "name": "Scientist Parkker",
+  "team": [
+    {
+      "species": "cloyster",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "brave",
+      "ability": "skilllink",
+      "moveset": [
+        "aurorabeam",
+        "spikecannon",
+        "iceshard",
+        "spikes"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "lickilicky",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "bashful",
+      "ability": "unaware",
+      "moveset": [
+        "rollout",
+        "chipaway",
+        "mefirst",
+        "refresh"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

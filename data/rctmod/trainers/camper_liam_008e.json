@@ -1,0 +1,56 @@
+{
+  "name": "Camper Liam",
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "rockthrow",
+        "bite",
+        "ember"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "oran_berry"
+      ],
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "drilbur",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "bashful",
+      "ability": "moldbreaker",
+      "moveset": [
+        "rapidspin",
+        "mudslap",
+        "metalclaw"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "soft_sand"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Bug Catcher Sammy",
+  "team": [
+    {
+      "species": "grubbin",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "visegrip",
+        "stringshot",
+        "mudslap"
+      ],
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {}
+    }
+  ]
+}

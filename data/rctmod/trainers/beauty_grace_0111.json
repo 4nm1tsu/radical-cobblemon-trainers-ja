@@ -1,0 +1,49 @@
+{
+  "name": "Beauty Grace",
+  "team": [
+    {
+      "species": "clefable",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "naughty",
+      "ability": "magicguard",
+      "moveset": [
+        "doubleslap",
+        "metronome",
+        "teleport",
+        "moonblast"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "wigglytuff",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "quiet",
+      "ability": "competitive",
+      "moveset": [
+        "sing",
+        "disable",
+        "covet",
+        "moonblast"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

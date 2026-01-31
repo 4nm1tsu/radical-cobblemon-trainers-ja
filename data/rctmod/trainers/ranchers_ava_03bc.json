@@ -1,0 +1,20 @@
+{
+  "name": "Ranchers Ava",
+  "team": [
+    {
+      "species": "stunky",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "relaxed",
+      "ability": "stench",
+      "moveset": [
+        "poisongas",
+        "smokescreen",
+        "acidspray",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

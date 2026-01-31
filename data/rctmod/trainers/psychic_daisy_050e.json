@@ -1,0 +1,35 @@
+{
+  "name": "Psychic Daisy",
+  "team": [
+    {
+      "species": "slowbro",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "bold",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "amnesia",
+        "slackoff",
+        "yawn"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "slowbro",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "modest",
+      "ability": "oblivious",
+      "moveset": [
+        "psychic",
+        "amnesia",
+        "slackoff",
+        "surf"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

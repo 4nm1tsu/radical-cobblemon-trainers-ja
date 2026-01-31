@@ -1,0 +1,35 @@
+{
+  "name": "Cameraman Darryl",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "charge",
+        "bite",
+        "spark"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "tailwhip",
+        "growl",
+        "spark"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

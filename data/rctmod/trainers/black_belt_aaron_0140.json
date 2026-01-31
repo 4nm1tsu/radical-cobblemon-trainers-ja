@@ -1,0 +1,30 @@
+{
+  "name": "Black Belt Aaron",
+  "team": [
+    {
+      "species": "sirfetchd",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "sassy",
+      "ability": "sharpness",
+      "moveset": [
+        "knockoff",
+        "defog",
+        "brickbreak",
+        "swordsdance"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    }
+  ]
+}

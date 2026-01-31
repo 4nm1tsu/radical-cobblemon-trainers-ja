@@ -1,0 +1,71 @@
+{
+  "name": "Cue Ball Chase",
+  "team": [
+    {
+      "species": "tentacool",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "quiet",
+      "ability": "liquidooze",
+      "moveset": [
+        "sludge",
+        "bubblebeam",
+        "barrier",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "tentacool",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "lax",
+      "ability": "liquidooze",
+      "moveset": [
+        "sludge",
+        "bubblebeam",
+        "barrier",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "careful",
+      "ability": "liquidooze",
+      "moveset": [
+        "acidspray",
+        "sludge",
+        "bubblebeam",
+        "barrier"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

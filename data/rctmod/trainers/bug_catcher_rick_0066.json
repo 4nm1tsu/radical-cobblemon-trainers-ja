@@ -1,0 +1,46 @@
+{
+  "name": "Bug Catcher Rick",
+  "team": [
+    {
+      "species": "caterpie",
+      "gender": "FEMALE",
+      "level": 6,
+      "nature": "hardy",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot"
+      ],
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {}
+    },
+    {
+      "species": "wurmple",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "quirky",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {}
+    }
+  ]
+}

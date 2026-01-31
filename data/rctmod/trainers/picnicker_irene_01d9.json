@@ -1,0 +1,71 @@
+{
+  "name": "Picnicker Irene",
+  "team": [
+    {
+      "species": "tentacruel",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "jolly",
+      "ability": "liquidooze",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "swanna",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "docile",
+      "ability": "frisk",
+      "moveset": [
+        "raindance",
+        "tailwind",
+        "hydropump",
+        "hurricane"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "dewgong",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "bold",
+      "ability": "icescales",
+      "moveset": [
+        "takedown",
+        "dive",
+        "aquatail",
+        "safeguard"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

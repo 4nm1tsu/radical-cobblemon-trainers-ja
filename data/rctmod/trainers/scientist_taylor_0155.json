@@ -1,0 +1,113 @@
+{
+  "name": "Scientist Taylor",
+  "team": [
+    {
+      "species": "electrode",
+      "gender": "GENDERLESS",
+      "level": 44,
+      "nature": "adamant",
+      "ability": "soundproof",
+      "moveset": [
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "choice_band"
+      ]
+    },
+    {
+      "species": "weezing",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "musharna",
+      "gender": "MALE",
+      "level": 44,
+      "nature": "adamant",
+      "ability": "forewarn",
+      "moveset": [
+        "psychic",
+        "shadowball",
+        "moonlight",
+        "calmmind"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "amoonguss",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "brave",
+      "ability": "effectspore",
+      "moveset": [
+        "spore",
+        "gigadrain",
+        "sludgebomb"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "scolipede",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "rash",
+      "ability": "poisontouch",
+      "moveset": [
+        "poisonjab",
+        "xscissor",
+        "swordsdance"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "prism_scale"
+      ]
+    }
+  ]
+}

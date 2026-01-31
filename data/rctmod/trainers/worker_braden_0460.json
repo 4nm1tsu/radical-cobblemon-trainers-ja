@@ -1,0 +1,20 @@
+{
+  "name": "Worker Braden",
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rollout",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

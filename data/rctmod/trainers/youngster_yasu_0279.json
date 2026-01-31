@@ -1,0 +1,71 @@
+{
+  "name": "Youngster Yasu",
+  "team": [
+    {
+      "species": "rattata",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "brave",
+      "ability": "runaway",
+      "moveset": [
+        "hyperfang",
+        "pursuit",
+        "assurance",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "raticate",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "serious",
+      "ability": "runaway",
+      "moveset": [
+        "focusenergy",
+        "hyperfang",
+        "pursuit",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "raticate",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "docile",
+      "ability": "runaway",
+      "moveset": [
+        "focusenergy",
+        "hyperfang",
+        "pursuit",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

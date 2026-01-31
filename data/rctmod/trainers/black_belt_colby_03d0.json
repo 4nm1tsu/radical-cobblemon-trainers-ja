@@ -1,0 +1,50 @@
+{
+  "name": "Black Belt Colby",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "leer",
+        "revenge",
+        "knockoff",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "impish",
+      "ability": "guts",
+      "moveset": [
+        "leer",
+        "revenge",
+        "dig",
+        "bulkup"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "impish",
+      "ability": "guts",
+      "moveset": [
+        "leer",
+        "revenge",
+        "earthquake",
+        "bulkup"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

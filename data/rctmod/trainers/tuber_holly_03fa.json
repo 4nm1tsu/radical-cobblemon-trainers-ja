@@ -1,0 +1,20 @@
+{
+  "name": "Tuber Holly",
+  "team": [
+    {
+      "species": "remoraid",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "quirky",
+      "ability": "hustle",
+      "moveset": [
+        "lockon",
+        "bulletseed",
+        "icebeam",
+        "hydropump"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

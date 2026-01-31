@@ -1,0 +1,35 @@
+{
+  "name": "Camper Parker",
+  "team": [
+    {
+      "species": "buizel",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "naive",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "tailwhip",
+        "quickattack",
+        "watergun"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "shinx",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "thundershock",
+        "charge",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

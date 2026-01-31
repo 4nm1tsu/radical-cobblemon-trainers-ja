@@ -1,0 +1,20 @@
+{
+  "name": "Ruin Maniac Larry",
+  "team": [
+    {
+      "species": "steelix",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "curse",
+        "crunch",
+        "doubleedge",
+        "stoneedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

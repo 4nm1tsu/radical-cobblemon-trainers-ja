@@ -1,0 +1,20 @@
+{
+  "name": "Beauty Harley",
+  "team": [
+    {
+      "species": "psyduck",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "tailwhip",
+        "furyswipes",
+        "waterpulse",
+        "zenheadbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

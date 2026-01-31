@@ -1,0 +1,71 @@
+{
+  "name": "Ranger Jackson",
+  "team": [
+    {
+      "species": "tangela",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "gentle",
+      "ability": "leafguard",
+      "moveset": [
+        "slam",
+        "megadrain",
+        "bind",
+        "ingrain"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "exeggutor",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "docile",
+      "ability": "chlorophyll",
+      "moveset": [
+        "confusion",
+        "eggbomb",
+        "stunspore",
+        "reflect"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "exeggutor",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "relaxed",
+      "ability": "chlorophyll",
+      "moveset": [
+        "confusion",
+        "eggbomb",
+        "sleeppowder",
+        "stomp"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    }
+  ]
+}

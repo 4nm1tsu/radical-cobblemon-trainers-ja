@@ -1,0 +1,20 @@
+{
+  "name": "Rich Boy Jason",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "charge",
+        "bite",
+        "spark"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

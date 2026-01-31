@@ -1,0 +1,20 @@
+{
+  "name": "Skier Edward",
+  "team": [
+    {
+      "species": "sneasel",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "icywind",
+        "furyswipes",
+        "honeclaws",
+        "screech"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

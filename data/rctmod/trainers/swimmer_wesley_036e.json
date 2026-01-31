@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Wesley",
+  "team": [
+    {
+      "species": "buizel",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "bite",
+        "swift",
+        "aquajet",
+        "waterfall"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "timid",
+      "ability": "liquidooze",
+      "moveset": [
+        "supersonic",
+        "bubblebeam",
+        "acidarmor",
+        "poisonjab"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

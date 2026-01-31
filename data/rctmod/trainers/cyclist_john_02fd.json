@@ -1,0 +1,35 @@
+{
+  "name": "Cyclist John",
+  "team": [
+    {
+      "species": "starly",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "wingattack",
+        "doubleteam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "staravia",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "wingattack",
+        "doubleteam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

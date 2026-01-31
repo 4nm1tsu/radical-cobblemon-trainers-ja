@@ -1,0 +1,49 @@
+{
+  "name": "Picnicker Carol",
+  "team": [
+    {
+      "species": "mimejr",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "naive",
+      "ability": "solidrock",
+      "moveset": [
+        "reflect",
+        "psybeam",
+        "substitute",
+        "recycle"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "fearow",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "gentle",
+      "ability": "technician",
+      "moveset": [
+        "mirrormove",
+        "assurance",
+        "agility",
+        "dualwingbeat"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

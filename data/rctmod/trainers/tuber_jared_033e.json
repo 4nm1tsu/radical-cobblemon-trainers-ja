@@ -1,0 +1,56 @@
+{
+  "name": "Tuber Jared",
+  "team": [
+    {
+      "species": "shellos",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {},
+      "aspects": [
+        "east_sea"
+      ]
+    },
+    {
+      "species": "shellos",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "harden",
+        "recover",
+        "waterpulse",
+        "ancientpower"
+      ],
+      "ivs": {},
+      "evs": {},
+      "aspects": [
+        "east_sea"
+      ]
+    },
+    {
+      "species": "shellos",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "harden",
+        "recover",
+        "waterpulse",
+        "ancientpower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

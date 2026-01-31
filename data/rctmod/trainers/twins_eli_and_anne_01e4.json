@@ -1,0 +1,50 @@
+{
+  "name": "Twins Eli \u0026 Anne",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "swinub",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "docile",
+      "ability": "oblivious",
+      "moveset": [
+        "icywind",
+        "icefang",
+        "takedown",
+        "mist"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "espurr",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "hasty",
+      "ability": "frisk",
+      "moveset": [
+        "psybeam",
+        "fakeout",
+        "disarmingvoice",
+        "psyshock"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

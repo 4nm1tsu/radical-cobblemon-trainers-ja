@@ -1,0 +1,71 @@
+{
+  "name": "Gambler Stan",
+  "team": [
+    {
+      "species": "poliwhirl",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "raindance",
+        "bodyslam",
+        "bubblebeam",
+        "mudshot"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "ponyta",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "careful",
+      "ability": "runaway",
+      "moveset": [
+        "flamecharge",
+        "firespin",
+        "takedown",
+        "inferno"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "numel",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "earthpower",
+        "curse",
+        "takedown",
+        "yawn"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

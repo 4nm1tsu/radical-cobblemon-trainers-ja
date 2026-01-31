@@ -1,0 +1,35 @@
+{
+  "name": "Psychic Valencia",
+  "team": [
+    {
+      "species": "chingling",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "wrap",
+        "astonish",
+        "confusion",
+        "yawn"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "chimecho",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "wrap",
+        "yawn",
+        "extrasensory",
+        "healpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

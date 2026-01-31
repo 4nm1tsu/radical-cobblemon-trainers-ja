@@ -1,0 +1,49 @@
+{
+  "name": "Hiker Trent",
+  "team": [
+    {
+      "species": "rhyhorn",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "bulldoze",
+        "chipaway",
+        "rockblast",
+        "drillrun"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "quagsire",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "bashful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "slam",
+        "mudbomb",
+        "amnesia",
+        "yawn"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

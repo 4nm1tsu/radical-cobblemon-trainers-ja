@@ -1,0 +1,19 @@
+{
+  "name": "Camper Curtis",
+  "team": [
+    {
+      "species": "shinx",
+      "gender": "FEMALE",
+      "level": 7,
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Crush Girl Sharon",
+  "team": [
+    {
+      "species": "mankey",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "impish",
+      "ability": "vitalspirit",
+      "moveset": [
+        "stompingtantrum",
+        "outrage",
+        "crosschop",
+        "finalgambit"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "brave",
+      "ability": "vitalspirit",
+      "moveset": [
+        "thrash",
+        "screech",
+        "stompingtantrum",
+        "outrage"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    }
+  ]
+}

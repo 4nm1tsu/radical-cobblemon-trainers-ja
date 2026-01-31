@@ -1,0 +1,20 @@
+{
+  "name": "Swimmer Miranda",
+  "team": [
+    {
+      "species": "lumineon",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "timid",
+      "ability": "swiftswim",
+      "moveset": [
+        "attract",
+        "raindance",
+        "aquaring",
+        "whirlpool"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

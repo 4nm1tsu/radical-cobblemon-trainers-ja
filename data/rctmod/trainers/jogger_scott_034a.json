@@ -1,0 +1,20 @@
+{
+  "name": "Jogger Scott",
+  "team": [
+    {
+      "species": "staravia",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "wingattack",
+        "endeavor",
+        "whirlwind"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

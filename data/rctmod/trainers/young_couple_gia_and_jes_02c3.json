@@ -1,0 +1,50 @@
+{
+  "name": "Young Couple Gia \u0026 Jes",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "brave",
+      "ability": "rivalry",
+      "moveset": [
+        "poisonsting",
+        "chipaway",
+        "thrash",
+        "earthpower"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "naive",
+      "ability": "rivalry",
+      "moveset": [
+        "sludge",
+        "chipaway",
+        "bodyslam",
+        "earthpower"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}
