@@ -1,0 +1,71 @@
+{
+  "name": "Picnicker Isabelle",
+  "team": [
+    {
+      "species": "sinistea",
+      "gender": "GENDERLESS",
+      "level": 23,
+      "nature": "lax",
+      "ability": "weakarmor",
+      "moveset": [
+        "aromaticmist",
+        "megadrain",
+        "willowisp",
+        "detect"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "swadloon",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "relaxed",
+      "ability": "leafguard",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "bugbite",
+        "razorleaf"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "lombre",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "quiet",
+      "ability": "swiftswim",
+      "moveset": [
+        "aurorabeam",
+        "fakeout",
+        "watersport",
+        "bubblebeam"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

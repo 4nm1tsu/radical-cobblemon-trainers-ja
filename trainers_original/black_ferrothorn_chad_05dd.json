@@ -1,0 +1,57 @@
+{
+  "name": "Black Ferrothorn Chad",
+  "team": [
+    {
+      "species": "krookodile",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "powertrip",
+        "dig",
+        "thunderfang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spd": 252
+      }
+    },
+    {
+      "species": "ferrothorn",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "adamant",
+      "ability": "ironbarbs",
+      "moveset": [
+        "ironhead",
+        "powerwhip",
+        "payback",
+        "pinmissile"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spd": 252
+      }
+    }
+  ]
+}

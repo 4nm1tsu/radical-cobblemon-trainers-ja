@@ -1,0 +1,20 @@
+{
+  "name": "Cyclist Axel",
+  "team": [
+    {
+      "species": "staravia",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "naive",
+      "ability": "intimidate",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "wingattack",
+        "doubleteam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Tamer John",
+  "team": [
+    {
+      "species": "rhyhorn",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "jolly",
+      "ability": "lightningrod",
+      "moveset": [
+        "rockblast",
+        "drillrun",
+        "takedown",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "primeape",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "calm",
+      "ability": "vitalspirit",
+      "moveset": [
+        "assurance",
+        "punishment",
+        "thrash",
+        "screech"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "arbok",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "swallow",
+        "spitup",
+        "poisonfang",
+        "coil"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "tauros",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "payback",
+        "workup",
+        "takedown",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Young Couple Sue \u0026 Ty",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "meditite",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "bashful",
+      "ability": "purepower",
+      "moveset": [
+        "lowkick",
+        "detect",
+        "forcepalm",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "impish",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "focusenergy",
+        "lowsweep",
+        "knockoff"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

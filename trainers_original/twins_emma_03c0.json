@@ -1,0 +1,21 @@
+{
+  "name": "Twin Emma",
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "bonsly",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "faketears",
+        "copycat",
+        "flail",
+        "rockthrow"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

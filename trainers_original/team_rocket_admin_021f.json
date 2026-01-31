@@ -1,0 +1,78 @@
+{
+  "name": "Team Rocket Admin",
+  "identity": "Team Rocket Admin (1)",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.25
+    }
+  },
+  "team": [
+    {
+      "species": "muk",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "bold",
+      "ability": "stickyhold",
+      "moveset": [
+        "sludgebomb",
+        "screech",
+        "minimize",
+        "rocktomb"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "arbok",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "mild",
+      "ability": "shedskin",
+      "moveset": [
+        "sludgebomb",
+        "bite",
+        "earthquake",
+        "irontail"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "naive",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sludgebomb",
+        "gigadrain",
+        "sleeppowder",
+        "stunspore"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

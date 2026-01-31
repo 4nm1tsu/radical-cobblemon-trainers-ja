@@ -1,0 +1,71 @@
+{
+  "name": "Fisherman Barny",
+  "team": [
+    {
+      "species": "tentacool",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "hasty",
+      "ability": "liquidooze",
+      "moveset": [
+        "waterpulse",
+        "acidspray",
+        "sludge",
+        "bubblebeam"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "arrokuda",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "naughty",
+      "ability": "swiftswim",
+      "moveset": [
+        "furyattack",
+        "bite",
+        "agility",
+        "dive"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "mantyke",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "wingattack",
+        "headbutt",
+        "waterpulse",
+        "wideguard"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

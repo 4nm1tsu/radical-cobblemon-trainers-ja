@@ -1,0 +1,21 @@
+{
+  "name": "Twin Liv",
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "pachirisu",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Hiker Jonathan",
+  "team": [
+    {
+      "species": "onix",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "harden",
+        "bind",
+        "smackdown",
+        "curse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

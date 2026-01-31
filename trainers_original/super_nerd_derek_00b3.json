@@ -1,0 +1,27 @@
+{
+  "name": "Super Nerd Derek",
+  "team": [
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "fireblast",
+        "bounce",
+        "flareblitz",
+        "jumpkick"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

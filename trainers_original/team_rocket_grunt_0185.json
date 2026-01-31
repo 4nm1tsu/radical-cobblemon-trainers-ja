@@ -1,0 +1,28 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (43)",
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "serious",
+      "ability": "noguard",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

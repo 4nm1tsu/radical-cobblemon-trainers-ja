@@ -1,0 +1,71 @@
+{
+  "name": "Rocker Randall",
+  "team": [
+    {
+      "species": "voltorb",
+      "gender": "GENDERLESS",
+      "level": 20,
+      "nature": "rash",
+      "ability": "static",
+      "moveset": [
+        "rollout",
+        "screech",
+        "chargebeam",
+        "swift"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "magnemite",
+      "gender": "GENDERLESS",
+      "level": 20,
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "magnetbomb",
+        "lightscreen",
+        "sonicboom",
+        "spark"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "voltorb",
+      "gender": "GENDERLESS",
+      "level": 20,
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "rollout",
+        "screech",
+        "chargebeam",
+        "swift"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

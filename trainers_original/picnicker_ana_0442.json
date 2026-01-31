@@ -1,0 +1,20 @@
+{
+  "name": "Picnicker Ana",
+  "team": [
+    {
+      "species": "meditite",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "quirky",
+      "ability": "purepower",
+      "moveset": [
+        "pound",
+        "lowkick",
+        "confusion",
+        "forcepalm"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

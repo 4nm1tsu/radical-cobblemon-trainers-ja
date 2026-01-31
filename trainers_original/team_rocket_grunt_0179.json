@@ -1,0 +1,72 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (31)",
+  "team": [
+    {
+      "species": "skuntank",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "calm",
+      "ability": "aftermath",
+      "moveset": [
+        "venomdrench",
+        "suckerpunch",
+        "belch",
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "crobat",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "lax",
+      "ability": "sniper",
+      "moveset": [
+        "leechlife",
+        "dualwingbeat",
+        "haze",
+        "venoshock"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "stoutland",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "relaxed",
+      "ability": "sandrush",
+      "moveset": [
+        "retaliate",
+        "crunch",
+        "roar",
+        "reversal"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

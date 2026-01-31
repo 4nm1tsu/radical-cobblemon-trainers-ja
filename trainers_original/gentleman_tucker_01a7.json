@@ -1,0 +1,27 @@
+{
+  "name": "Gentleman Tucker",
+  "team": [
+    {
+      "species": "electabuzz",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "lonely",
+      "ability": "static",
+      "moveset": [
+        "shockwave",
+        "thunderwave",
+        "electroball",
+        "lightscreen"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

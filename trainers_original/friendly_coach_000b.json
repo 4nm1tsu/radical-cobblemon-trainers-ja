@@ -1,0 +1,128 @@
+{
+  "name": "Friendly Coach (Def)",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "statusMoveBias": 1,
+      "switchBias": 0,
+      "itemBias": 0
+    }
+  },
+  "team": [
+    {
+      "species": "coalossal",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "impish",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "coalossal",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "mild",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "coalossal",
+      "gender": "FEMALE",
+      "level": 1,
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "coalossal",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "relaxed",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "coalossal",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "coalossal",
+      "gender": "FEMALE",
+      "level": 1,
+      "nature": "naive",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

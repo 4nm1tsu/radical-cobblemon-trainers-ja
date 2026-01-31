@@ -1,0 +1,49 @@
+{
+  "name": "Bird Keeper Harold",
+  "team": [
+    {
+      "species": "hoothoot",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "relaxed",
+      "ability": "tintedlens",
+      "moveset": [
+        "roost",
+        "moonblast",
+        "synchronoise",
+        "dreameater"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "noctowl",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "mild",
+      "ability": "tintedlens",
+      "moveset": [
+        "reflect",
+        "uproar",
+        "roost",
+        "moonblast"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

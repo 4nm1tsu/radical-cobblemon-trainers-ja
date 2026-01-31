@@ -1,0 +1,27 @@
+{
+  "name": "Youngster Dan",
+  "team": [
+    {
+      "species": "slowpoke",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "thunderwave",
+        "psybeam",
+        "disable",
+        "icywind"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Worker Quentin",
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "sandstorm",
+        "harden",
+        "smackdown"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "sandstorm",
+        "harden",
+        "smackdown",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "bind",
+        "curse",
+        "rockslide",
+        "sandtomb"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

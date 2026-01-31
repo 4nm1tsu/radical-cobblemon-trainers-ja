@@ -1,0 +1,93 @@
+{
+  "name": "Swimmer♂ Darrin",
+  "team": [
+    {
+      "species": "seadra",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "mild",
+      "ability": "poisontouch",
+      "moveset": [
+        "agility",
+        "dragonpulse",
+        "dragondance",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "barraskewda",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "hardy",
+      "ability": "swiftswim",
+      "moveset": [
+        "laserfocus",
+        "crunch",
+        "liquidation",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "kingdra",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "lonely",
+      "ability": "swiftswim",
+      "moveset": [
+        "agility",
+        "dragonpulse",
+        "dragondance",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "seadra",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "mild",
+      "ability": "poisontouch",
+      "moveset": [
+        "agility",
+        "dragonpulse",
+        "dragondance",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

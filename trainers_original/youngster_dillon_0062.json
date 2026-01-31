@@ -1,0 +1,49 @@
+{
+  "name": "Youngster Dillon",
+  "team": [
+    {
+      "species": "phanpy",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "calm",
+      "ability": "pickup",
+      "moveset": [
+        "rollout",
+        "magnitude",
+        "endure",
+        "slam"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "woobat",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "quirky",
+      "ability": "unaware",
+      "moveset": [
+        "heartstamp",
+        "imprison",
+        "aircutter",
+        "attract"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Juggler Nelson",
+  "team": [
+    {
+      "species": "hypno",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "naive",
+      "ability": "insomnia",
+      "moveset": [
+        "swagger",
+        "nastyplot",
+        "psyshock",
+        "futuresight"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "electrode",
+      "gender": "GENDERLESS",
+      "level": 81,
+      "nature": "adamant",
+      "ability": "soundproof",
+      "moveset": [
+        "explosion",
+        "gyroball",
+        "mirrorcoat",
+        "courtchange"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "meowstic",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "quirky",
+      "ability": "prankster",
+      "moveset": [
+        "imprison",
+        "suckerpunch",
+        "mistyterrain",
+        "quickguard"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "gothitelle",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "relaxed",
+      "ability": "frisk",
+      "moveset": [
+        "psychic",
+        "charm",
+        "magicroom",
+        "psychoboost"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

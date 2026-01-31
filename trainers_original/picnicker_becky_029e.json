@@ -1,0 +1,49 @@
+{
+  "name": "Picnicker Becky",
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "quiet",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "extremespeed",
+        "thunderbolt",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "tailwhip",
+        "quickattack",
+        "thunderbolt",
+        "extremespeed"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

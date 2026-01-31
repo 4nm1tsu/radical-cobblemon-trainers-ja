@@ -1,0 +1,71 @@
+{
+  "name": "Psychic Rodette",
+  "team": [
+    {
+      "species": "natu",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "modest",
+      "ability": "earlybird",
+      "moveset": [
+        "nightshade",
+        "confuseray",
+        "wish",
+        "futuresight"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "drowzee",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "lax",
+      "ability": "forewarn",
+      "moveset": [
+        "psychic",
+        "disable",
+        "psychup",
+        "futuresight"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "hypno",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "quiet",
+      "ability": "forewarn",
+      "moveset": [
+        "psychic",
+        "hypnosis",
+        "psychup",
+        "futuresight"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

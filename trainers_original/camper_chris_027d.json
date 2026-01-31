@@ -1,0 +1,49 @@
+{
+  "name": "Camper Chris",
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "flamewheel",
+        "reversal",
+        "firefang",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "ancientpower",
+        "firefang",
+        "scaryface",
+        "thunderpunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

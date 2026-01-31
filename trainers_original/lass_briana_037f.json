@@ -1,0 +1,20 @@
+{
+  "name": "Lass Briana",
+  "team": [
+    {
+      "species": "pachirisu",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "babydolleyes",
+        "quickattack",
+        "charm",
+        "spark"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Lass Paige",
+  "team": [
+    {
+      "species": "nidoranf",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "sassy",
+      "ability": "rivalry",
+      "moveset": [
+        "helpinghand",
+        "toxicspikes",
+        "flatter",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "lopunny",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "naughty",
+      "ability": "klutz",
+      "moveset": [
+        "jumpkick",
+        "machpunch",
+        "agility",
+        "dizzypunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

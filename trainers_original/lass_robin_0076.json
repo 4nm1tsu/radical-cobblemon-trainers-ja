@@ -1,0 +1,27 @@
+{
+  "name": "Lass Robin",
+  "team": [
+    {
+      "species": "flaaffy",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "quiet",
+      "ability": "static",
+      "moveset": [
+        "cottonguard",
+        "thunderwave",
+        "flash",
+        "cottonspore"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

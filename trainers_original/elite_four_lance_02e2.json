@@ -1,0 +1,134 @@
+{
+  "name": "Lance",
+  "identity": "Elite Four Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "dragondance",
+        "earthquake",
+        "thunderwave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 66,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "earthquake",
+        "dragonclaw",
+        "flamethrower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "kingdra",
+      "gender": "FEMALE",
+      "level": 66,
+      "nature": "hardy",
+      "ability": "sniper",
+      "moveset": [
+        "hyperbeam",
+        "dragondance",
+        "surf",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "hasty",
+      "ability": "pressure",
+      "moveset": [
+        "hyperbeam",
+        "ancientpower",
+        "aerialace",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "hardy",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "outrage",
+        "thunderbolt",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "persim_berry"
+      ]
+    }
+  ]
+}

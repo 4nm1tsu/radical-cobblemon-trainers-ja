@@ -1,0 +1,50 @@
+{
+  "name": "PI Carlos",
+  "team": [
+    {
+      "species": "seaking",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "timid",
+      "ability": "waterveil",
+      "moveset": [
+        "tailwhip",
+        "supersonic",
+        "waterpulse",
+        "soak"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "seaking",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "aquaring",
+        "waterfall",
+        "megahorn"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "seaking",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "agility",
+        "flail",
+        "waterfall",
+        "horndrill"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

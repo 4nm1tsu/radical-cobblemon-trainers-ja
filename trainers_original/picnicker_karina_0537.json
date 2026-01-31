@@ -1,0 +1,20 @@
+{
+  "name": "Picnicker Karina",
+  "team": [
+    {
+      "species": "prinplup",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "hasty",
+      "ability": "torrent",
+      "moveset": [
+        "peck",
+        "metalclaw",
+        "bubblebeam",
+        "furyattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

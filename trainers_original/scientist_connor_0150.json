@@ -1,0 +1,93 @@
+{
+  "name": "Scientist Connor",
+  "team": [
+    {
+      "species": "muk",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "sassy",
+      "ability": "poisontouch",
+      "moveset": [
+        "crunch",
+        "poisonjab",
+        "shadowsneak"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "weezing",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "naughty",
+      "ability": "levitate",
+      "moveset": [
+        "explosion",
+        "sludgebomb",
+        "flamethrower"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "klinklang",
+      "gender": "GENDERLESS",
+      "level": 45,
+      "nature": "lonely",
+      "ability": "clearbody",
+      "moveset": [
+        "shiftgear",
+        "geargrind"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "metal_coat"
+      ]
+    },
+    {
+      "species": "beheeyem",
+      "gender": "FEMALE",
+      "level": 46,
+      "nature": "calm",
+      "ability": "analytic",
+      "moveset": [
+        "psychic",
+        "shadowball"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

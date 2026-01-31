@@ -1,0 +1,50 @@
+{
+  "name": "Ninja Boy Fabian",
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "sandstorm",
+        "rockthrow",
+        "smackdown",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "harden",
+        "rockthrow",
+        "smackdown",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "rockthrow",
+        "smackdown",
+        "bulldoze",
+        "selfdestruct"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

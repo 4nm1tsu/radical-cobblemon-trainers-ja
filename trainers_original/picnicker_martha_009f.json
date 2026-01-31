@@ -1,0 +1,49 @@
+{
+  "name": "Picnicker Martha",
+  "team": [
+    {
+      "species": "togetic",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "docile",
+      "ability": "hustle",
+      "moveset": [
+        "followme",
+        "bestow",
+        "airslash",
+        "wish"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "ivysaur",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "hasty",
+      "ability": "overgrow",
+      "moveset": [
+        "megadrain",
+        "takedown",
+        "growth",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

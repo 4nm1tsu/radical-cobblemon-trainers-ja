@@ -1,0 +1,50 @@
+{
+  "name": "Ruin Maniac Bryan",
+  "team": [
+    {
+      "species": "cranidos",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "relaxed",
+      "ability": "moldbreaker",
+      "moveset": [
+        "headbutt",
+        "leer",
+        "scaryface",
+        "assurance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "sandstorm",
+        "harden",
+        "smackdown",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bronzor",
+      "gender": "GENDERLESS",
+      "level": 23,
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "confusion",
+        "confuseray",
+        "payback",
+        "gyroball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

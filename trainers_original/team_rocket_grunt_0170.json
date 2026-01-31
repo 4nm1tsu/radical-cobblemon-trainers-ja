@@ -1,0 +1,50 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (22)",
+  "team": [
+    {
+      "species": "weezing",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "mild",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "selfdestruct",
+        "haze",
+        "gyroball",
+        "sludgebomb"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "ninjask",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "mild",
+      "ability": "speedboost",
+      "moveset": [
+        "slash",
+        "dualwingbeat",
+        "mindreader",
+        "firstimpression"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

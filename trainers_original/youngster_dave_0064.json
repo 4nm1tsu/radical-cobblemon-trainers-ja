@@ -1,0 +1,49 @@
+{
+  "name": "Youngster Dave",
+  "team": [
+    {
+      "species": "nidorino",
+      "gender": "MALE",
+      "level": 25,
+      "nature": "sassy",
+      "ability": "poisontouch",
+      "moveset": [
+        "doublekick",
+        "poisonsting",
+        "furyattack",
+        "hornattack"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "golett",
+      "gender": "GENDERLESS",
+      "level": 25,
+      "nature": "gentle",
+      "ability": "ironfist",
+      "moveset": [
+        "shadowpunch",
+        "irondefense",
+        "stompingtantrum",
+        "megapunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

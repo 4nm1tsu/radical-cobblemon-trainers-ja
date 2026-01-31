@@ -1,0 +1,50 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (17)",
+  "team": [
+    {
+      "species": "silcoon",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "bashful",
+      "ability": "shedskin",
+      "moveset": [
+        "tackle",
+        "poisonsting",
+        "harden"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "poisonfang",
+        "quickguard",
+        "aircutter"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "glameow",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "hardy",
+      "ability": "owntempo",
+      "moveset": [
+        "growl",
+        "aerialace",
+        "furyswipes",
+        "retaliate"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

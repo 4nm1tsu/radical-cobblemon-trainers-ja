@@ -1,0 +1,35 @@
+{
+  "name": "Psychic Brittney",
+  "team": [
+    {
+      "species": "medicham",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "jolly",
+      "ability": "purepower",
+      "moveset": [
+        "highjumpkick",
+        "icepunch",
+        "reversal",
+        "feint"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "calmmind",
+        "psychic",
+        "futuresight",
+        "psyshock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

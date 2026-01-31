@@ -1,0 +1,21 @@
+{
+  "name": "Twin Tia",
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "clefable",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "lifedew",
+        "followme",
+        "cosmicpower",
+        "moonblast"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

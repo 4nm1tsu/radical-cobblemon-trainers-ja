@@ -1,0 +1,50 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (19)",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "bashful",
+      "ability": "noguard",
+      "moveset": [
+        "vitalthrow",
+        "wakeupslap",
+        "dualchop",
+        "submission"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "perrserker",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "naive",
+      "ability": "toughclaws",
+      "moveset": [
+        "bulletpunch",
+        "swagger",
+        "furyswipes",
+        "screech"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

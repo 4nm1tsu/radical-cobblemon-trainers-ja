@@ -1,0 +1,49 @@
+{
+  "name": "Picnicker Tina",
+  "team": [
+    {
+      "species": "breloom",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "feint",
+        "counter",
+        "forcepalm",
+        "mindreader"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "quilladin",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "gentle",
+      "ability": "bulletproof",
+      "moveset": [
+        "leechseed",
+        "pinmissile",
+        "takedown",
+        "seedbomb"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

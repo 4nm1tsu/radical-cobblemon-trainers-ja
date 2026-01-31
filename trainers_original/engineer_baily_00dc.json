@@ -1,0 +1,49 @@
+{
+  "name": "Engineer Baily",
+  "team": [
+    {
+      "species": "voltorb",
+      "gender": "GENDERLESS",
+      "level": 28,
+      "nature": "calm",
+      "ability": "static",
+      "moveset": [
+        "chargebeam",
+        "swift",
+        "electroball",
+        "selfdestruct"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "emolga",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "serious",
+      "ability": "motordrive",
+      "moveset": [
+        "pursuit",
+        "aircutter",
+        "shockwave",
+        "electroball"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

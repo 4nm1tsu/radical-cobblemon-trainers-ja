@@ -1,0 +1,20 @@
+{
+  "name": "Artist Ismael",
+  "team": [
+    {
+      "species": "mrmime",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "wideguard",
+        "powerswap",
+        "encore",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

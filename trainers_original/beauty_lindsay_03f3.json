@@ -1,0 +1,19 @@
+{
+  "name": "Beauty Lindsay",
+  "team": [
+    {
+      "species": "roselia",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "toxic",
+        "leechseed",
+        "megadrain"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

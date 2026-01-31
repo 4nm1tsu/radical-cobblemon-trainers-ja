@@ -1,0 +1,50 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (15)",
+  "team": [
+    {
+      "species": "wurmple",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "docile",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "silcoon",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "serious",
+      "ability": "shedskin",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting",
+        "harden"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zubat",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "bashful",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "meanlook"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

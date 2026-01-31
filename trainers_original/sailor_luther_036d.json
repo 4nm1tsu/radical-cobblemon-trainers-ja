@@ -1,0 +1,49 @@
+{
+  "name": "Sailor Luther",
+  "team": [
+    {
+      "species": "feebas",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "sassy",
+      "ability": "oblivious",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "dualchop"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gastrodon",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "waterpulse",
+        "ancientpower",
+        "earthpower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

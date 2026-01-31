@@ -1,0 +1,20 @@
+{
+  "name": "Fisher Joseph",
+  "team": [
+    {
+      "species": "goldeen",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "tailwhip",
+        "supersonic",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

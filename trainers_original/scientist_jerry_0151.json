@@ -1,0 +1,71 @@
+{
+  "name": "Scientist Jerry",
+  "team": [
+    {
+      "species": "magneton",
+      "gender": "GENDERLESS",
+      "level": 46,
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "electroball",
+        "flashcannon",
+        "screech",
+        "discharge"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "electrode",
+      "gender": "GENDERLESS",
+      "level": 47,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "magnetrise",
+        "discharge",
+        "explosion",
+        "gyroball"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "porygon",
+      "gender": "GENDERLESS",
+      "level": 48,
+      "nature": "sassy",
+      "ability": "download",
+      "moveset": [
+        "signalbeam",
+        "recycle",
+        "discharge",
+        "lockon"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

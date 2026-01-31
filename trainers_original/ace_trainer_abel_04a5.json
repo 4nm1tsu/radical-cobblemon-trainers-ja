@@ -1,0 +1,35 @@
+{
+  "name": "Ace Trainer Abel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 59,
+      "nature": "hardy",
+      "ability": "rockhead",
+      "moveset": [
+        "stoneedge",
+        "takedown",
+        "crunch",
+        "ironhead"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

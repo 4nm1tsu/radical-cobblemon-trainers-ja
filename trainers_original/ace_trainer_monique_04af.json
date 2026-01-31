@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Monique",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "kangaskhan",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "bashful",
+      "ability": "scrappy",
+      "moveset": [
+        "fakeout",
+        "suckerpunch",
+        "outrage",
+        "reversal"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "ursaring",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "impish",
+      "ability": "quickfeet",
+      "moveset": [
+        "rest",
+        "snore",
+        "slash",
+        "payback"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

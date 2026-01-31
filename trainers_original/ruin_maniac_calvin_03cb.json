@@ -1,0 +1,35 @@
+{
+  "name": "Ruin Maniac Calvin",
+  "team": [
+    {
+      "species": "bronzor",
+      "gender": "GENDERLESS",
+      "level": 21,
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "confusion",
+        "confuseray",
+        "payback",
+        "gyroball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "shieldon",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "taunt",
+        "metalsound",
+        "takedown",
+        "irondefense"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Bird Keeper Jacob",
+  "team": [
+    {
+      "species": "fearow",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "quirky",
+      "ability": "technician",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "fearow",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "fearow",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "fearow",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "gentle",
+      "ability": "technician",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (27)",
+  "team": [
+    {
+      "species": "stunky",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "quirky",
+      "ability": "aftermath",
+      "moveset": [
+        "venoshock",
+        "toxic",
+        "memento",
+        "nightslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "croagunk",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "hardy",
+      "ability": "anticipation",
+      "moveset": [
+        "mudslap",
+        "revenge",
+        "suckerpunch",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

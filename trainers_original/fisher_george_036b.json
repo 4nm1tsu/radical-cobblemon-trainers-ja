@@ -1,0 +1,64 @@
+{
+  "name": "Fisher George",
+  "team": [
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "finneon",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "raindance",
+        "waterpulse",
+        "aquaring",
+        "whirlpool"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "remoraid",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "hardy",
+      "ability": "sniper",
+      "moveset": [
+        "waterpulse",
+        "focusenergy",
+        "psybeam",
+        "icebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlpool",
+        "brine",
+        "waterfall",
+        "raindance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

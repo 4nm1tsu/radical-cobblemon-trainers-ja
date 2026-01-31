@@ -1,0 +1,50 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (38)",
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "impish",
+      "ability": "sandveil",
+      "moveset": [
+        "slash",
+        "dig",
+        "gyroball",
+        "swordsdance"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "donphan",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "slam",
+        "stompingtantrum",
+        "scaryface",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

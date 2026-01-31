@@ -1,0 +1,35 @@
+{
+  "name": "Ace Trainer Saul",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tauros",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "thrash",
+        "zenheadbutt",
+        "swagger",
+        "payback"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

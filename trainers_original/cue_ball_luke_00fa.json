@@ -1,0 +1,63 @@
+{
+  "name": "Cue Ball Luke",
+  "team": [
+    {
+      "species": "dugtrio",
+      "gender": "MALE",
+      "level": 91,
+      "nature": "jolly",
+      "ability": "arenatrap",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "aerialace",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "hariyama",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "careful",
+      "ability": "thickfat",
+      "moveset": [
+        "fakeout",
+        "knockoff",
+        "drainpunch",
+        "heavyslam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "assault_vest"
+      ]
+    }
+  ]
+}

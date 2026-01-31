@@ -1,0 +1,50 @@
+{
+  "name": "Aroma Lady Jenna",
+  "team": [
+    {
+      "species": "budew",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "budew",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "budew",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

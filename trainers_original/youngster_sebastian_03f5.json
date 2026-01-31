@@ -1,0 +1,19 @@
+{
+  "name": "Youngster Sebastian",
+  "team": [
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "naive",
+      "ability": "guts",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "focusenergy"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Juggler Mason",
+  "team": [
+    {
+      "species": "voltorb",
+      "gender": "GENDERLESS",
+      "level": 47,
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "swift",
+        "lightscreen",
+        "spark",
+        "sonicboom"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "pineco",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "spikes",
+        "bide",
+        "rapidspin",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "voltorb",
+      "gender": "GENDERLESS",
+      "level": 47,
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "swift",
+        "lightscreen",
+        "spark",
+        "sonicboom"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "pineco",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "rash",
+      "ability": "sturdy",
+      "moveset": [
+        "spikes",
+        "bide",
+        "rapidspin",
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

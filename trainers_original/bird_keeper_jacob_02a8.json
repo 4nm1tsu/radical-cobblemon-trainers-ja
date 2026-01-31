@@ -1,0 +1,93 @@
+{
+  "name": "Bird Keeper Jacob",
+  "team": [
+    {
+      "species": "fearow",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "quirky",
+      "ability": "technician",
+      "moveset": [
+        "pluck",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "rash",
+      "ability": "technician",
+      "moveset": [
+        "furyattack",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "fearow",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "lax",
+      "ability": "technician",
+      "moveset": [
+        "pluck",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "spearow",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "furyattack",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (21)",
+  "team": [
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "bashful",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

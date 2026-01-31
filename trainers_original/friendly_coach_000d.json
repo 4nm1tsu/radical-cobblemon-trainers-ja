@@ -1,0 +1,128 @@
+{
+  "name": "Friendly Coach (Spd)",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "statusMoveBias": 1,
+      "switchBias": 0,
+      "itemBias": 0
+    }
+  },
+  "team": [
+    {
+      "species": "dustox",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "adamant",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "dustox",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "docile",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "dustox",
+      "gender": "FEMALE",
+      "level": 1,
+      "nature": "hardy",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "dustox",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "serious",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "dustox",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "modest",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "dustox",
+      "gender": "FEMALE",
+      "level": 1,
+      "nature": "lax",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

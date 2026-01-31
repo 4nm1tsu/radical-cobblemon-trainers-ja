@@ -1,0 +1,20 @@
+{
+  "name": "Swimmer Ricardo",
+  "team": [
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "sassy",
+      "ability": "clearbody",
+      "moveset": [
+        "acid",
+        "waterpulse",
+        "acidarmor",
+        "poisonjab"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Gentleman Walter",
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "hasty",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "odorsleuth",
+        "helpinghand",
+        "flamewheel"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "ponyta",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "impish",
+      "ability": "runaway",
+      "moveset": [
+        "tailwhip",
+        "flamewheel",
+        "lowkick",
+        "willowisp"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

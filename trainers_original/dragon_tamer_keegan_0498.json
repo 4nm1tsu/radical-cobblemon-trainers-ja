@@ -1,0 +1,35 @@
+{
+  "name": "Dragon Tamer Keegan",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "raindance",
+        "hydropump",
+        "hyperbeam",
+        "hurricane"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

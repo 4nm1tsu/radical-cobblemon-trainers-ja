@@ -1,0 +1,50 @@
+{
+  "name": "Black Belt Luke",
+  "team": [
+    {
+      "species": "croagunk",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "hardy",
+      "ability": "anticipation",
+      "moveset": [
+        "revenge",
+        "venoshock",
+        "suckerpunch",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "smackdown",
+        "curse",
+        "sandtomb",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowsweep",
+        "knockoff",
+        "strength",
+        "dualchop"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

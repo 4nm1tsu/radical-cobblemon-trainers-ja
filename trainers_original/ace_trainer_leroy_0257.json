@@ -1,0 +1,130 @@
+{
+  "name": "Ace Trainer Leroy",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "rhydon",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "takedown",
+        "horndrill",
+        "rockblast",
+        "scaryface"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "slowbro",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "timid",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "headbutt",
+        "amnesia",
+        "disable"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "kangaskhan",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "mild",
+      "ability": "scrappy",
+      "moveset": [
+        "dizzypunch",
+        "bite",
+        "endure",
+        "reversal"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "crosschop",
+        "vitalthrow",
+        "revenge",
+        "seismictoss"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "ursaring",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "naughty",
+      "ability": "quickfeet",
+      "moveset": [
+        "slash",
+        "feintattack",
+        "snore",
+        "rest"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

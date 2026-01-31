@@ -1,0 +1,115 @@
+{
+  "name": "Picnicker Susie",
+  "team": [
+    {
+      "species": "pidgeotto",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "hardy",
+      "ability": "tangledfeet",
+      "moveset": [
+        "takedown",
+        "whirlwind",
+        "return",
+        "roost"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "technician",
+      "moveset": [
+        "furyswipes",
+        "screech",
+        "headbutt",
+        "taunt"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "raticate",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "serious",
+      "ability": "guts",
+      "moveset": [
+        "hyperfang",
+        "pursuit",
+        "zenheadbutt",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "electroball",
+        "thunderwave",
+        "feint",
+        "spark"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "technician",
+      "moveset": [
+        "furyswipes",
+        "screech",
+        "headbutt",
+        "taunt"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

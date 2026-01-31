@@ -1,0 +1,80 @@
+{
+  "name": "Black Belt Takashi",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "careful",
+      "ability": "noguard",
+      "moveset": [
+        "vitalthrow",
+        "wakeupslap",
+        "dualchop",
+        "submission"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "sassy",
+      "ability": "noguard",
+      "moveset": [
+        "wakeupslap",
+        "dualchop",
+        "submission",
+        "bulkup"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "lax",
+      "ability": "noguard",
+      "moveset": [
+        "vitalthrow",
+        "wakeupslap",
+        "dualchop",
+        "submission"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Crush Girl Cyndy",
+  "team": [
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "careful",
+      "ability": "angerpoint",
+      "moveset": [
+        "thrash",
+        "screech",
+        "stompingtantrum",
+        "outrage"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    },
+    {
+      "species": "hitmontop",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "hardy",
+      "ability": "technician",
+      "moveset": [
+        "agility",
+        "gyroball",
+        "wideguard",
+        "quickguard"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "bold",
+      "ability": "noguard",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    }
+  ]
+}

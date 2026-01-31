@@ -1,0 +1,50 @@
+{
+  "name": "Young Couple Eve \u0026 Jon",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "modest",
+      "ability": "cloudnine",
+      "moveset": [
+        "psychic",
+        "psychup",
+        "nastyplot",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "careful",
+      "ability": "cloudnine",
+      "moveset": [
+        "psychup",
+        "amnesia",
+        "hydropump",
+        "wonderroom"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

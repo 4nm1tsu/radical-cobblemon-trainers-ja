@@ -1,0 +1,20 @@
+{
+  "name": "Skier Andrea",
+  "team": [
+    {
+      "species": "staraptor",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "doubleteam",
+        "endeavor",
+        "bravebird"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

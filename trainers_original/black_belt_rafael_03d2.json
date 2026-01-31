@@ -1,0 +1,20 @@
+{
+  "name": "Black Belt Rafael",
+  "team": [
+    {
+      "species": "meditite",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "jolly",
+      "ability": "purepower",
+      "moveset": [
+        "lowkick",
+        "forcepalm",
+        "mindreader",
+        "highjumpkick"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Twin Liz",
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "pachirisu",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

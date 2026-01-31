@@ -1,0 +1,35 @@
+{
+  "name": "Hiker Reginald",
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rockpolish",
+        "rollout"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "revenge",
+        "lowsweep"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ranger Katelyn",
+  "team": [
+    {
+      "species": "chansey",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "lonely",
+      "ability": "serenegrace",
+      "moveset": [
+        "eggbomb",
+        "defensecurl",
+        "minimize",
+        "softboiled"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    }
+  ]
+}

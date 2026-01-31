@@ -1,0 +1,35 @@
+{
+  "name": "Poké Fan Meredith",
+  "team": [
+    {
+      "species": "marill",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "tailwhip",
+        "helpinghand",
+        "aquatail",
+        "playrough"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aipom",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "bashful",
+      "ability": "pickup",
+      "moveset": [
+        "tailwhip",
+        "sandattack",
+        "tickle",
+        "furyswipes"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Bird Keeper Marlon",
+  "team": [
+    {
+      "species": "dodrio",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "sassy",
+      "ability": "rockhead",
+      "moveset": [
+        "jumpkick",
+        "doubleedge",
+        "endeavor",
+        "thrash"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "toucannon",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "bold",
+      "ability": "frisk",
+      "moveset": [
+        "drillpeck",
+        "bulletseed",
+        "featherdance",
+        "hypervoice"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "murkrow",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "modest",
+      "ability": "insomnia",
+      "moveset": [
+        "meanlook",
+        "snarl",
+        "tailwind",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

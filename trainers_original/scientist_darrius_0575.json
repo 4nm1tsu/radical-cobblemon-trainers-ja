@@ -1,0 +1,20 @@
+{
+  "name": "Scientist Darrius",
+  "team": [
+    {
+      "species": "kadabra",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "sassy",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "reflect",
+        "psyshock",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

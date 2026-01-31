@@ -1,0 +1,53 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (11)",
+  "team": [
+    {
+      "species": "raticate",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "mild",
+      "ability": "hustle",
+      "moveset": [
+        "crunch",
+        "suckerpunch",
+        "superfang",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "liepard",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "jolly",
+      "ability": "unburden",
+      "moveset": [
+        "honeclaws",
+        "assurance",
+        "slash",
+        "taunt"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

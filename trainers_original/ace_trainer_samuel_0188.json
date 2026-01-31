@@ -1,0 +1,130 @@
+{
+  "name": "Ace Trainer Samuel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "bashful",
+      "ability": "sandveil",
+      "moveset": [
+        "slash",
+        "swift",
+        "sandattack",
+        "poisonsting"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "sandslash",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "rash",
+      "ability": "sandveil",
+      "moveset": [
+        "slash",
+        "swift",
+        "sandattack",
+        "poisonsting"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "rhyhorn",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "naive",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "rockblast",
+        "furyattack",
+        "scaryface"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "nidorino",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "modest",
+      "ability": "poisontouch",
+      "moveset": [
+        "furyattack",
+        "hornattack",
+        "poisonsting",
+        "doublekick"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "timid",
+      "ability": "poisontouch",
+      "moveset": [
+        "thrash",
+        "doublekick",
+        "poisonsting",
+        "focusenergy"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

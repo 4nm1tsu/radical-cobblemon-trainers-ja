@@ -1,0 +1,27 @@
+{
+  "name": "Psychic Dario",
+  "team": [
+    {
+      "species": "girafarig",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "lax",
+      "ability": "earlybird",
+      "moveset": [
+        "crunch",
+        "psybeam",
+        "odorsleuth",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

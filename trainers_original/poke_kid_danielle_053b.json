@@ -1,0 +1,20 @@
+{
+  "name": "Poké Kid Danielle",
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "sweetkiss",
+        "charm",
+        "slam",
+        "thunder"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

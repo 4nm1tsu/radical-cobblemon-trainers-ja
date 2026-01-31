@@ -1,0 +1,27 @@
+{
+  "name": "Channeler Paula",
+  "team": [
+    {
+      "species": "froslass",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "lax",
+      "ability": "snowcloak",
+      "moveset": [
+        "drainingkiss",
+        "willowisp",
+        "confuseray",
+        "shadowball"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

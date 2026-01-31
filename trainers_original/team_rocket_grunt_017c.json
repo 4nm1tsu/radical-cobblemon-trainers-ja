@@ -1,0 +1,50 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (34)",
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "quirky",
+      "ability": "sheerforce",
+      "moveset": [
+        "rockslide",
+        "dynamicpunch",
+        "scaryface",
+        "hammerarm"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "toxicroak",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "gentle",
+      "ability": "dryskin",
+      "moveset": [
+        "mudbomb",
+        "suckerpunch",
+        "venoshock",
+        "nastyplot"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

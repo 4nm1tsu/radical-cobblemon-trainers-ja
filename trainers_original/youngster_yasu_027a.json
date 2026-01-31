@@ -1,0 +1,71 @@
+{
+  "name": "Youngster Yasu",
+  "team": [
+    {
+      "species": "raticate",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "hardy",
+      "ability": "runaway",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "raticate",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "timid",
+      "ability": "runaway",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "raticate",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "naughty",
+      "ability": "runaway",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

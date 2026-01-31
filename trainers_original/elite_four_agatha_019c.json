@@ -1,0 +1,134 @@
+{
+  "name": "Agatha",
+  "identity": "Elite Four Agatha",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "lax",
+      "ability": "levitate",
+      "moveset": [
+        "shadowpunch",
+        "confuseray",
+        "toxic",
+        "doubleteam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "docile",
+      "ability": "infiltrator",
+      "moveset": [
+        "confuseray",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "hypnosis",
+        "dreameater",
+        "curse",
+        "meanlook"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "arbok",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "sludgebomb",
+        "screech",
+        "irontail",
+        "bite"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 58,
+      "nature": "serious",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "sludgebomb",
+        "hypnosis",
+        "nightmare"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "sitrus_berry"
+      ]
+    }
+  ]
+}

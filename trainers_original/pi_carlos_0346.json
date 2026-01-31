@@ -1,0 +1,50 @@
+{
+  "name": "PI Carlos",
+  "team": [
+    {
+      "species": "goldeen",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "timid",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "tailwhip",
+        "supersonic",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "goldeen",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "supersonic",
+        "waterpulse",
+        "hornattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "goldeen",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "waterpulse",
+        "hornattack",
+        "agility"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

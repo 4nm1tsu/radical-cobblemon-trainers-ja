@@ -1,0 +1,35 @@
+{
+  "name": "Pokémon Breeder Kaylee",
+  "team": [
+    {
+      "species": "stunky",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "impish",
+      "ability": "stench",
+      "moveset": [
+        "poisongas",
+        "acidspray",
+        "furyswipes",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "buizel",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "impish",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "watergun",
+        "bite",
+        "swift"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

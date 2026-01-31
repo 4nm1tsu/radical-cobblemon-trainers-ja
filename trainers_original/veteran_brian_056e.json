@@ -1,0 +1,65 @@
+{
+  "name": "Veteran Brian",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "buizel",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "tailwhip",
+        "bite",
+        "aquajet"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "girafarig",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "astonish",
+        "stomp",
+        "psybeam",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "focusenergy",
+        "lowsweep",
+        "knockoff",
+        "dualchop"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

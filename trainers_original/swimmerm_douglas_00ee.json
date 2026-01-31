@@ -1,0 +1,93 @@
+{
+  "name": "Swimmer♂ Douglas",
+  "team": [
+    {
+      "species": "azumarill",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "rash",
+      "ability": "hugepower",
+      "moveset": [
+        "raindance",
+        "doubleedge",
+        "superpower",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "rash",
+      "ability": "liquidooze",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "timid",
+      "ability": "liquidooze",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "lumineon",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "naughty",
+      "ability": "stormdrain",
+      "moveset": [
+        "tailwind",
+        "uturn",
+        "bounce",
+        "tailglow"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

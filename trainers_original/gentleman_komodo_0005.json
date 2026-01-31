@@ -1,0 +1,26 @@
+{
+  "name": "Gentleman Komodo",
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pokémon Ranger Deshawn",
+  "team": [
+    {
+      "species": "spinda",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "bashful",
+      "ability": "owntempo",
+      "moveset": [
+        "psychup",
+        "doubleedge",
+        "flail",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "kecleon",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "serious",
+      "ability": "colorchange",
+      "moveset": [
+        "screech",
+        "substitute",
+        "suckerpunch",
+        "shadowclaw"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

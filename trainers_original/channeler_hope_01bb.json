@@ -1,0 +1,27 @@
+{
+  "name": "Channeler Hope",
+  "team": [
+    {
+      "species": "banette",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "hasty",
+      "ability": "insomnia",
+      "moveset": [
+        "hex",
+        "curse",
+        "shadowball",
+        "embargo"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

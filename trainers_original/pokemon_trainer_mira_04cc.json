@@ -1,0 +1,43 @@
+{
+  "name": "Pokémon Trainer Mira",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:super_potion",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "kadabra",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "psybeam",
+        "reflect",
+        "allyswitch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spd": 31
+      },
+      "evs": {
+        "hp": 172,
+        "def": 168,
+        "spd": 168
+      }
+    }
+  ]
+}

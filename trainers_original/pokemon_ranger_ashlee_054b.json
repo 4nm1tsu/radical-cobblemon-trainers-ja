@@ -1,0 +1,35 @@
+{
+  "name": "Pokémon Ranger Ashlee",
+  "team": [
+    {
+      "species": "linoone",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "slash",
+        "rest",
+        "bellydrum",
+        "doubleedge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "skarmory",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "steelwing",
+        "bravebird",
+        "slash",
+        "irondefense"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

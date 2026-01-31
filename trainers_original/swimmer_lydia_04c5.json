@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Lydia",
+  "team": [
+    {
+      "species": "bibarel",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "careful",
+      "ability": "simple",
+      "moveset": [
+        "superfang",
+        "takedown",
+        "amnesia",
+        "aquajet"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "azumarill",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "superpower",
+        "aquatail",
+        "doubleedge",
+        "playrough"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "sealeo",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "surf",
+        "blizzard",
+        "rest",
+        "snore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

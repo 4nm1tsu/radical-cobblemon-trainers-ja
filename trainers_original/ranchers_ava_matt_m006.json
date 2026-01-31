@@ -1,0 +1,36 @@
+{
+  "name": "Ranchers Ava \u0026 Matt",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "stunky",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "relaxed",
+      "ability": "stench",
+      "moveset": [
+        "poisongas",
+        "smokescreen",
+        "acidspray",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "glameow",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "relaxed",
+      "ability": "limber",
+      "moveset": [
+        "fakeout",
+        "growl",
+        "aerialace",
+        "furyswipes"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Black Belt Nathaniel",
+  "team": [
+    {
+      "species": "croagunk",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "hardy",
+      "ability": "anticipation",
+      "moveset": [
+        "poisonsting",
+        "mudslap",
+        "flatter",
+        "revenge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meditite",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "feint",
+        "forcepalm",
+        "psybeam",
+        "calmmind"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "scaryface"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

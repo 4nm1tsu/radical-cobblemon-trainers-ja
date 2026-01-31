@@ -1,0 +1,35 @@
+{
+  "name": "Ninja Boy Nick",
+  "team": [
+    {
+      "species": "skorupi",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "naive",
+      "ability": "battlearmor",
+      "moveset": [
+        "honeclaws",
+        "poisonfang",
+        "bugbite",
+        "knockoff"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "absorb",
+        "poisonfang",
+        "aircutter"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

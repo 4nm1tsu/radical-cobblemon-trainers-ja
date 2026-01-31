@@ -1,0 +1,71 @@
+{
+  "name": "Burglar Quinn",
+  "team": [
+    {
+      "species": "incineroar",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "naughty",
+      "ability": "blaze",
+      "moveset": [
+        "scaryface",
+        "flareblitz",
+        "outrage",
+        "crosschop"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "delphox",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "wish",
+        "psychic",
+        "sunnyday",
+        "magicroom"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "emboar",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "bold",
+      "ability": "reckless",
+      "moveset": [
+        "flamethrower",
+        "headsmash",
+        "jumpkick",
+        "flareblitz"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

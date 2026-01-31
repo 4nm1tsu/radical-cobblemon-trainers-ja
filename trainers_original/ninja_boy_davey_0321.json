@@ -1,0 +1,20 @@
+{
+  "name": "Ninja Boy Davey",
+  "team": [
+    {
+      "species": "dustox",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "hasty",
+      "ability": "shielddust",
+      "moveset": [
+        "poisonpowder",
+        "venoshock",
+        "leechlife",
+        "lightscreen"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

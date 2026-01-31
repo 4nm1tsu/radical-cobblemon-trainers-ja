@@ -1,0 +1,83 @@
+{
+  "name": "Rival Wayne",
+  "team": [
+    {
+      "species": "toucannon",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "pluck",
+        "furyattack",
+        "rockblast",
+        "roost"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "swinub",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "iceshard",
+        "mudbomb",
+        "flail",
+        "mist"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "pupitar",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "rocktomb",
+        "darkpulse",
+        "bulldoze",
+        "screech"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spd": 252
+      }
+    }
+  ]
+}

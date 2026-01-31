@@ -1,0 +1,49 @@
+{
+  "name": "Camper Jeff",
+  "team": [
+    {
+      "species": "fearow",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "bashful",
+      "ability": "frisk",
+      "moveset": [
+        "pluck",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "raticate",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "rash",
+      "ability": "runaway",
+      "moveset": [
+        "pursuit",
+        "zenheadbutt",
+        "crunch",
+        "return"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

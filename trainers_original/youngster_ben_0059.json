@@ -1,0 +1,49 @@
+{
+  "name": "Youngster Ben",
+  "team": [
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "bashful",
+      "ability": "guts",
+      "moveset": [
+        "tailwhip",
+        "quickattack",
+        "focusenergy",
+        "hyperfang"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "stunky",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "modest",
+      "ability": "aftermath",
+      "moveset": [
+        "focusenergy",
+        "poisongas",
+        "screech",
+        "poisontail"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

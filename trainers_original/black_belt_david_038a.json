@@ -1,0 +1,35 @@
+{
+  "name": "Black Belt David",
+  "team": [
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "screech",
+        "sandstorm",
+        "rocktomb",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "steelix",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "thunderfang",
+        "icefang",
+        "autotomize",
+        "dig"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Pokémon Trainer Marley",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "burnup",
+        "helpinghand",
+        "leer",
+        "howl"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spd": 31
+      },
+      "evs": {
+        "hp": 172,
+        "def": 168,
+        "spd": 168
+      }
+    }
+  ]
+}

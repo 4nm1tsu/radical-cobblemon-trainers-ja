@@ -1,0 +1,115 @@
+{
+  "name": "Picnicker Hannah",
+  "team": [
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "mild",
+      "ability": "frisk",
+      "moveset": [
+        "takedown",
+        "whirlwind",
+        "return",
+        "roost"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "careful",
+      "ability": "pickup",
+      "moveset": [
+        "bulletseed",
+        "furyswipes",
+        "screech",
+        "headbutt"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "rattata",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "bashful",
+      "ability": "runaway",
+      "moveset": [
+        "hyperfang",
+        "pursuit",
+        "assurance",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "quickattack",
+        "electroball",
+        "thunderwave",
+        "feint"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "meowth",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "bold",
+      "ability": "pickup",
+      "moveset": [
+        "bulletseed",
+        "furyswipes",
+        "screech",
+        "headbutt"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

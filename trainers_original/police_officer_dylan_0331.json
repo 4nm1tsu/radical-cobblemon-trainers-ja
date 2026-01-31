@@ -1,0 +1,35 @@
+{
+  "name": "Police Officer Dylan",
+  "team": [
+    {
+      "species": "hoothoot",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "sassy",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "echoedvoice",
+        "reflect",
+        "psychoshift"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meditite",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "confusion",
+        "detect",
+        "feint",
+        "forcepalm"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Tuber Mariel",
+  "team": [
+    {
+      "species": "marill",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "charm",
+        "aquatail",
+        "aquaring",
+        "raindance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marill",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "slam",
+        "bounce",
+        "aquatail",
+        "playrough"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

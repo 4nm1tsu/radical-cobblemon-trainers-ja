@@ -1,0 +1,50 @@
+{
+  "name": "Ruin Maniac Karl",
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "sandstorm",
+        "harden",
+        "rockthrow"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rollout",
+        "rockthrow"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bronzor",
+      "gender": "GENDERLESS",
+      "level": 18,
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "confusion",
+        "confuseray",
+        "payback",
+        "gyroball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

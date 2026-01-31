@@ -1,0 +1,50 @@
+{
+  "name": "Sis And Bro Lia \u0026 Luc",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "vaporeon",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "haze",
+        "muddywater",
+        "lastresort",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "mantine",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "quirky",
+      "ability": "waterabsorb",
+      "moveset": [
+        "airslash",
+        "aquaring",
+        "bounce",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

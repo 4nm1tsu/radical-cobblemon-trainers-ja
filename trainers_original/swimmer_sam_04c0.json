@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Sam",
+  "team": [
+    {
+      "species": "chinchou",
+      "gender": "MALE",
+      "level": 51,
+      "nature": "sassy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "discharge",
+        "aquaring",
+        "hydropump",
+        "thunderwave"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lanturn",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "sassy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "discharge",
+        "aquaring",
+        "bubblebeam",
+        "stockpile"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

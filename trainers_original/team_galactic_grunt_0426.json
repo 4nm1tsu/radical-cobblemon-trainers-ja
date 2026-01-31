@@ -1,0 +1,36 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (10)",
+  "team": [
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "bashful",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "astonish",
+        "poisonfang",
+        "aircutter"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "croagunk",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "quirky",
+      "ability": "anticipation",
+      "moveset": [
+        "revenge",
+        "venoshock",
+        "suckerpunch",
+        "toxic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

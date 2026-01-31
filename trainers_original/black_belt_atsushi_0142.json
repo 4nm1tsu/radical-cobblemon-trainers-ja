@@ -1,0 +1,55 @@
+{
+  "name": "Black Belt Atsushi",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "mild",
+      "ability": "noguard",
+      "moveset": [
+        "vitalthrow",
+        "wakeupslap",
+        "dualchop",
+        "submission"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    },
+    {
+      "species": "crabrawler",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "mild",
+      "ability": "ironfist",
+      "moveset": [
+        "dizzypunch",
+        "payback",
+        "reversal",
+        "crabhammer"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    }
+  ]
+}

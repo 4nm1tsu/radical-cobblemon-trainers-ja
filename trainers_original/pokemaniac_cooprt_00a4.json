@@ -1,0 +1,71 @@
+{
+  "name": "Pokémaniac Cooprt",
+  "team": [
+    {
+      "species": "mightyena",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "poisonfang",
+        "assurance",
+        "scaryface",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "flareon",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "firefang",
+        "firespin",
+        "scaryface",
+        "smog"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "porygon",
+      "gender": "GENDERLESS",
+      "level": 35,
+      "nature": "docile",
+      "ability": "trace",
+      "moveset": [
+        "recover",
+        "magnetrise",
+        "signalbeam",
+        "recycle"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

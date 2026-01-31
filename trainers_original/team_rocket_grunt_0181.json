@@ -1,0 +1,97 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (39)",
+  "team": [
+    {
+      "species": "perrserker",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "gentle",
+      "ability": "toughclaws",
+      "moveset": [
+        "furyswipes",
+        "screech",
+        "slash",
+        "metalsound"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "careful",
+      "ability": "sniper",
+      "moveset": [
+        "dualwingbeat",
+        "haze",
+        "venoshock",
+        "airslash"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "thievul",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "adamant",
+      "ability": "unburden",
+      "moveset": [
+        "nightslash",
+        "darkpulse",
+        "mysticalfire",
+        "foulplay"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "raticate",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "adamant",
+      "ability": "hustle",
+      "moveset": [
+        "suckerpunch",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ]
+}

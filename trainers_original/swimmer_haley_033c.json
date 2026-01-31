@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Haley",
+  "team": [
+    {
+      "species": "marill",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "charm",
+        "aquatail",
+        "playrough",
+        "raindance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "azumarill",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "tackle",
+        "bubblebeam",
+        "bounce",
+        "playrough"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

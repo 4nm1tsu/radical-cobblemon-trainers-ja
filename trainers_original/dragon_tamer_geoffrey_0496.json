@@ -1,0 +1,50 @@
+{
+  "name": "Dragon Tamer Geoffrey",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dratini",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "adamant",
+      "ability": "shedskin",
+      "moveset": [
+        "dragonrush",
+        "dragondance",
+        "outrage",
+        "safeguard"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonair",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "jolly",
+      "ability": "shedskin",
+      "moveset": [
+        "dragonrush",
+        "dragondance",
+        "aquatail",
+        "safeguard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

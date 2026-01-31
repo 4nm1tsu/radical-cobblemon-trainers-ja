@@ -1,0 +1,49 @@
+{
+  "name": "Pokémaniac Hector",
+  "team": [
+    {
+      "species": "rhyhorn",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "mild",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "stoneedge",
+        "earthquake",
+        "megahorn"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "kangaskhan",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "quiet",
+      "ability": "earlybird",
+      "moveset": [
+        "crunch",
+        "endure",
+        "outrage",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

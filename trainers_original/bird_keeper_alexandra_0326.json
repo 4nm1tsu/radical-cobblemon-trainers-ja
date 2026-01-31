@@ -1,0 +1,20 @@
+{
+  "name": "Bird Keeper Alexandra",
+  "team": [
+    {
+      "species": "hoothoot",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "calm",
+      "ability": "keeneye",
+      "moveset": [
+        "peck",
+        "echoedvoice",
+        "confusion",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

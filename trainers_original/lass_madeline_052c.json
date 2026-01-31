@@ -1,0 +1,34 @@
+{
+  "name": "Lass Madeline",
+  "team": [
+    {
+      "species": "staraptor",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "aerialace",
+        "closecombat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bibarel",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "aquajet",
+        "headbutt",
+        "crunch",
+        "superfang"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

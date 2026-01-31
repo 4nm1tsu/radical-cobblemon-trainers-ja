@@ -1,0 +1,49 @@
+{
+  "name": "Aroma Lady Miah",
+  "team": [
+    {
+      "species": "bellossom",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "sassy",
+      "ability": "chlorophyll",
+      "moveset": [
+        "stunspore",
+        "sunnyday",
+        "petalblizzard",
+        "petaldance"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "bellossom",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "naughty",
+      "ability": "chlorophyll",
+      "moveset": [
+        "stunspore",
+        "sunnyday",
+        "petalblizzard",
+        "petaldance"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

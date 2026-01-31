@@ -1,0 +1,50 @@
+{
+  "name": "Twins Eli \u0026 Anne",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "clefairy",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "gentle",
+      "ability": "cutecharm",
+      "moveset": [
+        "followme",
+        "thunderwave",
+        "wish",
+        "storedpower"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "jigglypuff",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "gentle",
+      "ability": "cutecharm",
+      "moveset": [
+        "stockpile",
+        "swallow",
+        "spitup",
+        "wakeupslap"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

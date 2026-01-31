@@ -1,0 +1,26 @@
+{
+  "name": "Player Leaf",
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    }
+  ]
+}

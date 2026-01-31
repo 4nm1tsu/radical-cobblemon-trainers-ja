@@ -1,0 +1,30 @@
+{
+  "name": "Rival Wayne",
+  "team": [
+    {
+      "species": "beldum",
+      "gender": "GENDERLESS",
+      "level": 17,
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "tackle",
+        "flash",
+        "ironhead"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      }
+    }
+  ]
+}

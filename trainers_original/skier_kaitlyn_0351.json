@@ -1,0 +1,35 @@
+{
+  "name": "Skier Kaitlyn",
+  "team": [
+    {
+      "species": "roselia",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "poisonsting",
+        "leechseed",
+        "gigadrain",
+        "synthesis"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "snover",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "quirky",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "razorleaf",
+        "icywind",
+        "ingrain"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Pokémon Breeder Albert",
+  "team": [
+    {
+      "species": "bonsly",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "copycat",
+        "flail",
+        "rockthrow",
+        "mimic"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "budew",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pichu",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "playnice",
+        "nuzzle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

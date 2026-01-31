@@ -1,0 +1,50 @@
+{
+  "name": "Pokémon Breeder Albert",
+  "team": [
+    {
+      "species": "sudowoodo",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "woodhammer",
+        "flail",
+        "rockthrow",
+        "tearfullook"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "roselia",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "megadrain",
+        "leechseed",
+        "magicalleaf",
+        "toxicspikes"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "electroball",
+        "spark"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

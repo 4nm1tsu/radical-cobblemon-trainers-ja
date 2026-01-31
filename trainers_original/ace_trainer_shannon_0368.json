@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Shannon",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "cherrim",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "timid",
+      "ability": "flowergift",
+      "moveset": [
+        "morningsun",
+        "growth",
+        "magicalleaf",
+        "leechseed"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "marill",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "slam",
+        "bounce",
+        "aquatail",
+        "playrough"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lopunny",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "jolly",
+      "ability": "cutecharm",
+      "moveset": [
+        "mirrorcoat",
+        "doublekick",
+        "charm",
+        "headbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

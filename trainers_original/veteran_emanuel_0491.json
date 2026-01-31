@@ -1,0 +1,50 @@
+{
+  "name": "Veteran Emanuel",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "revenge",
+        "lowsweep",
+        "knockoff"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bronzor",
+      "gender": "GENDERLESS",
+      "level": 23,
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "tackle",
+        "confuseray",
+        "payback",
+        "gyroball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

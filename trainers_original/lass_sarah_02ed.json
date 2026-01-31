@@ -1,0 +1,19 @@
+{
+  "name": "Lass Sarah",
+  "team": [
+    {
+      "species": "bidoof",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "tackle",
+        "growl",
+        "defensecurl"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

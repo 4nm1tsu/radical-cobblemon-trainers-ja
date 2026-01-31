@@ -1,0 +1,65 @@
+{
+  "name": "Ace Trainer Dalton",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "electroball",
+        "agility",
+        "lightscreen"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pelipper",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "airslash",
+        "tailwind",
+        "waterpulse",
+        "stockpile"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "hippopotas",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "relaxed",
+      "ability": "sandstream",
+      "moveset": [
+        "yawn",
+        "sandtomb",
+        "crunch",
+        "rest"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Young Couple Mike \u0026 Nat",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "murkrow",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "bashful",
+      "ability": "insomnia",
+      "moveset": [
+        "peck",
+        "astonish",
+        "gust",
+        "wingattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "misdreavus",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "growl",
+        "confusion",
+        "astonish",
+        "confuseray"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

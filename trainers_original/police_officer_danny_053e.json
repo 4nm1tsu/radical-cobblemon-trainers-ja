@@ -1,0 +1,35 @@
+{
+  "name": "Police Officer Danny",
+  "team": [
+    {
+      "species": "noctowl",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "psychoshift",
+        "moonblast",
+        "hypnosis",
+        "dreameater"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "knockoff",
+        "dualchop",
+        "dynamicpunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

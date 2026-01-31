@@ -1,0 +1,30 @@
+{
+  "name": "Burglar Simon",
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "timid",
+      "ability": "serenegrace",
+      "moveset": [
+        "iceshard",
+        "confuseray",
+        "safeguard",
+        "frostbreath"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {},
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ]
+}

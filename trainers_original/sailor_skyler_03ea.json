@@ -1,0 +1,35 @@
+{
+  "name": "Sailor Skyler",
+  "team": [
+    {
+      "species": "mantyke",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "tackle",
+        "supersonic",
+        "wingattack",
+        "bubblebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "icefang",
+        "waterfall",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

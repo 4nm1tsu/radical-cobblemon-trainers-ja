@@ -1,0 +1,53 @@
+{
+  "name": "Friendly Teacher",
+  "team": [
+    {
+      "species": "weezing",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "bold",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "shadowball",
+        "sludgebomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "choice_band"
+      ],
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "eviolite"
+      ]
+    }
+  ]
+}

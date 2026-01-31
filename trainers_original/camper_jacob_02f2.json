@@ -1,0 +1,20 @@
+{
+  "name": "Camper Jacob",
+  "team": [
+    {
+      "species": "ponyta",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "hasty",
+      "ability": "flashfire",
+      "moveset": [
+        "tackle",
+        "growl",
+        "tailwhip",
+        "ember"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Mariah",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 46,
+      "nature": "calm",
+      "ability": "cloudnine",
+      "moveset": [
+        "zenheadbutt",
+        "aquajet",
+        "tailwhip",
+        "aquatail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "calm",
+      "ability": "serenegrace",
+      "moveset": [
+        "disarmingvoice",
+        "doubleedge",
+        "softboiled",
+        "lastresort"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

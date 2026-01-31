@@ -1,0 +1,49 @@
+{
+  "name": "Hiker Jeremy",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "impish",
+      "ability": "guts",
+      "moveset": [
+        "revenge",
+        "knockoff",
+        "vitalthrow",
+        "wakeupslap"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "rash",
+      "ability": "rockhead",
+      "moveset": [
+        "gyroball",
+        "smackdown",
+        "dragonbreath",
+        "slam"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

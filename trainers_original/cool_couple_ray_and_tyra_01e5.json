@@ -1,0 +1,64 @@
+{
+  "name": "Cool Couple Ray \u0026 Tyra",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "modest",
+      "ability": "sheerforce",
+      "moveset": [
+        "icebeam",
+        "earthpower",
+        "sludgebomb",
+        "flamethrower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spe": 6
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "icebeam",
+        "earthpower",
+        "sludgebomb",
+        "flamethrower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    }
+  ]
+}

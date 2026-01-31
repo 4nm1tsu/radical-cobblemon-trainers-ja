@@ -1,0 +1,49 @@
+{
+  "name": "Ranger Madeline",
+  "team": [
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "impish",
+      "ability": "chlorophyll",
+      "moveset": [
+        "petaldance",
+        "moonlight",
+        "acid",
+        "sleeppowder"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "jolly",
+      "ability": "chlorophyll",
+      "moveset": [
+        "petaldance",
+        "moonlight",
+        "acid",
+        "stunspore"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {}
+    }
+  ]
+}

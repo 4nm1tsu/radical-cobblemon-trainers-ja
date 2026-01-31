@@ -1,0 +1,36 @@
+{
+  "name": "Ranchers Beth \u0026 Bob",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "ponyta",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "sassy",
+      "ability": "runaway",
+      "moveset": [
+        "tackle",
+        "growl",
+        "tailwhip",
+        "flamecharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "buizel",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "watergun",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

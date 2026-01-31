@@ -1,0 +1,32 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (1)",
+  "team": [
+    {
+      "species": "wurmple",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "serious",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "silcoon",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "bashful",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

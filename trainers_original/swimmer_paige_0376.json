@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Paige",
+  "team": [
+    {
+      "species": "marill",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "charm",
+        "playrough",
+        "raindance"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "wingull",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "bashful",
+      "ability": "hydration",
+      "moveset": [
+        "quickattack",
+        "waterpulse",
+        "airslash",
+        "mist"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "zenheadbutt",
+        "screech",
+        "aquatail"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

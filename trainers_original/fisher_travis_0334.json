@@ -1,0 +1,65 @@
+{
+  "name": "Fisher Travis",
+  "team": [
+    {
+      "species": "barboach",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "rest",
+        "snore",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "barboach",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "rest",
+        "snore",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "shellos",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "barboach",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "rest",
+        "snore",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

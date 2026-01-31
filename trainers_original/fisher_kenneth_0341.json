@@ -1,0 +1,48 @@
+{
+  "name": "Fisher Kenneth",
+  "team": [
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "remoraid",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "hardy",
+      "ability": "hustle",
+      "moveset": [
+        "waterpulse",
+        "focusenergy",
+        "psybeam",
+        "aurorabeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 22,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "twister",
+        "icefang",
+        "waterfall"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

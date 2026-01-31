@@ -1,0 +1,35 @@
+{
+  "name": "Picnicker Tori",
+  "team": [
+    {
+      "species": "silcoon",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "jolly",
+      "ability": "shedskin",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting",
+        "harden"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "beautifly",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "stringshot",
+        "gust",
+        "absorb",
+        "stunspore"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

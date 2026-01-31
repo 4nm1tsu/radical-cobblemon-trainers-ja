@@ -1,0 +1,20 @@
+{
+  "name": "Black Belt Miles",
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowsweep",
+        "knockoff",
+        "dualchop",
+        "bulkup"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

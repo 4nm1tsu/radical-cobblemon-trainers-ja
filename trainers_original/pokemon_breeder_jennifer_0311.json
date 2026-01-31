@@ -1,0 +1,50 @@
+{
+  "name": "Pokémon Breeder Jennifer",
+  "team": [
+    {
+      "species": "mimejr",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "timid",
+      "ability": "filter",
+      "moveset": [
+        "pound",
+        "copycat",
+        "encore",
+        "confusion"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "budew",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "hasty",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "cleffa",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "hasty",
+      "ability": "cutecharm",
+      "moveset": [
+        "pound",
+        "sing",
+        "sweetkiss",
+        "disarmingvoice"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

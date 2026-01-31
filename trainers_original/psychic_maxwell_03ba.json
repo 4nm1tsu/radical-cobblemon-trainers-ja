@@ -1,0 +1,35 @@
+{
+  "name": "Psychic Maxwell",
+  "team": [
+    {
+      "species": "misdreavus",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "meanlook",
+        "perishsong",
+        "shadowball",
+        "painsplit"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "darkpulse",
+        "destinybond",
+        "curse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

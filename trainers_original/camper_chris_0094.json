@@ -1,0 +1,49 @@
+{
+  "name": "Camper Chris",
+  "team": [
+    {
+      "species": "ponyta",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "bashful",
+      "ability": "flashfire",
+      "moveset": [
+        "willowisp",
+        "flamecharge",
+        "firespin",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "pignite",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "quiet",
+      "ability": "blaze",
+      "moveset": [
+        "suckerpunch",
+        "rollout",
+        "takedown",
+        "heatcrash"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Picnicker Cheyenne",
+  "team": [
+    {
+      "species": "drifloon",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "calm",
+      "ability": "aftermath",
+      "moveset": [
+        "gust",
+        "stockpile",
+        "swallow",
+        "spitup"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "misdreavus",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "meanlook",
+        "hex",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pokémon Ranger Taylor",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "bite",
+        "spark",
+        "voltswitch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "floatzel",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "icefang",
+        "crunch",
+        "aquajet",
+        "whirlpool"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

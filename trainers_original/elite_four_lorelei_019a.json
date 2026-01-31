@@ -1,0 +1,134 @@
+{
+  "name": "Lorelei",
+  "identity": "Elite Four Lorelei",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "dewgong",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "naughty",
+      "ability": "icescales",
+      "moveset": [
+        "icebeam",
+        "surf",
+        "hail",
+        "safeguard"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "cloyster",
+      "gender": "FEMALE",
+      "level": 51,
+      "nature": "bold",
+      "ability": "skilllink",
+      "moveset": [
+        "spikes",
+        "protect",
+        "hail",
+        "dive"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "slowbro",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "sassy",
+      "ability": "owntempo",
+      "moveset": [
+        "icebeam",
+        "surf",
+        "amnesia",
+        "yawn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "jynx",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "bold",
+      "ability": "forewarn",
+      "moveset": [
+        "icepunch",
+        "doubleslap",
+        "lovelykiss",
+        "attract"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "lapras",
+      "gender": "FEMALE",
+      "level": 54,
+      "nature": "serious",
+      "ability": "hydration",
+      "moveset": [
+        "confuseray",
+        "icebeam",
+        "surf",
+        "bodyslam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "sitrus_berry"
+      ]
+    }
+  ]
+}

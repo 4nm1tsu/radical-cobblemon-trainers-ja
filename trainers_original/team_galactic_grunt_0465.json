@@ -1,0 +1,21 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (23)",
+  "team": [
+    {
+      "species": "stunky",
+      "gender": "MALE",
+      "level": 37,
+      "nature": "docile",
+      "ability": "aftermath",
+      "moveset": [
+        "smokescreen",
+        "venoshock",
+        "toxic",
+        "nightslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

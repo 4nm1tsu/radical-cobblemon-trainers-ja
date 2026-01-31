@@ -1,0 +1,30 @@
+{
+  "name": "Black Belt Kiyo",
+  "team": [
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 43,
+      "nature": "mild",
+      "ability": "guts",
+      "moveset": [
+        "wakeupslap",
+        "dualchop",
+        "submission",
+        "bulkup"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Evan",
+  "team": [
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "sassy",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "tailwhip",
+        "zenheadbutt",
+        "aquatail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "sassy",
+      "ability": "damp",
+      "moveset": [
+        "furyswipes",
+        "waterpulse",
+        "zenheadbutt",
+        "aquatail"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

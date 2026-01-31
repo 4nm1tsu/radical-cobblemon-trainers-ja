@@ -1,0 +1,35 @@
+{
+  "name": "Ace Trainer Anton",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "snover",
+      "gender": "MALE",
+      "level": 39,
+      "nature": "relaxed",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "razorleaf",
+        "waterpulse",
+        "blizzard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

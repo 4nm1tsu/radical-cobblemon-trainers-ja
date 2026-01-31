@@ -1,0 +1,35 @@
+{
+  "name": "Psychic Maxwell",
+  "team": [
+    {
+      "species": "misdreavus",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "meanlook",
+        "perishsong",
+        "shadowball",
+        "painsplit"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "shadowball",
+        "darkpulse",
+        "destinybond",
+        "curse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

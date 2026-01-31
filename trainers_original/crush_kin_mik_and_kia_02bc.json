@@ -1,0 +1,56 @@
+{
+  "name": "Crush Kin Mik \u0026 Kia",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "bold",
+      "ability": "noguard",
+      "moveset": [
+        "submission",
+        "bulkup",
+        "crosschop",
+        "scaryface"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "serious",
+      "ability": "angerpoint",
+      "moveset": [
+        "screech",
+        "stompingtantrum",
+        "outrage",
+        "crosschop"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "black_belt"
+      ]
+    }
+  ]
+}

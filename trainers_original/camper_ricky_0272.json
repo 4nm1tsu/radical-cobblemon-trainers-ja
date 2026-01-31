@@ -1,0 +1,27 @@
+{
+  "name": "Camper Ricky",
+  "team": [
+    {
+      "species": "wartortle",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "lax",
+      "ability": "torrent",
+      "moveset": [
+        "skullbash",
+        "irondefense",
+        "raindance",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

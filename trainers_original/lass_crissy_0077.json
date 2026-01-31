@@ -1,0 +1,71 @@
+{
+  "name": "Lass Crissy",
+  "team": [
+    {
+      "species": "parasect",
+      "gender": "FEMALE",
+      "level": 59,
+      "nature": "rash",
+      "ability": "effectspore",
+      "moveset": [
+        "sappyseed",
+        "crabhammer",
+        "aromatherapy",
+        "ragepowder"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "amoonguss",
+      "gender": "FEMALE",
+      "level": 59,
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "synthesis",
+        "sludgebomb",
+        "solarbeam",
+        "ragepowder"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "leavanny",
+      "gender": "MALE",
+      "level": 59,
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "entrainment",
+        "swordsdance",
+        "leafstorm",
+        "sacredsword"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

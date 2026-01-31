@@ -1,0 +1,17 @@
+{
+  "name": "Psychic Lindsey",
+  "team": [
+    {
+      "species": "abra",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "calm",
+      "ability": "synchronize",
+      "moveset": [
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

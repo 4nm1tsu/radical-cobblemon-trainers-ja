@@ -1,0 +1,36 @@
+{
+  "name": "Twins Teri \u0026 Tia",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "growl",
+        "quickattack",
+        "lightscreen"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "clefairy",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "defensecurl",
+        "lifedew",
+        "followme"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

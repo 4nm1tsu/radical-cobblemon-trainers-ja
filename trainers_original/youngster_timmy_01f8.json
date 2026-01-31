@@ -1,0 +1,71 @@
+{
+  "name": "Youngster Timmy",
+  "team": [
+    {
+      "species": "raticate",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "mild",
+      "ability": "guts",
+      "moveset": [
+        "hyperfang",
+        "pursuit",
+        "zenheadbutt",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "naughty",
+      "ability": "shedskin",
+      "moveset": [
+        "suckerpunch",
+        "stockpile",
+        "swallow",
+        "spitup"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "sniper",
+      "moveset": [
+        "confuseray",
+        "aircutter",
+        "meanlook",
+        "poisonfang"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

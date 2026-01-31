@@ -1,0 +1,49 @@
+{
+  "name": "Hiker Earl",
+  "team": [
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "quiet",
+      "ability": "rockhead",
+      "moveset": [
+        "irontail",
+        "dig",
+        "stoneedge",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "quirky",
+      "ability": "guts",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

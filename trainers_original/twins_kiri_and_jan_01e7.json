@@ -1,0 +1,50 @@
+{
+  "name": "Twins Kiri \u0026 Jan",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "cinderace",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "headbutt",
+        "counter",
+        "bounce",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "inteleon",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "mild",
+      "ability": "torrent",
+      "moveset": [
+        "uturn",
+        "liquidation",
+        "soak",
+        "raindance"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

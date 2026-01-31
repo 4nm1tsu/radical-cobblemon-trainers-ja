@@ -1,0 +1,93 @@
+{
+  "name": "Mega Trainer Sterling",
+  "team": [
+    {
+      "species": "meganium",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "calm",
+      "ability": "grassysurge",
+      "moveset": [
+        "solarbeam",
+        "earthpower",
+        "gigadrain",
+        "naturepower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 4,
+        "spd": 252
+      },
+      "heldItem": [
+        "quick_claw"
+      ]
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "modest",
+      "ability": "thickfat",
+      "moveset": [
+        "solarbeam",
+        "earthpower",
+        "naturepower",
+        "weatherball"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "mega_showdown:venusaurite",
+        "leftovers"
+      ]
+    },
+    {
+      "species": "shiftry",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "mild",
+      "ability": "chlorophyll",
+      "moveset": [
+        "solarbeam",
+        "darkpulse",
+        "heatwave",
+        "brickbreak"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    }
+  ]
+}

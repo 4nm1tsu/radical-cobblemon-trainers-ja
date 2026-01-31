@@ -1,0 +1,27 @@
+{
+  "name": "Bug Catcher Garret",
+  "team": [
+    {
+      "species": "heracross",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "takedown",
+        "megahorn",
+        "closecombat",
+        "reversal"
+      ],
+      "ivs": {
+        "hp": 1,
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "evs": {}
+    }
+  ]
+}

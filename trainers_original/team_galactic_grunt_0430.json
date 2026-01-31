@@ -1,0 +1,21 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (19)",
+  "team": [
+    {
+      "species": "glameow",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "docile",
+      "ability": "owntempo",
+      "moveset": [
+        "aerialace",
+        "charm",
+        "taunt",
+        "slash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

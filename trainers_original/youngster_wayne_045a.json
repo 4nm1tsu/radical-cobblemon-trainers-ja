@@ -1,0 +1,50 @@
+{
+  "name": "Youngster Wayne",
+  "team": [
+    {
+      "species": "bidoof",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "docile",
+      "ability": "unaware",
+      "moveset": [
+        "growl",
+        "defensecurl",
+        "rollout",
+        "headbutt"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zubat",
+      "gender": "FEMALE",
+      "level": 14,
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "meanlook"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aipom",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "docile",
+      "ability": "runaway",
+      "moveset": [
+        "sandattack",
+        "astonish",
+        "batonpass",
+        "tickle"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (30)",
+  "team": [
+    {
+      "species": "stunky",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "docile",
+      "ability": "aftermath",
+      "moveset": [
+        "venoshock",
+        "toxic",
+        "memento",
+        "nightslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "serious",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "astonish",
+        "poisonfang",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

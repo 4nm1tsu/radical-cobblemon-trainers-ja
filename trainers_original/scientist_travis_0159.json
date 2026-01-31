@@ -1,0 +1,49 @@
+{
+  "name": "Scientist Travis",
+  "team": [
+    {
+      "species": "kabutops",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "brave",
+      "ability": "sharpness",
+      "moveset": [
+        "endure",
+        "aquajet",
+        "megadrain",
+        "metalsound"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "omastar",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "brine",
+        "detect",
+        "ancientpower",
+        "meteorbeam"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

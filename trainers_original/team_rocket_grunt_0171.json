@@ -1,0 +1,72 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (23)",
+  "team": [
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "brave",
+      "ability": "sniper",
+      "moveset": [
+        "poisonfang",
+        "leechlife",
+        "dualwingbeat",
+        "haze"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "shiftry",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "naive",
+      "ability": "earlybird",
+      "moveset": [
+        "nastyplot",
+        "fakeout",
+        "leaftornado",
+        "hurricane"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "luxray",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "gentle",
+      "ability": "intimidate",
+      "moveset": [
+        "roar",
+        "swagger",
+        "thunderfang",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

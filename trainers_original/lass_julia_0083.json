@@ -1,0 +1,49 @@
+{
+  "name": "Lass Julia",
+  "team": [
+    {
+      "species": "clefairy",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "mild",
+      "ability": "magicguard",
+      "moveset": [
+        "wish",
+        "storedpower",
+        "metronome",
+        "cosmicpower"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "munna",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "calm",
+      "ability": "synchronize",
+      "moveset": [
+        "zenheadbutt",
+        "synchronoise",
+        "nightmare",
+        "futuresight"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

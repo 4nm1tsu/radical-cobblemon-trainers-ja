@@ -1,0 +1,35 @@
+{
+  "name": "Fisher Miguel",
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "raindance",
+        "hydropump",
+        "hurricane"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

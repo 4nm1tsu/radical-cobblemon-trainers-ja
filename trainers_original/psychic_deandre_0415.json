@@ -1,0 +1,20 @@
+{
+  "name": "Psychic Deandre",
+  "team": [
+    {
+      "species": "girafarig",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "hardy",
+      "ability": "innerfocus",
+      "moveset": [
+        "stomp",
+        "agility",
+        "zenheadbutt",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

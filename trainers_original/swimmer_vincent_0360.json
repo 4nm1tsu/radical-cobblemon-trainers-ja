@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Vincent",
+  "team": [
+    {
+      "species": "pelipper",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "relaxed",
+      "ability": "drizzle",
+      "moveset": [
+        "airslash",
+        "waterpulse",
+        "stockpile",
+        "swallow"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "whiscash",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "tickle",
+        "rest",
+        "snore",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Idol Grace",
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "thundershock",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "clefairy",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "calm",
+      "ability": "cutecharm",
+      "moveset": [
+        "sing",
+        "disarmingvoice",
+        "encore",
+        "charm"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

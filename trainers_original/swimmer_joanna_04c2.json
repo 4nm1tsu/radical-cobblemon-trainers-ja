@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Joanna",
+  "team": [
+    {
+      "species": "luvdisc",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "calm",
+      "ability": "swiftswim",
+      "moveset": [
+        "aquaring",
+        "flail",
+        "brine",
+        "attract"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "lapras",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "modest",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icebeam",
+        "brine",
+        "confuseray",
+        "iceshard"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

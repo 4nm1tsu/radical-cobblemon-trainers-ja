@@ -1,0 +1,20 @@
+{
+  "name": "Double Team Jo",
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

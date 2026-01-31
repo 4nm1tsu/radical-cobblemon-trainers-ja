@@ -1,0 +1,33 @@
+{
+  "name": "Scientist Shaun",
+  "team": [
+    {
+      "species": "abra",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "teleport",
+        "energyball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "kadabra",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "disable",
+        "psybeam",
+        "reflect"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

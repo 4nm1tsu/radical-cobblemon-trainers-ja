@@ -1,0 +1,65 @@
+{
+  "name": "Veteran Edgar",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "sassy",
+      "ability": "clearbody",
+      "moveset": [
+        "reflecttype",
+        "bubblebeam",
+        "acidarmor",
+        "poisonjab"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golem",
+      "gender": "FEMALE",
+      "level": 45,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "sandstorm",
+        "smackdown",
+        "heavyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "empoleon",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "brine",
+        "aquajet",
+        "metalclaw",
+        "swordsdance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

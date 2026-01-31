@@ -1,0 +1,49 @@
+{
+  "name": "Rival Terry",
+  "team": [
+    {
+      "species": "starly",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "mild",
+      "ability": "frisk",
+      "moveset": [
+        "tackle",
+        "growl",
+        "quickattack",
+        "wingattack"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "charmander",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "growl",
+        "falseswipe",
+        "ember",
+        "brickbreak"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

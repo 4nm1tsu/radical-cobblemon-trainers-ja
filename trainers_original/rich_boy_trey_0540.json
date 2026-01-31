@@ -1,0 +1,20 @@
+{
+  "name": "Rich Boy Trey",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "spark",
+        "thunderwave",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

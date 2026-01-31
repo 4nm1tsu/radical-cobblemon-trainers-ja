@@ -1,0 +1,49 @@
+{
+  "name": "Pokémaniac Herman",
+  "team": [
+    {
+      "species": "lickitung",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "hardy",
+      "ability": "owntempo",
+      "moveset": [
+        "stomp",
+        "disable",
+        "slam",
+        "rollout"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "raboot",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "relaxed",
+      "ability": "blaze",
+      "moveset": [
+        "suckerpunch",
+        "mudshot",
+        "agility",
+        "headbutt"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Beauty Cyndy",
+  "team": [
+    {
+      "species": "glameow",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "scratch",
+        "growl",
+        "aerialace",
+        "furyswipes"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

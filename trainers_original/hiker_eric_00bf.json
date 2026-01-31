@@ -1,0 +1,49 @@
+{
+  "name": "Hiker Eric",
+  "team": [
+    {
+      "species": "hariyama",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "knockoff",
+        "vitalthrow",
+        "bellydrum",
+        "smellingsalts"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "gligar",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "hardy",
+      "ability": "hypercutter",
+      "moveset": [
+        "feintattack",
+        "acrobatics",
+        "slash",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

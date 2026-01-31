@@ -1,0 +1,50 @@
+{
+  "name": "Ninja Boy Zach",
+  "team": [
+    {
+      "species": "zubat",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "astonish",
+        "poisonfang",
+        "aircutter"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "astonish",
+        "poisonfang",
+        "aircutter"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "astonish",
+        "poisonfang",
+        "aircutter"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

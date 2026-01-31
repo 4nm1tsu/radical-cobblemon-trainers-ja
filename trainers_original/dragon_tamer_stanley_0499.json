@@ -1,0 +1,50 @@
+{
+  "name": "Dragon Tamer Stanley",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "seadra",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "sassy",
+      "ability": "poisonpoint",
+      "moveset": [
+        "dragonpulse",
+        "hydropump",
+        "agility",
+        "focusenergy"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "hyperbeam",
+        "waterfall",
+        "thrash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

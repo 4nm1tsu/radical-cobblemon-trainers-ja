@@ -1,0 +1,93 @@
+{
+  "name": "Juggler Kirk",
+  "team": [
+    {
+      "species": "electrode",
+      "gender": "GENDERLESS",
+      "level": 63,
+      "nature": "bold",
+      "ability": "soundproof",
+      "moveset": [
+        "explosion",
+        "gyroball",
+        "mirrorcoat",
+        "courtchange"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "incineroar",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "flamethrower",
+        "scaryface",
+        "flareblitz",
+        "outrage"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "appletun",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "mild",
+      "ability": "ripen",
+      "moveset": [
+        "bodyslam",
+        "irondefense",
+        "dragonpulse",
+        "energyball"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "ariados",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "impish",
+      "ability": "swarm",
+      "moveset": [
+        "gunkshot",
+        "megahorn",
+        "stickyweb",
+        "toxicthread"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

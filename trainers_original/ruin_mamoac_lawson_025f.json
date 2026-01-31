@@ -1,0 +1,71 @@
+{
+  "name": "Ruin Mamoac Lawson",
+  "team": [
+    {
+      "species": "onix",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "lonely",
+      "ability": "rockhead",
+      "moveset": [
+        "sandtomb",
+        "irontail",
+        "dig",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "naughty",
+      "ability": "rockhead",
+      "moveset": [
+        "stealthrock",
+        "rockblast",
+        "earthquake",
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "marowak",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "fling",
+        "stompingtantrum",
+        "endeavor"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

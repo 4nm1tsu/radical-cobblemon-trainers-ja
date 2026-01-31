@@ -1,0 +1,20 @@
+{
+  "name": "Black Belt Jarrett",
+  "team": [
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 59,
+      "nature": "careful",
+      "ability": "noguard",
+      "moveset": [
+        "dynamicpunch",
+        "bulkup",
+        "knockoff",
+        "focusenergy"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

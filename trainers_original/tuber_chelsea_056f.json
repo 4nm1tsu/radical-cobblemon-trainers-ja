@@ -1,0 +1,20 @@
+{
+  "name": "Tuber Chelsea",
+  "team": [
+    {
+      "species": "bibarel",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "aquajet",
+        "crunch",
+        "superfang",
+        "superpower"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

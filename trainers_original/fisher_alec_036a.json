@@ -1,0 +1,34 @@
+{
+  "name": "Fisher Alec",
+  "team": [
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

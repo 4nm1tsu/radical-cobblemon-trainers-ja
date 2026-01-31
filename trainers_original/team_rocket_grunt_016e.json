@@ -1,0 +1,72 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (20)",
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "impish",
+      "ability": "sandveil",
+      "moveset": [
+        "sandtomb",
+        "slash",
+        "dig",
+        "gyroball"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "arbok",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "adamant",
+      "ability": "shedskin",
+      "moveset": [
+        "swallow",
+        "spitup",
+        "poisonfang",
+        "coil"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "excadrill",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "careful",
+      "ability": "sandforce",
+      "moveset": [
+        "slash",
+        "rockslide",
+        "earthquake",
+        "swordsdance"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

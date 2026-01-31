@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer Colton",
+  "team": [
+    {
+      "species": "wingull",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "hardy",
+      "ability": "hydration",
+      "moveset": [
+        "quickattack",
+        "waterpulse",
+        "airslash",
+        "mist"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "quagsire",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "raindance",
+        "mudshot",
+        "yawn",
+        "muddywater"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pelipper",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "relaxed",
+      "ability": "drizzle",
+      "moveset": [
+        "tailwind",
+        "wingattack",
+        "waterpulse",
+        "stockpile"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

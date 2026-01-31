@@ -1,0 +1,27 @@
+{
+  "name": "Psychic Preston",
+  "team": [
+    {
+      "species": "bronzong",
+      "gender": "GENDERLESS",
+      "level": 54,
+      "nature": "adamant",
+      "ability": "heatproof",
+      "moveset": [
+        "gyroball",
+        "extrasensory",
+        "payback",
+        "healblock"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

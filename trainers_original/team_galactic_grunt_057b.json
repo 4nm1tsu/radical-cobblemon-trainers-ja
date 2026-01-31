@@ -1,0 +1,51 @@
+{
+  "name": "Team Galactic Grunt",
+  "identity": "Team Galactic Grunt (43)",
+  "team": [
+    {
+      "species": "zubat",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "serious",
+      "ability": "innerfocus",
+      "moveset": [
+        "supersonic",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "zubat",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "bashful",
+      "ability": "innerfocus",
+      "moveset": [
+        "poisonfang",
+        "quickguard",
+        "aircutter",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golbat",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

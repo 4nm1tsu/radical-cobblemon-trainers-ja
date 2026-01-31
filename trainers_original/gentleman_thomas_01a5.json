@@ -1,0 +1,49 @@
+{
+  "name": "Gentleman Thomas",
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "flamewheel",
+        "reversal",
+        "firefang",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "litleo",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "naive",
+      "ability": "rivalry",
+      "moveset": [
+        "headbutt",
+        "nobleroar",
+        "takedown",
+        "firefang"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Cue Ball Corey",
+  "team": [
+    {
+      "species": "huntail",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "coil",
+        "crunch",
+        "waterfall",
+        "shellsmash"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "nidoking",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "lonely",
+      "ability": "rivalry",
+      "moveset": [
+        "poisonsting",
+        "chipaway",
+        "thrash",
+        "earthpower"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

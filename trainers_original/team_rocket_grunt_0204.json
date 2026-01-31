@@ -1,0 +1,50 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (46)",
+  "team": [
+    {
+      "species": "houndour",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "hardy",
+      "ability": "flashfire",
+      "moveset": [
+        "embargo",
+        "foulplay",
+        "flamethrower",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "houndour",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "hardy",
+      "ability": "flashfire",
+      "moveset": [
+        "embargo",
+        "foulplay",
+        "flamethrower",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

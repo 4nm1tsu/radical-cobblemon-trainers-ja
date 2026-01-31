@@ -1,0 +1,77 @@
+{
+  "name": "Fisher Andrew",
+  "team": [
+    {
+      "species": "magikarp",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magikarp",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 10,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magikarp",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "magikarp",
+      "gender": "FEMALE",
+      "level": 10,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

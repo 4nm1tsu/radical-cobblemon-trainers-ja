@@ -1,0 +1,20 @@
+{
+  "name": "School Kid Esteban",
+  "team": [
+    {
+      "species": "wooper",
+      "gender": "FEMALE",
+      "level": 23,
+      "nature": "naive",
+      "ability": "damp",
+      "moveset": [
+        "tailwhip",
+        "mudshot",
+        "slam",
+        "yawn"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

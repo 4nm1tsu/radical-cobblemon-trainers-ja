@@ -1,0 +1,50 @@
+{
+  "name": "Rancher Marco",
+  "team": [
+    {
+      "species": "ambipom",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "sandattack",
+        "screech",
+        "doublehit",
+        "fling"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "hasty",
+      "ability": "cloudnine",
+      "moveset": [
+        "aquajet",
+        "confusion",
+        "waterpulse",
+        "soak"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "girafarig",
+      "gender": "MALE",
+      "level": 38,
+      "nature": "naive",
+      "ability": "innerfocus",
+      "moveset": [
+        "growl",
+        "stomp",
+        "psybeam",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

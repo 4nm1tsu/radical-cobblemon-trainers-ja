@@ -1,0 +1,49 @@
+{
+  "name": "Bird Keeper Beck",
+  "team": [
+    {
+      "species": "pelipper",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "hardy",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "tailwind",
+        "hydropump",
+        "hurricane"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "staravia",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "takedown",
+        "agility",
+        "bravebird",
+        "finalgambit"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

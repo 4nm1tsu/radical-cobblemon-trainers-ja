@@ -1,0 +1,49 @@
+{
+  "name": "Pokémaniac Steve",
+  "team": [
+    {
+      "species": "braixen",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "mild",
+      "ability": "blaze",
+      "moveset": [
+        "psybeam",
+        "firespin",
+        "luckychant",
+        "lightscreen"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "cubone",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "relaxed",
+      "ability": "battlearmor",
+      "moveset": [
+        "rage",
+        "falseswipe",
+        "thrash",
+        "fling"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

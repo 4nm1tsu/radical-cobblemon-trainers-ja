@@ -1,0 +1,49 @@
+{
+  "name": "Juggler Nate",
+  "team": [
+    {
+      "species": "skuntank",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "careful",
+      "ability": "stench",
+      "moveset": [
+        "venomdrench",
+        "suckerpunch",
+        "belch",
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "tentacruel",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "careful",
+      "ability": "clearbody",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Youngster Johnson",
+  "team": [
+    {
+      "species": "arbok",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "docile",
+      "ability": "shedskin",
+      "moveset": [
+        "jawlock",
+        "belch",
+        "haze",
+        "gunkshot"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "grimmsnarl",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "relaxed",
+      "ability": "frisk",
+      "moveset": [
+        "nastyplot",
+        "playrough",
+        "foulplay",
+        "hammerarm"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "krookodile",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "calm",
+      "ability": "moxie",
+      "moveset": [
+        "foulplay",
+        "sandstorm",
+        "earthquake",
+        "wickedblow"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

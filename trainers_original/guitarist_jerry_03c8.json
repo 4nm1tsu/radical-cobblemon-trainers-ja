@@ -1,0 +1,20 @@
+{
+  "name": "Guitarist Jerry",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "bite",
+        "spark",
+        "irontail"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Police Officer Caleb",
+  "team": [
+    {
+      "species": "hoothoot",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "sassy",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "confusion",
+        "reflect",
+        "psychoshift"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "meditite",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "confusion",
+        "detect",
+        "feint",
+        "forcepalm"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Pokémon Breeder Amber",
+  "team": [
+    {
+      "species": "cleffa",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "calm",
+      "ability": "cutecharm",
+      "moveset": [
+        "copycat",
+        "sing",
+        "sweetkiss",
+        "disarmingvoice"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "clefairy",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "calm",
+      "ability": "cutecharm",
+      "moveset": [
+        "sweetkiss",
+        "disarmingvoice",
+        "encore",
+        "copycat"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "happiny",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "calm",
+      "ability": "serenegrace",
+      "moveset": [
+        "copycat",
+        "sweetkiss",
+        "disarmingvoice",
+        "covet"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

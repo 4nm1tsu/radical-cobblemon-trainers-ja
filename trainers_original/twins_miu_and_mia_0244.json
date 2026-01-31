@@ -1,0 +1,50 @@
+{
+  "name": "Twins Miu \u0026 Mia",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "extremespeed",
+        "thunderbolt",
+        "agility",
+        "wildcharge"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "extremespeed",
+        "thunderbolt",
+        "agility",
+        "wildcharge"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

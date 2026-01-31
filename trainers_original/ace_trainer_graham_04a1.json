@@ -1,0 +1,35 @@
+{
+  "name": "Ace Trainer Graham",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "skarmory",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "relaxed",
+      "ability": "keeneye",
+      "moveset": [
+        "bravebird",
+        "steelwing",
+        "autotomize",
+        "metalsound"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "School Kid Harrison",
+  "team": [
+    {
+      "species": "abra",
+      "gender": "MALE",
+      "level": 6,
+      "nature": "hasty",
+      "ability": "synchronize",
+      "moveset": [
+        "chargebeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

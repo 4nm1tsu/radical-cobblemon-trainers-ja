@@ -1,0 +1,20 @@
+{
+  "name": "Pokémon Ranger Dwayne",
+  "team": [
+    {
+      "species": "donphan",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "gigaimpact",
+        "scaryface",
+        "rocktomb"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

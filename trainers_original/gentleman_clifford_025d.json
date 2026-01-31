@@ -1,0 +1,49 @@
+{
+  "name": "Gentleman Clifford",
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "lonely",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "fling",
+        "stompingtantrum",
+        "endeavor"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "golduck",
+      "gender": "FEMALE",
+      "level": 49,
+      "nature": "calm",
+      "ability": "swiftswim",
+      "moveset": [
+        "psychic",
+        "psychup",
+        "nastyplot",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

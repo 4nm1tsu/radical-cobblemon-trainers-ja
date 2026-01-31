@@ -1,0 +1,32 @@
+{
+  "name": "Bug Catcher Brandon",
+  "team": [
+    {
+      "species": "kricketot",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "timid",
+      "ability": "shedskin",
+      "moveset": [
+        "growl",
+        "pound",
+        "strugglebug",
+        "bugbite"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "silcoon",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "timid",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

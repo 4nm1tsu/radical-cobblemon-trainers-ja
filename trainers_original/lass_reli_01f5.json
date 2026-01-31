@@ -1,0 +1,49 @@
+{
+  "name": "Lass Reli",
+  "team": [
+    {
+      "species": "pidgey",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "impish",
+      "ability": "frisk",
+      "moveset": [
+        "gust",
+        "quickattack",
+        "takedown",
+        "whirlwind"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "nidoranf",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "rash",
+      "ability": "poisontouch",
+      "moveset": [
+        "tailwhip",
+        "doublekick",
+        "poisonsting",
+        "furyswipes"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Hiker Dudley",
+  "team": [
+    {
+      "species": "lairon",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "magnitude",
+        "metalclaw",
+        "irondefense",
+        "roar"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "ferroseed",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "careful",
+      "ability": "ironbarbs",
+      "moveset": [
+        "magnitude",
+        "spikes",
+        "bulletseed",
+        "gyroball"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "dwebble",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "hardy",
+      "ability": "sturdy",
+      "moveset": [
+        "magnitude",
+        "rockslide",
+        "bugbite"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

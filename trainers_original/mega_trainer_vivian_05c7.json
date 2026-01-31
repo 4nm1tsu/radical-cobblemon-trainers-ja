@@ -1,0 +1,64 @@
+{
+  "name": "Mega Trainer Vivian",
+  "team": [
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 52,
+      "nature": "jolly",
+      "ability": "limber",
+      "moveset": [
+        "closecombat",
+        "blazekick",
+        "rockslide",
+        "wideguard"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "black_belt"
+      ]
+    },
+    {
+      "species": "lopunny",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "adamant",
+      "ability": "scrappy",
+      "moveset": [
+        "dizzypunch",
+        "jumpkick",
+        "thunderpunch",
+        "fakeout"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:lopunnite",
+        "life_orb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Dragon Tamer Hayden",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swablu",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "modest",
+      "ability": "naturalcure",
+      "moveset": [
+        "dragonbreath",
+        "moonblast",
+        "round",
+        "perishsong"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "altaria",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "adamant",
+      "ability": "naturalcure",
+      "moveset": [
+        "dragondance",
+        "skyattack",
+        "takedown",
+        "pluck"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

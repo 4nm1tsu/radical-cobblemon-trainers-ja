@@ -1,0 +1,35 @@
+{
+  "name": "Worker Dillan",
+  "team": [
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "strength"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "knockoff",
+        "scaryface",
+        "strength"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

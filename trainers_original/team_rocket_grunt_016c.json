@@ -1,0 +1,72 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (18)",
+  "team": [
+    {
+      "species": "fearow",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "bashful",
+      "ability": "technician",
+      "moveset": [
+        "agility",
+        "dualwingbeat",
+        "roost",
+        "drillpeck"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "obstagoon",
+      "gender": "MALE",
+      "level": 43,
+      "nature": "quiet",
+      "ability": "guts",
+      "moveset": [
+        "partingshot",
+        "takedown",
+        "scaryface",
+        "counter"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "runerigus",
+      "gender": "FEMALE",
+      "level": 42,
+      "nature": "lonely",
+      "ability": "mummy",
+      "moveset": [
+        "hex",
+        "meanlook",
+        "slam",
+        "curse"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

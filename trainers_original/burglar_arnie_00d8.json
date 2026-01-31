@@ -1,0 +1,49 @@
+{
+  "name": "Burglar Arnie",
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "slash",
+        "flamethrower",
+        "firespin",
+        "inferno"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "delphox",
+      "gender": "FEMALE",
+      "level": 69,
+      "nature": "rash",
+      "ability": "blaze",
+      "moveset": [
+        "wish",
+        "psychic",
+        "sunnyday",
+        "magicroom"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fisher Walter",
+  "team": [
+    {
+      "species": "barboach",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "jolly",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "waterpulse",
+        "aquatail",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

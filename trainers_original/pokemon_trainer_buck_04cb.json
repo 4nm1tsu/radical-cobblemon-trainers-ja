@@ -1,0 +1,43 @@
+{
+  "name": "Pokémon Trainer Buck",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "claydol",
+      "gender": "GENDERLESS",
+      "level": 58,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "ancientpower",
+        "cosmicpower",
+        "extrasensory",
+        "earthpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spd": 31
+      },
+      "evs": {
+        "hp": 172,
+        "def": 168,
+        "spd": 168
+      }
+    }
+  ]
+}

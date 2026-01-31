@@ -1,0 +1,33 @@
+{
+  "name": "Lass Madeline",
+  "team": [
+    {
+      "species": "staravia",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "endeavor",
+        "aerialace"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bibarel",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "aquajet",
+        "headbutt",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

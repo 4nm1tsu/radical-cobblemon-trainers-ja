@@ -1,0 +1,49 @@
+{
+  "name": "Hiker Clark",
+  "team": [
+    {
+      "species": "boldore",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "careful",
+      "ability": "weakarmor",
+      "moveset": [
+        "magnitude",
+        "rockthrow",
+        "stealthrock",
+        "smackdown"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "mawile",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "lonely",
+      "ability": "intimidate",
+      "moveset": [
+        "harden",
+        "sweetscent",
+        "visegrip",
+        "feintattack"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

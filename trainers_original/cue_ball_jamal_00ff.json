@@ -1,0 +1,93 @@
+{
+  "name": "Cue Ball Jamal",
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "FEMALE",
+      "level": 55,
+      "nature": "sassy",
+      "ability": "sheerforce",
+      "moveset": [
+        "crunch",
+        "chipaway",
+        "slash",
+        "screech"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "fireblast",
+        "bounce",
+        "flareblitz",
+        "jumpkick"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "obstagoon",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "docile",
+      "ability": "guts",
+      "moveset": [
+        "scaryface",
+        "counter",
+        "taunt",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "dodrio",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "relaxed",
+      "ability": "earlybird",
+      "moveset": [
+        "jumpkick",
+        "doubleedge",
+        "endeavor",
+        "thrash"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

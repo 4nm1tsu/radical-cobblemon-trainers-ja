@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Maya",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "purugly",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "growl",
+        "aerialace",
+        "retaliate",
+        "bodyslam"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "alakazam",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "reflect",
+        "allyswitch",
+        "recover",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

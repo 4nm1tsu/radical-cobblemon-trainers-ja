@@ -1,0 +1,49 @@
+{
+  "name": "Psychic Tyron",
+  "team": [
+    {
+      "species": "mrmime",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "modest",
+      "ability": "solidrock",
+      "moveset": [
+        "taunt",
+        "psychic",
+        "roleplay",
+        "safeguard"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "kadabra",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "recover",
+        "psychic",
+        "roleplay",
+        "futuresight"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

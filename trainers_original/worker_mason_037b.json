@@ -1,0 +1,20 @@
+{
+  "name": "Worker Mason",
+  "team": [
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "naive",
+      "ability": "guts",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "focusenergy",
+        "revenge"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

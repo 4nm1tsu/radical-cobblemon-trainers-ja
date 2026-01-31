@@ -1,0 +1,109 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (9)",
+  "team": [
+    {
+      "species": "persian",
+      "gender": "MALE",
+      "level": 89,
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "snarl",
+        "waterpulse",
+        "partingshot",
+        "shockwave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "black_glasses"
+      ],
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "golbat",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "naive",
+      "ability": "sniper",
+      "moveset": [
+        "megadrain",
+        "crosspoison",
+        "aircutter",
+        "hiddenpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 30
+      },
+      "evs": {},
+      "heldItem": [
+        "eviolite"
+      ]
+    },
+    {
+      "species": "raticate",
+      "gender": "FEMALE",
+      "level": 89,
+      "nature": "jolly",
+      "ability": "hustle",
+      "moveset": [
+        "hyperfang",
+        "stompingtantrum",
+        "throatchop",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "silk_scarf"
+      ]
+    },
+    {
+      "species": "octillery",
+      "gender": "FEMALE",
+      "level": 92,
+      "nature": "rash",
+      "ability": "skilllink",
+      "moveset": [
+        "bulletseed",
+        "rockblast",
+        "waterpulse",
+        "icywind"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": [
+        "rindo_berry"
+      ]
+    }
+  ]
+}

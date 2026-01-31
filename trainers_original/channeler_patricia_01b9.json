@@ -1,0 +1,27 @@
+{
+  "name": "Channeler Patricia",
+  "team": [
+    {
+      "species": "haunter",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "confuseray",
+        "suckerpunch",
+        "shadowball"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Hiker Daniel",
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "rockpolish",
+        "rollout"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "focusenergy",
+        "revenge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "rockpolish",
+        "rollout"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bidoof",
+      "gender": "MALE",
+      "level": 11,
+      "nature": "hardy",
+      "ability": "unaware",
+      "moveset": [
+        "tackle",
+        "growl",
+        "defensecurl",
+        "rollout"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

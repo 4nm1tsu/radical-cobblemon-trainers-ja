@@ -1,0 +1,36 @@
+{
+  "name": "Double Team Jen \u0026 Zac",
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thunderpunch",
+        "nuzzle",
+        "thunderbolt",
+        "lightscreen"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "twister",
+        "waterfall",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

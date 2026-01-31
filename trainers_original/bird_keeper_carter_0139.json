@@ -1,0 +1,71 @@
+{
+  "name": "Bird Keeper Carter",
+  "team": [
+    {
+      "species": "vibrava",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "docile",
+      "ability": "levitate",
+      "moveset": [
+        "sandstorm",
+        "wingattack",
+        "hyperbeam",
+        "boomburst"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "cramorant",
+      "gender": "FEMALE",
+      "level": 56,
+      "nature": "relaxed",
+      "ability": "gulpmissile",
+      "moveset": [
+        "drillpeck",
+        "amnesia",
+        "surf",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "talonflame",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "acrobatics",
+        "dualwingbeat",
+        "mefirst",
+        "tailwind"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

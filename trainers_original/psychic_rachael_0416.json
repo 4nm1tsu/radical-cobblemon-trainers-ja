@@ -1,0 +1,20 @@
+{
+  "name": "Psychic Rachael",
+  "team": [
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "tailwhip",
+        "confusion",
+        "furyswipes",
+        "waterpulse"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

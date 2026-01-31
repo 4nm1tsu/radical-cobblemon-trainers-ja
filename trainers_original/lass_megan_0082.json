@@ -1,0 +1,115 @@
+{
+  "name": "Lass Megan",
+  "team": [
+    {
+      "species": "magby",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "hasty",
+      "ability": "magmaarmor",
+      "moveset": [
+        "flameburst",
+        "confuseray",
+        "firepunch",
+        "lavaplume"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "smoochum",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "quiet",
+      "ability": "forewarn",
+      "moveset": [
+        "meanlook",
+        "faketears",
+        "luckychant",
+        "avalanche"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "comfey",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "bold",
+      "ability": "triage",
+      "moveset": [
+        "petalblizzard",
+        "synthesis",
+        "sweetscent",
+        "grassknot"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "elekid",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "lightscreen",
+        "thunderpunch",
+        "discharge",
+        "screech"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "kirlia",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "modest",
+      "ability": "trace",
+      "moveset": [
+        "drainingkiss",
+        "calmmind",
+        "psychic",
+        "imprison"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}

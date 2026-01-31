@@ -1,0 +1,19 @@
+{
+  "name": "Youngster Logan",
+  "team": [
+    {
+      "species": "shinx",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "thundershock"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

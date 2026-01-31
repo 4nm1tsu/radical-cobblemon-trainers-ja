@@ -1,0 +1,35 @@
+{
+  "name": "Ruin Maniac Gerald",
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rockpolish",
+        "rollout"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bronzor",
+      "gender": "GENDERLESS",
+      "level": 17,
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "imprison",
+        "gyroball"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

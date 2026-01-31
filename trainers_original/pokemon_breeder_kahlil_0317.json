@@ -1,0 +1,50 @@
+{
+  "name": "Pokémon Breeder Kahlil",
+  "team": [
+    {
+      "species": "pichu",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "playnice",
+        "nuzzle"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "quickattack",
+        "doubleteam",
+        "electroball"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "happiny",
+      "gender": "FEMALE",
+      "level": 17,
+      "nature": "sassy",
+      "ability": "serenegrace",
+      "moveset": [
+        "minimize",
+        "sweetkiss",
+        "disarmingvoice",
+        "covet"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Pokémon Breeder Jennifer",
+  "team": [
+    {
+      "species": "mrmime",
+      "gender": "FEMALE",
+      "level": 37,
+      "nature": "timid",
+      "ability": "filter",
+      "moveset": [
+        "pound",
+        "encore",
+        "psybeam",
+        "reflect"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "roselia",
+      "gender": "FEMALE",
+      "level": 36,
+      "nature": "hasty",
+      "ability": "poisonpoint",
+      "moveset": [
+        "poisonsting",
+        "leechseed",
+        "magicalleaf",
+        "gigadrain"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "clefairy",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "hasty",
+      "ability": "cutecharm",
+      "moveset": [
+        "charm",
+        "pound",
+        "moonlight",
+        "meteormash"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

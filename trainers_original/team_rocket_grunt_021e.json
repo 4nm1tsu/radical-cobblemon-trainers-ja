@@ -1,0 +1,50 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (52)",
+  "team": [
+    {
+      "species": "hypno",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "docile",
+      "ability": "forewarn",
+      "moveset": [
+        "psychup",
+        "synchronoise",
+        "psychic",
+        "swagger"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "hypno",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "serious",
+      "ability": "forewarn",
+      "moveset": [
+        "psychup",
+        "synchronoise",
+        "psychic",
+        "swagger"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

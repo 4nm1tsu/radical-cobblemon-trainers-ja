@@ -1,0 +1,19 @@
+{
+  "name": "Youngster Tristan",
+  "team": [
+    {
+      "species": "starly",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "growl",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

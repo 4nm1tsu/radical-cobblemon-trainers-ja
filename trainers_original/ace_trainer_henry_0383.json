@@ -1,0 +1,35 @@
+{
+  "name": "Ace Trainer Henry",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "honchkrow",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "hardy",
+      "ability": "insomnia",
+      "moveset": [
+        "astonish",
+        "wingattack",
+        "swagger",
+        "foulplay"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

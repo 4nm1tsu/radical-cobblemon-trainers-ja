@@ -1,0 +1,50 @@
+{
+  "name": "Ace Trainer Alyssa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:fine_remedy",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "ponyta",
+      "gender": "FEMALE",
+      "level": 27,
+      "nature": "careful",
+      "ability": "runaway",
+      "moveset": [
+        "growl",
+        "tailwhip",
+        "ember",
+        "flamewheel"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "grotle",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "impish",
+      "ability": "overgrow",
+      "moveset": [
+        "razorleaf",
+        "curse",
+        "bite",
+        "megadrain"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Commander Mars",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:super_potion",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "zubat",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 15,
+        "def": 15,
+        "spd": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "purugly",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "fakeout",
+        "scratch",
+        "growl",
+        "thief"
+      ],
+      "ivs": {
+        "hp": 15,
+        "def": 15,
+        "spd": 15
+      },
+      "evs": {},
+      "heldItem": [
+        "oran_berry"
+      ]
+    }
+  ]
+}

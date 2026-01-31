@@ -1,0 +1,71 @@
+{
+  "name": "Bird Keeper Marlon",
+  "team": [
+    {
+      "species": "fearow",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "modest",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "drillpeck",
+        "drillrun",
+        "bravebird"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "dodrio",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "uproar",
+        "swordsdance",
+        "jumpkick",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "fearow",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "brave",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "drillpeck",
+        "drillrun",
+        "bravebird"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

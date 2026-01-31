@@ -1,0 +1,27 @@
+{
+  "name": "Engineer Braxton",
+  "team": [
+    {
+      "species": "yamper",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "impish",
+      "ability": "pickup",
+      "moveset": [
+        "bite",
+        "roar",
+        "spark",
+        "charm"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

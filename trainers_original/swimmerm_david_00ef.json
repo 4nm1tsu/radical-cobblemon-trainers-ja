@@ -1,0 +1,71 @@
+{
+  "name": "Swimmer♂ David",
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 62,
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "hurricane",
+        "raindance",
+        "hyperbeam"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "dewgong",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "gentle",
+      "ability": "icescales",
+      "moveset": [
+        "takedown",
+        "dive",
+        "aquatail",
+        "safeguard"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "lanturn",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "naughty",
+      "ability": "illuminate",
+      "moveset": [
+        "hydropump",
+        "iondeluge",
+        "paraboliccharge",
+        "charge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

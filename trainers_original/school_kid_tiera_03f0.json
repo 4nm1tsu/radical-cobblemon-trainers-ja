@@ -1,0 +1,20 @@
+{
+  "name": "School Kid Tiera",
+  "team": [
+    {
+      "species": "pachirisu",
+      "gender": "FEMALE",
+      "level": 44,
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "charm",
+        "spark",
+        "nuzzle",
+        "dig"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

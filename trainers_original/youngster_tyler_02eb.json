@@ -1,0 +1,31 @@
+{
+  "name": "Youngster Tyler",
+  "team": [
+    {
+      "species": "magikarp",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "naive",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "starly",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "docile",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "growl",
+        "quickattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

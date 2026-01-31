@@ -1,0 +1,48 @@
+{
+  "name": "Biker Gerald",
+  "team": [
+    {
+      "species": "breloom",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "adamant",
+      "ability": "effectspore",
+      "moveset": [
+        "smokescreen",
+        "machpunch",
+        "spore",
+        "drainpunch"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "copperajah",
+      "gender": "FEMALE",
+      "level": 57,
+      "nature": "impish",
+      "ability": "heavymetal",
+      "moveset": [
+        "screech",
+        "gyroball",
+        "highhorsepower"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

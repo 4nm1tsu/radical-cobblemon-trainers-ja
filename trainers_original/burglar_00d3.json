@@ -1,0 +1,28 @@
+{
+  "name": "Burglar",
+  "identity": "Burglar (1)",
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "takedown",
+        "flameburst",
+        "agility",
+        "retaliate"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

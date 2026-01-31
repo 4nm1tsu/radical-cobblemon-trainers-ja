@@ -1,0 +1,130 @@
+{
+  "name": "Ace Trainer Michelle",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:superb_remedy",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "persian",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "modest",
+      "ability": "limber",
+      "moveset": [
+        "slash",
+        "screech",
+        "feintattack",
+        "bite"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "dewgong",
+      "gender": "FEMALE",
+      "level": 47,
+      "nature": "timid",
+      "ability": "thickfat",
+      "moveset": [
+        "icebeam",
+        "takedown",
+        "icywind",
+        "growl"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "ninetales",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "brave",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "confuseray",
+        "willowisp",
+        "grudge"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "mild",
+      "ability": "reckless",
+      "moveset": [
+        "bounce",
+        "agility",
+        "firespin",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "girafarig",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "hasty",
+      "ability": "sapsipper",
+      "moveset": [
+        "crunch",
+        "psybeam",
+        "stomp",
+        "odorsleuth"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    }
+  ]
+}

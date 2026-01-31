@@ -1,0 +1,20 @@
+{
+  "name": "Double Team Pat",
+  "team": [
+    {
+      "species": "medicham",
+      "gender": "MALE",
+      "level": 47,
+      "nature": "bashful",
+      "ability": "purepower",
+      "moveset": [
+        "zenheadbutt",
+        "firepunch",
+        "forcepalm",
+        "recover"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

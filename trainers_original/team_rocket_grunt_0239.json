@@ -1,0 +1,72 @@
+{
+  "name": "Team Rocket Grunt",
+  "identity": "Team Rocket Grunt (55)",
+  "team": [
+    {
+      "species": "ekans",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "jolly",
+      "ability": "shedskin",
+      "moveset": [
+        "coil",
+        "jawlock",
+        "belch",
+        "haze"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "gloom",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "careful",
+      "ability": "chlorophyll",
+      "moveset": [
+        "moonlight",
+        "gigadrain",
+        "toxic",
+        "naturalgift"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "gloom",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "quirky",
+      "ability": "chlorophyll",
+      "moveset": [
+        "moonlight",
+        "gigadrain",
+        "toxic",
+        "naturalgift"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    }
+  ]
+}

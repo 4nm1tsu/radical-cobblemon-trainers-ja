@@ -1,0 +1,49 @@
+{
+  "name": "Gambler Darian",
+  "team": [
+    {
+      "species": "growlithe",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "flamewheel",
+        "reversal",
+        "firefang",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "gulpin",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "brave",
+      "ability": "liquidooze",
+      "moveset": [
+        "amnesia",
+        "acidspray",
+        "encore",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

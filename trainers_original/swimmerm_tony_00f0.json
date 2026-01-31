@@ -1,0 +1,49 @@
+{
+  "name": "Swimmer♂ Tony",
+  "team": [
+    {
+      "species": "seadra",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "bold",
+      "ability": "poisontouch",
+      "moveset": [
+        "agility",
+        "dragonpulse",
+        "dragondance",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "samurott",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "jolly",
+      "ability": "torrent",
+      "moveset": [
+        "swordsdance",
+        "hydropump",
+        "sacredsword",
+        "razorshell"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ]
+}

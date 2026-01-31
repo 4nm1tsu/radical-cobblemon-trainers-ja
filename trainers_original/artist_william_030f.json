@@ -1,0 +1,35 @@
+{
+  "name": "Artist William",
+  "team": [
+    {
+      "species": "mimejr",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "bold",
+      "ability": "filter",
+      "moveset": [
+        "copycat",
+        "encore",
+        "confusion",
+        "roleplay"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "bonsly",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "faketears",
+        "copycat",
+        "flail",
+        "mimic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

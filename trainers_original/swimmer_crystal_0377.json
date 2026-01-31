@@ -1,0 +1,35 @@
+{
+  "name": "Swimmer Crystal",
+  "team": [
+    {
+      "species": "wingull",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "timid",
+      "ability": "hydration",
+      "moveset": [
+        "growl",
+        "waterpulse",
+        "agility",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "seaking",
+      "gender": "MALE",
+      "level": 41,
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "peck",
+        "hornattack",
+        "flail",
+        "waterfall"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

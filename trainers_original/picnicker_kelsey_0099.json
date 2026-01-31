@@ -1,0 +1,49 @@
+{
+  "name": "Picnicker Kelsey",
+  "team": [
+    {
+      "species": "nidorino",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "jolly",
+      "ability": "poisontouch",
+      "moveset": [
+        "peck",
+        "focusenergy",
+        "doublekick",
+        "poisonsting"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "cherubi",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "calm",
+      "ability": "chlorophyll",
+      "moveset": [
+        "leechseed",
+        "helpinghand",
+        "sleeppowder",
+        "magicalleaf"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    }
+  ]
+}
