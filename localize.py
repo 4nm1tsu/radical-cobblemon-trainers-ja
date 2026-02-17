@@ -35,14 +35,6 @@ def normalize_name(name: str):
     return None, None, name
 
 
-def get_trainer_gender(trainer: dict):
-    for p in trainer.get("team", []):
-        g = p.get("gender")
-        if g in ("MALE", "FEMALE"):
-            return g
-    return None
-
-
 # =========================
 # Core
 # =========================
@@ -77,13 +69,10 @@ def localize_name(original_name: str, trainer: dict) -> str | None:
 
     title_entry = TITLE_MAP.get(title)
 
-    # ---- 性別分岐 ----
+    # ---- Gender handling (legacy): if dict, prefer male or first entry ----
     if isinstance(title_entry, dict):
-        gender = norm_gender or get_trainer_gender(trainer)
-        if not gender or gender not in title_entry:
-            print(f"[skip] gender unknown: {original_name}")
-            return None
-        jp_title = title_entry[gender]
+        # Prefer "MALE" if present, otherwise fallback to the first value
+        jp_title = title_entry.get("MALE") or next(iter(title_entry.values()))
     else:
         jp_title = title_entry
 
